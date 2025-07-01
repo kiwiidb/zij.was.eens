@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vrouwengeschiedenis"
+title: "Georgette Ciselet"
 date: 2022-08-21 16:19:26
 ---
 

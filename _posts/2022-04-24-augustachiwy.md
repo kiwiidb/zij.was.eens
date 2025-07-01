@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AugustaChiwy"
+title: "Augusta Chiwy"
 date: 2022-04-24 15:03:57
 ---
 

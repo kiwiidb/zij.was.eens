@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GermaineVanParys"
+title: "Germaine Van Parys"
 date: 2022-08-19 07:35:42
 ---
 

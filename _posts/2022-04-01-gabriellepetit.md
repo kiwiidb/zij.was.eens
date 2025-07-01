@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GabriellePetit"
+title: "Gabrielle Petit"
 date: 2022-04-01 10:30:52
 ---
 

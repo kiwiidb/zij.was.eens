@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vrouwengeschiedenis"
+title: "Betty Depelsenaire"
 date: 2022-08-23 16:49:33
 ---
 

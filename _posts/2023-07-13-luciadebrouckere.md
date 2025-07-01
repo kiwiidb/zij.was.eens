@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LuciaDeBrouckere"
+title: "Lucia De Brouckere"
 date: 2023-07-13 19:02:56
 ---
 

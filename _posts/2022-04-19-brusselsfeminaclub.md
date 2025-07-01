@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BrusselsFeminaClub"
+title: "Brussels Femina Club"
 date: 2022-04-19 08:33:52
 ---
 
