@@ -2,6 +2,7 @@
 layout: post
 title: "Mala Zimetbaum"
 date: 2024-09-15 18:46:05
+header_image: /zij.was.eens/images/C_8etaGt8Z__0.webp
 ---
 
 # C_8etaGt8Z_

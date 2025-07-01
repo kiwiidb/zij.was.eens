@@ -7,12 +7,8 @@ title: Home
     {% for post in site.posts %}
         <article class="post-card">
             <a href="{{ post.url | relative_url }}" class="post-link">
-                {% assign post_images = site.static_files | where: "path", post.url %}
-                {% assign image_name = post.title | append: "_0.webp" %}
-                {% assign image_path = "/images/" | append: image_name %}
-                
                 <div class="post-image">
-                    <img src="{{ image_path | relative_url }}" alt="{{ post.title }}" loading="lazy">
+                    <img src="{{ post.header_image | relative_url }}" alt="{{ post.title }}" loading="lazy">
                 </div>
                 
                 <div class="post-content">

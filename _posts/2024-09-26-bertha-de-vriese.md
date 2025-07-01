@@ -2,6 +2,7 @@
 layout: post
 title: "Bertha De Vriese"
 date: 2024-09-26 12:28:21
+header_image: /zij.was.eens/images/DAYIOe7tRxu_0.webp
 ---
 
 # DAYIOe7tRxu
