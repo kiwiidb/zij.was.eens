@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MarieZachritz"
+title: "Marie Zachritz"
 date: 2025-04-20 21:45:53
 ---
 
@@ -10,11 +10,11 @@ date: 2025-04-20 21:45:53
 
 ## Images
 
-![Image](../images/DIrjyRPinpl_0.webp)
+![Image](/zij.was.eens/images/DIrjyRPinpl_0.webp)
 
-![Image](../images/DIrjyRPinpl_1.webp)
+![Image](/zij.was.eens/images/DIrjyRPinpl_1.webp)
 
-![Image](../images/DIrjyRPinpl_2.webp)
+![Image](/zij.was.eens/images/DIrjyRPinpl_2.webp)
 
 ## Caption
 

@@ -10,11 +10,11 @@ date: 2025-02-03 16:04:21
 
 ## Images
 
-![Image](../images/DFnXJwHNkes_0.webp)
+![Image](/zij.was.eens/images/DFnXJwHNkes_0.webp)
 
-![Image](../images/DFnXJwHNkes_1.webp)
+![Image](/zij.was.eens/images/DFnXJwHNkes_1.webp)
 
-![Image](../images/DFnXJwHNkes_2.webp)
+![Image](/zij.was.eens/images/DFnXJwHNkes_2.webp)
 
 ## Caption
 

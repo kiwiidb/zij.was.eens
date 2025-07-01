@@ -10,9 +10,9 @@ date: 2022-03-30 09:39:24
 
 ## Images
 
-![Image](../images/CbuEt-RqZjt_0.jpg)
+![Image](/zij.was.eens/images/CbuEt-RqZjt_0.jpg)
 
-![Image](../images/CbuEt-RqZjt_1.jpg)
+![Image](/zij.was.eens/images/CbuEt-RqZjt_1.jpg)
 
 ## Caption
 

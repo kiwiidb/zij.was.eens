@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MadeleineLey"
+title: "Madeleine Ley"
 date: 2025-05-05 14:08:45
 ---
 
@@ -10,13 +10,13 @@ date: 2025-05-05 14:08:45
 
 ## Images
 
-![Image](../images/DJRXZOeN6ax_0.webp)
+![Image](/zij.was.eens/images/DJRXZOeN6ax_0.webp)
 
-![Image](../images/DJRXZOeN6ax_1.webp)
+![Image](/zij.was.eens/images/DJRXZOeN6ax_1.webp)
 
-![Image](../images/DJRXZOeN6ax_2.webp)
+![Image](/zij.was.eens/images/DJRXZOeN6ax_2.webp)
 
-![Image](../images/DJRXZOeN6ax_3.webp)
+![Image](/zij.was.eens/images/DJRXZOeN6ax_3.webp)
 
 ## Caption
 

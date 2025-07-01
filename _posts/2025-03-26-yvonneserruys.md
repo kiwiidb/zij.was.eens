@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "YvonneSerruys"
+title: "Yvonne Serruys"
 date: 2025-03-26 20:33:39
 ---
 
@@ -10,15 +10,15 @@ date: 2025-03-26 20:33:39
 
 ## Images
 
-![Image](../images/DHrKgy2NN4t_0.webp)
+![Image](/zij.was.eens/images/DHrKgy2NN4t_0.webp)
 
-![Image](../images/DHrKgy2NN4t_1.webp)
+![Image](/zij.was.eens/images/DHrKgy2NN4t_1.webp)
 
-![Image](../images/DHrKgy2NN4t_2.webp)
+![Image](/zij.was.eens/images/DHrKgy2NN4t_2.webp)
 
-![Image](../images/DHrKgy2NN4t_3.webp)
+![Image](/zij.was.eens/images/DHrKgy2NN4t_3.webp)
 
-![Image](../images/DHrKgy2NN4t_4.webp)
+![Image](/zij.was.eens/images/DHrKgy2NN4t_4.webp)
 
 ## Caption
 

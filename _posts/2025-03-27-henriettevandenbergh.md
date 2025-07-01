@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HenrietteVandenBergh"
+title: "Henriette Van den Bergh"
 date: 2025-03-27 19:40:03
 ---
 
@@ -10,11 +10,11 @@ date: 2025-03-27 19:40:03
 
 ## Images
 
-![Image](../images/DHtpK_pNPZV_0.webp)
+![Image](/zij.was.eens/images/DHtpK_pNPZV_0.webp)
 
-![Image](../images/DHtpK_pNPZV_1.webp)
+![Image](/zij.was.eens/images/DHtpK_pNPZV_1.webp)
 
-![Image](../images/DHtpK_pNPZV_2.webp)
+![Image](/zij.was.eens/images/DHtpK_pNPZV_2.webp)
 
 ## Caption
 

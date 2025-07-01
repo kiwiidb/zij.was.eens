@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EmmaLambotte"
+title: "Emma Lambotte"
 date: 2025-03-18 15:21:44
 ---
 
@@ -10,13 +10,13 @@ date: 2025-03-18 15:21:44
 
 ## Images
 
-![Image](../images/DHWAdMBo0iY_0.webp)
+![Image](/zij.was.eens/images/DHWAdMBo0iY_0.webp)
 
-![Image](../images/DHWAdMBo0iY_1.webp)
+![Image](/zij.was.eens/images/DHWAdMBo0iY_1.webp)
 
-![Image](../images/DHWAdMBo0iY_2.webp)
+![Image](/zij.was.eens/images/DHWAdMBo0iY_2.webp)
 
-![Image](../images/DHWAdMBo0iY_3.webp)
+![Image](/zij.was.eens/images/DHWAdMBo0iY_3.webp)
 
 ## Caption
 

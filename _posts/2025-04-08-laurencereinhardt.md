@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LaurenceReinhardt"
+title: "Laurence Reinhardt"
 date: 2025-04-08 16:11:17
 ---
 
@@ -10,7 +10,7 @@ date: 2025-04-08 16:11:17
 
 ## Images
 
-![Image](../images/DIMD9FPNgb6_0.webp)
+![Image](/zij.was.eens/images/DIMD9FPNgb6_0.webp)
 
 ## Caption
 

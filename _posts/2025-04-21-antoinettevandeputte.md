@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AntoinetteVandeputte"
+title: "Antoinette Vandeputte"
 date: 2025-04-21 19:25:48
 ---
 
@@ -10,13 +10,13 @@ date: 2025-04-21 19:25:48
 
 ## Images
 
-![Image](../images/DIt4jIut76Y_0.webp)
+![Image](/zij.was.eens/images/DIt4jIut76Y_0.webp)
 
-![Image](../images/DIt4jIut76Y_1.webp)
+![Image](/zij.was.eens/images/DIt4jIut76Y_1.webp)
 
-![Image](../images/DIt4jIut76Y_2.webp)
+![Image](/zij.was.eens/images/DIt4jIut76Y_2.webp)
 
-![Image](../images/DIt4jIut76Y_3.webp)
+![Image](/zij.was.eens/images/DIt4jIut76Y_3.webp)
 
 ## Caption
 

@@ -10,11 +10,11 @@ date: 2025-04-17 14:02:17
 
 ## Images
 
-![Image](../images/DIjAWF2NDj__0.webp)
+![Image](/zij.was.eens/images/DIjAWF2NDj__0.webp)
 
-![Image](../images/DIjAWF2NDj__1.webp)
+![Image](/zij.was.eens/images/DIjAWF2NDj__1.webp)
 
-![Image](../images/DIjAWF2NDj__2.webp)
+![Image](/zij.was.eens/images/DIjAWF2NDj__2.webp)
 
 ## Caption
 

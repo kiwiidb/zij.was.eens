@@ -10,9 +10,9 @@ date: 2025-05-10 17:44:02
 
 ## Images
 
-![Image](../images/DJeoAUHoNjq_0.webp)
+![Image](/zij.was.eens/images/DJeoAUHoNjq_0.webp)
 
-![Image](../images/DJeoAUHoNjq_1.webp)
+![Image](/zij.was.eens/images/DJeoAUHoNjq_1.webp)
 
 ## Caption
 

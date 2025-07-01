@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MargueriteAcarin"
+title: "Marguerite Acarin"
 date: 2025-03-30 10:10:23
 ---
 
@@ -10,13 +10,13 @@ date: 2025-03-30 10:10:23
 
 ## Images
 
-![Image](../images/DH0PfzxtBsz_0.webp)
+![Image](/zij.was.eens/images/DH0PfzxtBsz_0.webp)
 
-![Image](../images/DH0PfzxtBsz_1.webp)
+![Image](/zij.was.eens/images/DH0PfzxtBsz_1.webp)
 
-![Image](../images/DH0PfzxtBsz_2.webp)
+![Image](/zij.was.eens/images/DH0PfzxtBsz_2.webp)
 
-![Image](../images/DH0PfzxtBsz_3.webp)
+![Image](/zij.was.eens/images/DH0PfzxtBsz_3.webp)
 
 ## Caption
 

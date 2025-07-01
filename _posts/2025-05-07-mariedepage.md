@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MarieDepage"
+title: "Marie Depage"
 date: 2025-05-07 15:24:01
 ---
 
@@ -10,13 +10,13 @@ date: 2025-05-07 15:24:01
 
 ## Images
 
-![Image](../images/DJWpmOltIt4_0.webp)
+![Image](/zij.was.eens/images/DJWpmOltIt4_0.webp)
 
-![Image](../images/DJWpmOltIt4_1.webp)
+![Image](/zij.was.eens/images/DJWpmOltIt4_1.webp)
 
-![Image](../images/DJWpmOltIt4_2.webp)
+![Image](/zij.was.eens/images/DJWpmOltIt4_2.webp)
 
-![Image](../images/DJWpmOltIt4_3.webp)
+![Image](/zij.was.eens/images/DJWpmOltIt4_3.webp)
 
 ## Caption
 

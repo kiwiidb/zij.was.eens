@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AdelineDudlay"
+title: "Adeline Dudlay"
 date: 2025-04-22 08:42:10
 ---
 
@@ -10,13 +10,13 @@ date: 2025-04-22 08:42:10
 
 ## Images
 
-![Image](../images/DIvTr2ltNZY_0.webp)
+![Image](/zij.was.eens/images/DIvTr2ltNZY_0.webp)
 
-![Image](../images/DIvTr2ltNZY_1.webp)
+![Image](/zij.was.eens/images/DIvTr2ltNZY_1.webp)
 
-![Image](../images/DIvTr2ltNZY_2.webp)
+![Image](/zij.was.eens/images/DIvTr2ltNZY_2.webp)
 
-![Image](../images/DIvTr2ltNZY_3.webp)
+![Image](/zij.was.eens/images/DIvTr2ltNZY_3.webp)
 
 ## Caption
 

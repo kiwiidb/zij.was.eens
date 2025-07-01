@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OctavieBelloy"
+title: "Octavie Belloy"
 date: 2025-03-12 11:44:02
 ---
 
@@ -10,9 +10,9 @@ date: 2025-03-12 11:44:02
 
 ## Images
 
-![Image](../images/DHGKxePNuYj_0.webp)
+![Image](/zij.was.eens/images/DHGKxePNuYj_0.webp)
 
-![Image](../images/DHGKxePNuYj_1.webp)
+![Image](/zij.was.eens/images/DHGKxePNuYj_1.webp)
 
 ## Caption
 

@@ -10,9 +10,9 @@ date: 2024-01-15 09:13:56
 
 ## Images
 
-![Image](../images/C2HSI0pNLMi_0.webp)
+![Image](/zij.was.eens/images/C2HSI0pNLMi_0.webp)
 
-![Image](../images/C2HSI0pNLMi_1.jpg)
+![Image](/zij.was.eens/images/C2HSI0pNLMi_1.jpg)
 
 ## Caption
 

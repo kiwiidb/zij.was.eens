@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FernandaCaroen"
+title: "Fernanda Caroen"
 date: 2025-04-16 08:32:45
 ---
 
@@ -10,15 +10,15 @@ date: 2025-04-16 08:32:45
 
 ## Images
 
-![Image](../images/DIf11sON7T__0.webp)
+![Image](/zij.was.eens/images/DIf11sON7T__0.webp)
 
-![Image](../images/DIf11sON7T__1.webp)
+![Image](/zij.was.eens/images/DIf11sON7T__1.webp)
 
-![Image](../images/DIf11sON7T__2.webp)
+![Image](/zij.was.eens/images/DIf11sON7T__2.webp)
 
-![Image](../images/DIf11sON7T__3.webp)
+![Image](/zij.was.eens/images/DIf11sON7T__3.webp)
 
-![Image](../images/DIf11sON7T__4.webp)
+![Image](/zij.was.eens/images/DIf11sON7T__4.webp)
 
 ## Caption
 

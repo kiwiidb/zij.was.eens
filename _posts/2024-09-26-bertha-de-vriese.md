@@ -10,7 +10,7 @@ date: 2024-09-26 12:28:21
 
 ## Images
 
-![Image](../images/DAYIOe7tRxu_0.webp)
+![Image](/zij.was.eens/images/DAYIOe7tRxu_0.webp)
 
 ## Caption
 

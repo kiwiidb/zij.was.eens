@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MarieCamargo"
+title: "Marie Camargo"
 date: 2025-04-15 08:45:15
 ---
 
@@ -10,9 +10,9 @@ date: 2025-04-15 08:45:15
 
 ## Images
 
-![Image](../images/DIdSeVOtkC6_0.webp)
+![Image](/zij.was.eens/images/DIdSeVOtkC6_0.webp)
 
-![Image](../images/DIdSeVOtkC6_1.webp)
+![Image](/zij.was.eens/images/DIdSeVOtkC6_1.webp)
 
 ## Caption
 

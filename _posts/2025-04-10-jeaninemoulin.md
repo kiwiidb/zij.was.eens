@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JeanineMoulin"
+title: "Jeanine Moulin"
 date: 2025-04-10 14:05:11
 ---
 
@@ -10,7 +10,7 @@ date: 2025-04-10 14:05:11
 
 ## Images
 
-![Image](../images/DIQ_HORtei2_0.webp)
+![Image](/zij.was.eens/images/DIQ_HORtei2_0.webp)
 
 ## Caption
 

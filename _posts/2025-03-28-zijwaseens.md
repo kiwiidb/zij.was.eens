@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZijWasEens"
+title: "Claire Préaux"
 date: 2025-03-28 21:47:57
 ---
 
@@ -10,11 +10,11 @@ date: 2025-03-28 21:47:57
 
 ## Images
 
-![Image](../images/DHwcmtINuDm_0.webp)
+![Image](/zij.was.eens/images/DHwcmtINuDm_0.webp)
 
-![Image](../images/DHwcmtINuDm_1.webp)
+![Image](/zij.was.eens/images/DHwcmtINuDm_1.webp)
 
-![Image](../images/DHwcmtINuDm_2.webp)
+![Image](/zij.was.eens/images/DHwcmtINuDm_2.webp)
 
 ## Caption
 

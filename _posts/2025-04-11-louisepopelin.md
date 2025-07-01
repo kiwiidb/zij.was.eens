@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LouisePopelin"
+title: "Louise Popelin"
 date: 2025-04-11 21:42:01
 ---
 
@@ -10,11 +10,11 @@ date: 2025-04-11 21:42:01
 
 ## Images
 
-![Image](../images/DIUYL_dt_uF_0.webp)
+![Image](/zij.was.eens/images/DIUYL_dt_uF_0.webp)
 
-![Image](../images/DIUYL_dt_uF_1.webp)
+![Image](/zij.was.eens/images/DIUYL_dt_uF_1.webp)
 
-![Image](../images/DIUYL_dt_uF_2.webp)
+![Image](/zij.was.eens/images/DIUYL_dt_uF_2.webp)
 
 ## Caption
 

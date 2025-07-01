@@ -10,7 +10,7 @@ date: 2022-08-23 16:49:33
 
 ## Images
 
-![Image](../images/ChmyAOvqRRK_0.jpg)
+![Image](/zij.was.eens/images/ChmyAOvqRRK_0.jpg)
 
 ## Caption
 

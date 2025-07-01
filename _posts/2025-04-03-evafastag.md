@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EvaFastag"
+title: "Eva Fastag"
 date: 2025-04-03 14:37:00
 ---
 
@@ -10,9 +10,9 @@ date: 2025-04-03 14:37:00
 
 ## Images
 
-![Image](../images/DH_BMIktlTF_0.webp)
+![Image](/zij.was.eens/images/DH_BMIktlTF_0.webp)
 
-![Image](../images/DH_BMIktlTF_1.webp)
+![Image](/zij.was.eens/images/DH_BMIktlTF_1.webp)
 
 ## Caption
 

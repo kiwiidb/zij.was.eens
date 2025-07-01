@@ -10,7 +10,7 @@ date: 2023-10-26 15:02:48
 
 ## Images
 
-![Image](../images/Cy3Ozubtv_g_0.webp)
+![Image](/zij.was.eens/images/Cy3Ozubtv_g_0.webp)
 
 ## Caption
 

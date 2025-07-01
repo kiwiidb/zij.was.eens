@@ -10,9 +10,9 @@ date: 2022-08-18 10:08:44
 
 ## Images
 
-![Image](../images/ChZMKNKK1rd_0.jpg)
+![Image](/zij.was.eens/images/ChZMKNKK1rd_0.jpg)
 
-![Image](../images/ChZMKNKK1rd_1.jpg)
+![Image](/zij.was.eens/images/ChZMKNKK1rd_1.jpg)
 
 ## Caption
 

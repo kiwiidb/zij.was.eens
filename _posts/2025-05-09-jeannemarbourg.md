@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JeanneMarbourg"
+title: "Jeanne Marbourg"
 date: 2025-05-09 22:02:59
 ---
 
@@ -10,13 +10,13 @@ date: 2025-05-09 22:02:59
 
 ## Images
 
-![Image](../images/DJcg2FGNnCH_0.webp)
+![Image](/zij.was.eens/images/DJcg2FGNnCH_0.webp)
 
-![Image](../images/DJcg2FGNnCH_1.webp)
+![Image](/zij.was.eens/images/DJcg2FGNnCH_1.webp)
 
-![Image](../images/DJcg2FGNnCH_2.webp)
+![Image](/zij.was.eens/images/DJcg2FGNnCH_2.webp)
 
-![Image](../images/DJcg2FGNnCH_3.webp)
+![Image](/zij.was.eens/images/DJcg2FGNnCH_3.webp)
 
 ## Caption
 

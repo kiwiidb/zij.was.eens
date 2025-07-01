@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ElsieMaryBell"
+title: "Elsie Mary Bell"
 date: 2025-03-25 09:54:42
 ---
 
@@ -10,9 +10,9 @@ date: 2025-03-25 09:54:42
 
 ## Images
 
-![Image](../images/DHncmDNtzJ9_0.webp)
+![Image](/zij.was.eens/images/DHncmDNtzJ9_0.webp)
 
-![Image](../images/DHncmDNtzJ9_1.webp)
+![Image](/zij.was.eens/images/DHncmDNtzJ9_1.webp)
 
 ## Caption
 

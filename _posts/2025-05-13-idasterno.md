@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IdaSterno"
+title: "Ida Sterno"
 date: 2025-05-13 14:18:03
 ---
 
@@ -10,9 +10,9 @@ date: 2025-05-13 14:18:03
 
 ## Images
 
-![Image](../images/DJl-0RQtmYo_0.webp)
+![Image](/zij.was.eens/images/DJl-0RQtmYo_0.webp)
 
-![Image](../images/DJl-0RQtmYo_1.webp)
+![Image](/zij.was.eens/images/DJl-0RQtmYo_1.webp)
 
 ## Caption
 

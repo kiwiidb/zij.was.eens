@@ -10,9 +10,9 @@ date: 2025-04-28 16:05:39
 
 ## Images
 
-![Image](../images/DI_jNPgoplD_0.webp)
+![Image](/zij.was.eens/images/DI_jNPgoplD_0.webp)
 
-![Image](../images/DI_jNPgoplD_1.webp)
+![Image](/zij.was.eens/images/DI_jNPgoplD_1.webp)
 
 ## Caption
 

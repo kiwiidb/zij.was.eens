@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JeanneDeckers"
+title: "Jeanne Deckers"
 date: 2025-03-29 19:37:46
 ---
 
@@ -10,11 +10,11 @@ date: 2025-03-29 19:37:46
 
 ## Images
 
-![Image](../images/DHyygFstKyM_0.webp)
+![Image](/zij.was.eens/images/DHyygFstKyM_0.webp)
 
-![Image](../images/DHyygFstKyM_1.webp)
+![Image](/zij.was.eens/images/DHyygFstKyM_1.webp)
 
-![Image](../images/DHyygFstKyM_2.webp)
+![Image](/zij.was.eens/images/DHyygFstKyM_2.webp)
 
 ## Caption
 

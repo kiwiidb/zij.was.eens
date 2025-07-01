@@ -10,7 +10,7 @@ date: 2023-07-13 19:02:56
 
 ## Images
 
-![Image](../images/CupS0matJZf_0.jpg)
+![Image](/zij.was.eens/images/CupS0matJZf_0.jpg)
 
 ## Caption
 

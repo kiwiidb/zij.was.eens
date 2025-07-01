@@ -10,13 +10,13 @@ date: 2022-04-01 10:30:52
 
 ## Images
 
-![Image](../images/CbzUMofqyp8_0.jpg)
+![Image](/zij.was.eens/images/CbzUMofqyp8_0.jpg)
 
-![Image](../images/CbzUMofqyp8_1.jpg)
+![Image](/zij.was.eens/images/CbzUMofqyp8_1.jpg)
 
-![Image](../images/CbzUMofqyp8_2.jpg)
+![Image](/zij.was.eens/images/CbzUMofqyp8_2.jpg)
 
-![Image](../images/CbzUMofqyp8_3.jpg)
+![Image](/zij.was.eens/images/CbzUMofqyp8_3.jpg)
 
 ## Caption
 

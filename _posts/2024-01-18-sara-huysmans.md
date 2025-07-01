@@ -10,7 +10,7 @@ date: 2024-01-18 13:03:14
 
 ## Images
 
-![Image](../images/C2Paw_BNTT6_0.webp)
+![Image](/zij.was.eens/images/C2Paw_BNTT6_0.webp)
 
 ## Caption
 

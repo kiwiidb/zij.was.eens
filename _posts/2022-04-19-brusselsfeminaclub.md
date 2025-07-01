@@ -10,11 +10,11 @@ date: 2022-04-19 08:33:52
 
 ## Images
 
-![Image](../images/CchdHdaqC8W_0.jpg)
+![Image](/zij.was.eens/images/CchdHdaqC8W_0.jpg)
 
-![Image](../images/CchdHdaqC8W_1.jpg)
+![Image](/zij.was.eens/images/CchdHdaqC8W_1.jpg)
 
-![Image](../images/CchdHdaqC8W_2.jpg)
+![Image](/zij.was.eens/images/CchdHdaqC8W_2.jpg)
 
 ## Caption
 

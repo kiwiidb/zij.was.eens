@@ -10,9 +10,9 @@ date: 2022-08-16 14:38:13
 
 ## Images
 
-![Image](../images/ChUhaLNKsSV_0.jpg)
+![Image](/zij.was.eens/images/ChUhaLNKsSV_0.jpg)
 
-![Image](../images/ChUhaLNKsSV_1.jpg)
+![Image](/zij.was.eens/images/ChUhaLNKsSV_1.jpg)
 
 ## Caption
 

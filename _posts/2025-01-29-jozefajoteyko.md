@@ -10,9 +10,9 @@ date: 2025-01-29 10:51:35
 
 ## Images
 
-![Image](../images/DFZ7YhbNSty_0.webp)
+![Image](/zij.was.eens/images/DFZ7YhbNSty_0.webp)
 
-![Image](../images/DFZ7YhbNSty_1.webp)
+![Image](/zij.was.eens/images/DFZ7YhbNSty_1.webp)
 
 ## Caption
 

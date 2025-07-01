@@ -10,13 +10,13 @@ date: 2025-04-13 18:08:25
 
 ## Images
 
-![Image](../images/DIZJVYgtMtB_0.webp)
+![Image](/zij.was.eens/images/DIZJVYgtMtB_0.webp)
 
-![Image](../images/DIZJVYgtMtB_1.webp)
+![Image](/zij.was.eens/images/DIZJVYgtMtB_1.webp)
 
-![Image](../images/DIZJVYgtMtB_2.webp)
+![Image](/zij.was.eens/images/DIZJVYgtMtB_2.webp)
 
-![Image](../images/DIZJVYgtMtB_3.webp)
+![Image](/zij.was.eens/images/DIZJVYgtMtB_3.webp)
 
 ## Caption
 

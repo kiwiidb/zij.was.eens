@@ -10,9 +10,9 @@ date: 2022-04-24 15:03:57
 
 ## Images
 
-![Image](../images/CcvBu23q7ee_0.jpg)
+![Image](/zij.was.eens/images/CcvBu23q7ee_0.jpg)
 
-![Image](../images/CcvBu23q7ee_1.jpg)
+![Image](/zij.was.eens/images/CcvBu23q7ee_1.jpg)
 
 ## Caption
 

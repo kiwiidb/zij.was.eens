@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZijWasEens"
+title: "Thérèse Goldschmidt "
 date: 2025-03-13 11:13:53
 ---
 
@@ -10,7 +10,7 @@ date: 2025-03-13 11:13:53
 
 ## Images
 
-![Image](../images/DHIsHiGt7i5_0.webp)
+![Image](/zij.was.eens/images/DHIsHiGt7i5_0.webp)
 
 ## Caption
 

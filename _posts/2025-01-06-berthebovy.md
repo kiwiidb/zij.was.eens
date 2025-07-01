@@ -10,7 +10,7 @@ date: 2025-01-06 13:11:54
 
 ## Images
 
-![Image](../images/DEe9KLlN6rj_0.webp)
+![Image](/zij.was.eens/images/DEe9KLlN6rj_0.webp)
 
 ## Caption
 

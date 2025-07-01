@@ -10,7 +10,7 @@ date: 2025-02-05 18:30:45
 
 ## Images
 
-![Image](../images/DFsxftPtXAi_0.webp)
+![Image](/zij.was.eens/images/DFsxftPtXAi_0.webp)
 
 ## Caption
 

@@ -10,11 +10,11 @@ date: 2022-08-19 07:35:42
 
 ## Images
 
-![Image](../images/ChbfcI_KCJE_0.jpg)
+![Image](/zij.was.eens/images/ChbfcI_KCJE_0.jpg)
 
-![Image](../images/ChbfcI_KCJE_1.jpg)
+![Image](/zij.was.eens/images/ChbfcI_KCJE_1.jpg)
 
-![Image](../images/ChbfcI_KCJE_2.jpg)
+![Image](/zij.was.eens/images/ChbfcI_KCJE_2.jpg)
 
 ## Caption
 

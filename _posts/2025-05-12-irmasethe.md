@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IrmaSethe"
+title: "Irma Sèthe"
 date: 2025-05-12 09:32:59
 ---
 
@@ -10,11 +10,11 @@ date: 2025-05-12 09:32:59
 
 ## Images
 
-![Image](../images/DJi5Zj3t1uM_0.webp)
+![Image](/zij.was.eens/images/DJi5Zj3t1uM_0.webp)
 
-![Image](../images/DJi5Zj3t1uM_1.webp)
+![Image](/zij.was.eens/images/DJi5Zj3t1uM_1.webp)
 
-![Image](../images/DJi5Zj3t1uM_2.webp)
+![Image](/zij.was.eens/images/DJi5Zj3t1uM_2.webp)
 
 ## Caption
 

@@ -10,9 +10,9 @@ date: 2023-09-06 12:36:22
 
 ## Images
 
-![Image](../images/Cw2OTaXt9UM_0.jpg)
+![Image](/zij.was.eens/images/Cw2OTaXt9UM_0.jpg)
 
-![Image](../images/Cw2OTaXt9UM_1.jpg)
+![Image](/zij.was.eens/images/Cw2OTaXt9UM_1.jpg)
 
 ## Caption
 

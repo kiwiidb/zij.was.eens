@@ -10,7 +10,7 @@ date: 2024-09-15 18:46:05
 
 ## Images
 
-![Image](../images/C_8etaGt8Z__0.webp)
+![Image](/zij.was.eens/images/C_8etaGt8Z__0.webp)
 
 ## Caption
 

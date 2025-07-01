@@ -10,11 +10,11 @@ date: 2025-03-11 10:18:22
 
 ## Images
 
-![Image](../images/DHDcLJct_q-_0.webp)
+![Image](/zij.was.eens/images/DHDcLJct_q-_0.webp)
 
-![Image](../images/DHDcLJct_q-_1.webp)
+![Image](/zij.was.eens/images/DHDcLJct_q-_1.webp)
 
-![Image](../images/DHDcLJct_q-_2.webp)
+![Image](/zij.was.eens/images/DHDcLJct_q-_2.webp)
 
 ## Caption
 

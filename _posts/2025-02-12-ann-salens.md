@@ -10,13 +10,13 @@ date: 2025-02-12 09:05:06
 
 ## Images
 
-![Image](../images/DF9yU4VN6us_0.webp)
+![Image](/zij.was.eens/images/DF9yU4VN6us_0.webp)
 
-![Image](../images/DF9yU4VN6us_1.webp)
+![Image](/zij.was.eens/images/DF9yU4VN6us_1.webp)
 
-![Image](../images/DF9yU4VN6us_2.webp)
+![Image](/zij.was.eens/images/DF9yU4VN6us_2.webp)
 
-![Image](../images/DF9yU4VN6us_3.webp)
+![Image](/zij.was.eens/images/DF9yU4VN6us_3.webp)
 
 ## Caption
 

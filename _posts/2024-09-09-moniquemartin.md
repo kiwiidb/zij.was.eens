@@ -10,7 +10,7 @@ date: 2024-09-09 14:30:48
 
 ## Images
 
-![Image](../images/C_skua_tSpA_0.webp)
+![Image](/zij.was.eens/images/C_skua_tSpA_0.webp)
 
 ## Caption
 

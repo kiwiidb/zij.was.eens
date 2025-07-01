@@ -10,7 +10,7 @@ date: 2022-04-12 12:30:47
 
 ## Images
 
-![Image](../images/CcP2qkJq9zi_0.jpg)
+![Image](/zij.was.eens/images/CcP2qkJq9zi_0.jpg)
 
 ## Caption
 

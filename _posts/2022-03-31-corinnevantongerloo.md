@@ -10,9 +10,9 @@ date: 2022-03-31 12:51:49
 
 ## Images
 
-![Image](../images/Cbw_iGfKYvI_0.jpg)
+![Image](/zij.was.eens/images/Cbw_iGfKYvI_0.jpg)
 
-![Image](../images/Cbw_iGfKYvI_1.jpg)
+![Image](/zij.was.eens/images/Cbw_iGfKYvI_1.jpg)
 
 ## Caption
 

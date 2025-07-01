@@ -10,7 +10,7 @@ date: 2024-09-25 09:04:29
 
 ## Images
 
-![Image](../images/DAVMGbitzDA_0.webp)
+![Image](/zij.was.eens/images/DAVMGbitzDA_0.webp)
 
 ## Caption
 

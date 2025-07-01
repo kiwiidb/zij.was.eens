@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AliceScouvart"
+title: "Alice Scouvart"
 date: 2025-04-12 21:49:26
 ---
 
@@ -10,11 +10,11 @@ date: 2025-04-12 21:49:26
 
 ## Images
 
-![Image](../images/DIW91MatyPY_0.webp)
+![Image](/zij.was.eens/images/DIW91MatyPY_0.webp)
 
-![Image](../images/DIW91MatyPY_1.webp)
+![Image](/zij.was.eens/images/DIW91MatyPY_1.webp)
 
-![Image](../images/DIW91MatyPY_2.webp)
+![Image](/zij.was.eens/images/DIW91MatyPY_2.webp)
 
 ## Caption
 
