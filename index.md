@@ -2,15 +2,22 @@
 layout: default
 title: Home
 ---
-<input type="text" id="search-input" placeholder="Search">
-<ul id="results-container"></ul>
+<div class="search-container">
+  <input type="text" id="search-input" placeholder="Search posts..." class="search-input">
+  <ul id="results-container" class="search-results"></ul>
+</div>
 
 <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 <script>
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
-    json: '/search.json'
+    json: '/search.json',
+    searchResultTemplate: '<li><a href="{url}" class="search-result-item"><h3>{title}</h3><p>{excerpt}</p><time>{date}</time></a></li>',
+    noResultsText: '<li class="no-results">No results found</li>',
+    limit: 10,
+    fuzzy: false,
+    exclude: ['url']
   })
 </script>
 <div class="posts-grid">

@@ -6,7 +6,9 @@ layout: none
     {
       "title": "{{ post.title | escape }}",
       "url": "{{ post.url | relative_url }}",
-      "content": {{ post.content | strip_html | strip_newlines | jsonify }}
+      "date": "{{ post.date | date: '%B %d, %Y' }}",
+      "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+      "excerpt": {{ post.excerpt | strip_html | strip_newlines | jsonify }}
     }{% if forloop.last == false %},{% endif %}
   {% endfor %}
 ]
