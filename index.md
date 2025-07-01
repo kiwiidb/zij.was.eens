@@ -3,11 +3,6 @@ layout: default
 title: Home
 ---
 
-<div class="hero">
-    <h1>{{ site.title }}</h1>
-    <p class="hero-description">{{ site.description }}</p>
-</div>
-
 <div class="posts-grid">
     {% for post in site.posts %}
         <article class="post-card">

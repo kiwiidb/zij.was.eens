@@ -23,10 +23,7 @@ paginate: 12
 paginate_path: "/page:num/"
 
 # Collections
-collections:
-  posts:
-    output: true
-    permalink: /:collection/:name/
+# (posts collection removed to use Jekyll's built-in posts functionality)
 
 # Defaults
 defaults:
