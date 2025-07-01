@@ -1,31 +1,112 @@
 title: "Zij Was Eens"
-description: "Verhalen van bijzondere vrouwen uit de geschiedenis"
+description: "Verhalen van bijzondere vrouwen uit de Belgische geschiedenis"
 url: "https://kiwiidb.github.io"
 baseurl: "/zij.was.eens"
+author: "Selin Bakistanli"
+lang: "nl"
 
+# Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:categories/:title/
+permalink: /:categories/:year/:month/:day/:title/
+timezone: Europe/Brussels
 
+# Plugins
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
+  - jekyll-sitemap  
   - jekyll-seo-tag
+  - jekyll-paginate
 
+# Pagination
+paginate: 12
+paginate_path: "/page:num/"
+
+# Collections
 collections:
   posts:
     output: true
     permalink: /:collection/:name/
 
+# Defaults
 defaults:
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
+      author: "Zij Was Eens"
+      lang: "nl"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
 
+# Site data
+total_posts: 86
+date_range: "2022-2025"
+categories:
+  - biography
+  - history
+  - feminism
+  - resistance
+  - culture
+  - politics
+
+# Post metadata
+post_stats:
+  total: 86
+  with_names: 54
+  events: 32
+  date_range: "26 maart 2022 - 13 mei 2025"
+
+# Featured categories
+featured_women:
+  - name: "Verzetsheldinnen"
+    description: "Vrouwen die vochten tegen onderdrukking"
+    count: 12
+  - name: "Kunstenaresses"
+    description: "Creatieven die de wereld kleurden"
+    count: 8
+  - name: "Wetenschapsters"
+    description: "Pioniers in wetenschap en onderzoek"
+    count: 6
+  - name: "Politieke figuren"
+    description: "Vrouwen die de samenleving vormden"
+    count: 10
+
+# Social and metadata
+social:
+  instagram: "zijwaseens"
+  hashtags:
+    - "ZijWasEens"
+    - "VrouwenGeschiedenis"
+    - "BelgischeGeschiedenis"
+
+# Build exclusions
 exclude:
   - scrape.py
   - instagram_parser.py
   - posts_json/
   - profile.json
+  - posts_extract.json
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+
+# Include specific files
+include:
+  - _pages
+
+# Sass settings
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Security
+safe: true
+incremental: false
