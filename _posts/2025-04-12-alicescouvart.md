@@ -5,20 +5,6 @@ date: 2025-04-12 21:49:26
 header_image: /images/DIW91MatyPY_0.webp
 ---
 
-# DIW91MatyPY
-
-**Date:** 2025-04-12 21:49:26
-
-## Images
-
-![Image](/zij.was.eens/images/DIW91MatyPY_0.webp)
-
-![Image](/zij.was.eens/images/DIW91MatyPY_1.webp)
-
-![Image](/zij.was.eens/images/DIW91MatyPY_2.webp)
-
-## Caption
-
 Vandaag 140 jaar geleden is de intelligente Alice Scouvart geboren in Brussel.
 
 Ze kiest voor een beroep als leerkracht, net als haar zus. Een veelbelovende carrière lacht haar tegemoet wanneer ze in 1912 ook haar diploma wiskunde en fysica aan de ULB behaalt. Bij een wedstrijd behaalt ze de eerste plaats voor fysica, en kaapt ze zo een bedrag weg waarmee ze internationale stages kan doen. Ze schrijft in 1913 het lab van Marie Curie aan en zegt dat ze zich wil vormen rond radioactiviteit. Alice is de enige buitenlandse student van Curie die binnengeraakt is zonder aanbeveling van een andere prof. Terug in Brussel gaat ze weer aan de slag als leerkracht.
@@ -31,3 +17,6 @@ Alice wordt in 1927 aangesteld tot directeur van het 'Athenée des jeunes filles
 
 #ZijWasEens #AliceScouvart
 
+![Image](/zij.was.eens/images/DIW91MatyPY_0.webp)
+![Image](/zij.was.eens/images/DIW91MatyPY_1.webp)
+![Image](/zij.was.eens/images/DIW91MatyPY_2.webp)

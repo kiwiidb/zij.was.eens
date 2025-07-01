@@ -5,18 +5,6 @@ date: 2025-04-28 16:05:39
 header_image: /images/DI_jNPgoplD_0.webp
 ---
 
-# DI_jNPgoplD
-
-**Date:** 2025-04-28 16:05:39
-
-## Images
-
-![Image](/zij.was.eens/images/DI_jNPgoplD_0.webp)
-
-![Image](/zij.was.eens/images/DI_jNPgoplD_1.webp)
-
-## Caption
-
 Vandaag 74 jaar geleden is Eugénie Hamer overleden in Antwerpen. Ze is geboren op 15 november 1865 in Leuven. Haar vader overlijdt wanneer ze nog jong is en haar moeder staat in voor de opvoeding van Eugénie en haar broer. 
 
 In Antwerpen is Eugénie naast haar werk als journalist actief in het sociale en literaire verenigingsleven. In 1906 richt ze mee de Alliance belge pour la Paix par l'Education op. Deze pacifistische organisatie schuift naar voor dat een deel van het budget van defensie nuttiger zou zijn om te besteden aan onderwijs en ziet heil in arbitragerechtbanken als oplossing voor internationale conflicten. Daarnaast zien deze vredesactivisten het vrouwenstemrecht ook als een manier om oorlog te voorkomen.
@@ -27,3 +15,5 @@ Eugénie is een pacifist én feminist (al noemt ze zichzelf zeker niet zo). In 1
 
 Bron: WILPF
 
+![Image](/zij.was.eens/images/DI_jNPgoplD_0.webp)
+![Image](/zij.was.eens/images/DI_jNPgoplD_1.webp)

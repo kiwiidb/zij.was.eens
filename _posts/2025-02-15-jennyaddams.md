@@ -5,20 +5,6 @@ date: 2025-02-15 18:50:23
 header_image: /images/DGGjsPttkT1_0.webp
 ---
 
-# DGGjsPttkT1
-
-**Date:** 2025-02-15 18:50:23
-
-## Images
-
-![Image](/zij.was.eens/images/DGGjsPttkT1_0.webp)
-
-![Image](/zij.was.eens/images/DGGjsPttkT1_1.webp)
-
-![Image](/zij.was.eens/images/DGGjsPttkT1_2.webp)
-
-## Caption
-
 Vandaag 116 jaar geleden is Mary Beatrice Jenny Addams geboren in Brussel. 
 
 Op erge jonge leeftijd blijkt ze niet stil te kunnen zitten. Ze start met gymnastiek en twirling, om vervolgens furore te maken in het hockey en het schermen. Als schermster wordt ze opgeleid door Leopold Merckx. Deze sport ligt haar: in interviews noemt ze het een elegante sport waarbij hersenen en spieren nauw in contact staan. Daarnaast benoemt ze dat het een ideale sport is voor vrouwen omdat het bekken constant getraind wordt. Jenny wordt tienmaal Belgisch kampioen en eenmaal Europees kampioen. Ze mag vanaf 1928 ook meedoen aan de Olympische Spelen, al behaalt ze hier geen podiumplaats.
@@ -27,3 +13,6 @@ Zoals vermeld heeft Jenny ook talent voor hockey, een sport die ze combineert me
 
 #ZijWasEens #JennyAddams
 
+![Image](/zij.was.eens/images/DGGjsPttkT1_0.webp)
+![Image](/zij.was.eens/images/DGGjsPttkT1_1.webp)
+![Image](/zij.was.eens/images/DGGjsPttkT1_2.webp)

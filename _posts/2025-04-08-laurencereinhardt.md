@@ -5,16 +5,6 @@ date: 2025-04-08 16:11:17
 header_image: /images/DIMD9FPNgb6_0.webp
 ---
 
-# DIMD9FPNgb6
-
-**Date:** 2025-04-08 16:11:17
-
-## Images
-
-![Image](/zij.was.eens/images/DIMD9FPNgb6_0.webp)
-
-## Caption
-
 Vandaag is het Wereld Roma Dag en staan we stil bij de moeder van een wereldbekende Sinti-muzikant, geboren in ons land. Kan je al raden wie? 
 
 Laurence Reinhardt is geboren op 24 mei 1884 in Bretagne, Frankrijk. Haar ouders zijn rondreizende paardenartiesten en ook Laurence zal op jonge leeftijd dit artistiek bestaan leiden. Ze blijkt een talent te hebben voor dans, en zal samen met haar familie optreden in verschillende jazz clubs over heel Frankrijk - en ook in België. In januari 1910 houdt ze samen met haar partner stand in een dorp dichtbij Charleroi, waar ze jaarlijks komen overwinteren van oktober tot mei. Ze moet verstek geven voor de circusact die ze eveneens jaarlijks opvoeren hier: op 23 januari bevalt Laurence in haar woonwagen van haar eerste zoon Django, in de officiële documenten 'Jean Reinhardt'. Laurence kiest voor haar familienaam. Hierna krijgt ze nog een andere zoon en twee dochters. 
@@ -25,3 +15,4 @@ Laurence overlijdt op 23 juni 1958, vijf jaar na haar zoon, in Saint-Denis, Fran
 
 #WorldRomaDay #ZijWasEens #LaurenceReinhardt #DjangoReinhardt
 
+![Image](/zij.was.eens/images/DIMD9FPNgb6_0.webp)

@@ -5,16 +5,6 @@ date: 2025-02-05 18:30:45
 header_image: /images/DFsxftPtXAi_0.webp
 ---
 
-# DFsxftPtXAi
-
-**Date:** 2025-02-05 18:30:45
-
-## Images
-
-![Image](/zij.was.eens/images/DFsxftPtXAi_0.webp)
-
-## Caption
-
 Vandaag 104 jaar geleden is Lise Thiry geboren in Luik. 
 
 Ze blijkt een begaafd kind te zijn, met een voorkeur voor de kunsten. Toch overtuigt haar vader, de dichter Marcel Thiry, haar om richting de wetenschappen te gaan. In 1938 schrijft Lise zich in voor geneeskunde aan de Universiteit van Luik. Haar jaargang bestaat uit 140 studenten en Lise is een van de drie vrouwen. Ze doet haar stage met WOII op de achtergrond, zo helpt ze als stagiaire bij de anesthesie van de slachtoffers van bombardementen in Luik. 
@@ -25,3 +15,4 @@ Wanneer in de jaren 80 een mysterieuze ziekte uitbreekt in het milieu van drugsv
 
 (Lees zeker verder in de comments!)
 
+![Image](/zij.was.eens/images/DFsxftPtXAi_0.webp)

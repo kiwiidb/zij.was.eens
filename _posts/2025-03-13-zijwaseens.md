@@ -5,16 +5,6 @@ date: 2025-03-13 11:13:53
 header_image: /images/DHIsHiGt7i5_0.webp
 ---
 
-# DHIsHiGt7i5
-
-**Date:** 2025-03-13 11:13:53
-
-## Images
-
-![Image](/zij.was.eens/images/DHIsHiGt7i5_0.webp)
-
-## Caption
-
 Vandaag 62 jaar geleden is Thérèse Goldschmidt overleden in Brussel. Ze is op 2 april 1873 geboren in Berlijn in een burgerlijk joods bankiersgezin. 
 
 Omwille van het toenemende antisemitisme in Duitsland, verhuist het gezin in 1882 naar Brussel. Hier bekeert Thérèse zich in 1898 tot het protestantisme, om te trouwen met de eveneens bekeerde politicus Paul Hymans. Haar echtgenoot behoort tot de top van de liberale partij, en wordt meerdere keren als minister aangesteld. Thérèse, die meerdere goede doelen rondom zich ziet waarvoor ze zich wil inzetten, heeft via hem toegang tot een breed netwerk. Omgekeerd ziet Paul in Thérèse een onontbeerlijke steun 
@@ -29,3 +19,4 @@ Bronnen: Dictionnaire des femmes belges
 
 @netwerkverpleegkunde
 
+![Image](/zij.was.eens/images/DHIsHiGt7i5_0.webp)

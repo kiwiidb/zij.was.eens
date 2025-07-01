@@ -1,25 +1,9 @@
 ---
 layout: post
-title: "Marie Depage"
+title: "Marie Picard"
 date: 2025-05-07 15:24:01
 header_image: /images/DJWpmOltIt4_0.webp
 ---
-
-# DJWpmOltIt4
-
-**Date:** 2025-05-07 15:24:01
-
-## Images
-
-![Image](/zij.was.eens/images/DJWpmOltIt4_0.webp)
-
-![Image](/zij.was.eens/images/DJWpmOltIt4_1.webp)
-
-![Image](/zij.was.eens/images/DJWpmOltIt4_2.webp)
-
-![Image](/zij.was.eens/images/DJWpmOltIt4_3.webp)
-
-## Caption
 
 Vandaag is het 110 jaar geleden dat oceaanlijner Lusitania door de Duitsers is getorpedeerd voor de kust van Ierland. De boot zinkt binnen de 18 minuten en 1198 van de 1962 opvarenden komt om het leven. Een van hen is Marie Picard. 
 
@@ -33,3 +17,7 @@ Als verpleegkundige gaat Marie mee met haar oudste zoon en haar echtgenoot naar 
 
 Bronnen: er is veel geschreven over Marie Depage, maar via VRT NWS vind je een goed samenvattend artikel terug geschreven door Rode Kruis-archivaris Luc De Munck
 
+![Image](/zij.was.eens/images/DJWpmOltIt4_0.webp)
+![Image](/zij.was.eens/images/DJWpmOltIt4_1.webp)
+![Image](/zij.was.eens/images/DJWpmOltIt4_2.webp)
+![Image](/zij.was.eens/images/DJWpmOltIt4_3.webp)

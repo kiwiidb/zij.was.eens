@@ -5,20 +5,6 @@ date: 2025-01-31 08:34:54
 header_image: /images/DFe1VN_tFdl_0.webp
 ---
 
-# DFe1VN_tFdl
-
-**Date:** 2025-01-31 08:34:54
-
-## Images
-
-![Image](/zij.was.eens/images/DFe1VN_tFdl_0.webp)
-
-![Image](/zij.was.eens/images/DFe1VN_tFdl_1.webp)
-
-![Image](/zij.was.eens/images/DFe1VN_tFdl_2.webp)
-
-## Caption
-
 Vandaag 83 jaar geleden is Marina Chafroff onthoofd in Keulen. 
 
 Marina is geboren op 28 februari 1908 in Liepaja, toen Russisch gebied, vandaag Letland. Ze behoort tot een vooraanstaande Russische familie. Haar vader werkt voor de keizerlijke marine. Bij het uitbreken van de revolutie gaan veel mensen op de vlucht. In 1928 brengt dit Marina en haar gezin naar België. Hier leert ze ook haar toekomstige echtgenoot Youra (Georges) Maroutaeff kennen. 
@@ -33,3 +19,6 @@ Saillant detail: Marina's tante langs moederszijde is de Sovjet-schutter Nina Pe
 
 #ZijWasEens #MarinaChafroff
 
+![Image](/zij.was.eens/images/DFe1VN_tFdl_0.webp)
+![Image](/zij.was.eens/images/DFe1VN_tFdl_1.webp)
+![Image](/zij.was.eens/images/DFe1VN_tFdl_2.webp)

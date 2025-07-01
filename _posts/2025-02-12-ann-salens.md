@@ -5,22 +5,6 @@ date: 2025-02-12 09:05:06
 header_image: /images/DF9yU4VN6us_0.webp
 ---
 
-# DF9yU4VN6us
-
-**Date:** 2025-02-12 09:05:06
-
-## Images
-
-![Image](/zij.was.eens/images/DF9yU4VN6us_0.webp)
-
-![Image](/zij.was.eens/images/DF9yU4VN6us_1.webp)
-
-![Image](/zij.was.eens/images/DF9yU4VN6us_2.webp)
-
-![Image](/zij.was.eens/images/DF9yU4VN6us_3.webp)
-
-## Caption
-
 Vandaag 85 jaar geleden is Ann Salens geboren in Oostende. 
 
 Op 18-jarige leeftijd verhuist Ann naar Antwerpen, waar ze haar echtgenoot de kunstenaar Ludo Mich leert kennen. Het echtpaar heeft geldproblemen, waardoor Ann verschillende artistieke projectjes opzet om wat geld binnen te halen via familie en vrienden. Een van die projectjes is het kopen van tweedehandskledij om nieuwe creaties van te maken. Ann heeft geen mode-opleiding gevolgd, maar blijkt wel talent te hebben.
@@ -31,3 +15,7 @@ Hoe sterk haar artistiek talent ook is, zo zwak is haar commerciële denken. Ann
 
 Ann Salens overlijdt op 7 september 1994 in Antwerpen.
 
+![Image](/zij.was.eens/images/DF9yU4VN6us_0.webp)
+![Image](/zij.was.eens/images/DF9yU4VN6us_1.webp)
+![Image](/zij.was.eens/images/DF9yU4VN6us_2.webp)
+![Image](/zij.was.eens/images/DF9yU4VN6us_3.webp)

@@ -5,20 +5,6 @@ date: 2025-05-12 09:32:59
 header_image: /images/DJi5Zj3t1uM_0.webp
 ---
 
-# DJi5Zj3t1uM
-
-**Date:** 2025-05-12 09:32:59
-
-## Images
-
-![Image](/zij.was.eens/images/DJi5Zj3t1uM_0.webp)
-
-![Image](/zij.was.eens/images/DJi5Zj3t1uM_1.webp)
-
-![Image](/zij.was.eens/images/DJi5Zj3t1uM_2.webp)
-
-## Caption
-
 Vandaag 67 jaar geleden is Irma Sèthe overleden in New York. Ze is geboren op 27 april 1867 in Brussel en groeit op in een gezin met Duitse roots. 
 
 Terwijl haar vader niet warm noch koud wordt van kunst, is haar moeder een ware virtuoos en verzamelt ze tal van artistieke persoonlijkheden rond het gezin. Het is dan ook haar moeder die Irma op vijfjarige leeftijd aanmoedigt zicht muzikaal te ontplooien. Ze heeft talent en gaat in de leer bij bekende violisten. Een van die proffen - Eugène Ysaÿe moedigt haar aan om bij hem te studeren in het conservatorium van Brussel, waar ze zich in 1890 dan ook inschrijft. Minder leuk detail: de minderjarige Irma krijgt een relatie met Ysaÿe. De relatie komt tot een einde wanneer hij op tournee vertrekt naar de V.S. Schoonbroer Henry Van De Velde - de man van haar zus - schrijft in zijn biografie dat ze zelfs een zoon van hem krijgt, die geadopteerd wordt door Ysaÿes vader. Deze stelling is niet bewezen en de zoon in kwestie noemt zichzelf later de zoon van Ysaÿe en diens echtgenote. 
@@ -31,3 +17,6 @@ In 1939 wordt Irma's Duitse staatsburgerschap ontnomen, door haar huwelijk met e
 
 Bronnen: Sophie Drinker Institut
 
+![Image](/zij.was.eens/images/DJi5Zj3t1uM_0.webp)
+![Image](/zij.was.eens/images/DJi5Zj3t1uM_1.webp)
+![Image](/zij.was.eens/images/DJi5Zj3t1uM_2.webp)

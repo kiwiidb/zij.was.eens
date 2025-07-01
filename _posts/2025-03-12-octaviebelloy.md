@@ -5,18 +5,6 @@ date: 2025-03-12 11:44:02
 header_image: /images/DHGKxePNuYj_0.webp
 ---
 
-# DHGKxePNuYj
-
-**Date:** 2025-03-12 11:44:02
-
-## Images
-
-![Image](/zij.was.eens/images/DHGKxePNuYj_0.webp)
-
-![Image](/zij.was.eens/images/DHGKxePNuYj_1.webp)
-
-## Caption
-
 Vandaag 131 jaar geleden is Octavie Belloy geboren in Borgerhout.
 
 Via de broer van haar moeder, Jef Van Leemput, kan Octavie op zesjarige leeftijd al starten op de planken. Haar talent gaat niet onopgemerkt voorbij. Mevrouw Caethoven-Lemmens van het Kunstconservatorium in Antwerpen ontfermt zich als muzieklerares over de jonge Octavie. Op zestienjarige leeftijd maakt Octavie haar debuut in de opera. 
@@ -29,3 +17,5 @@ Octavie overlijdt op 13 mei 1965. In Antwerpen is er een straat naar haar vernoe
 
 #ZijWasEens #OctavieBelloy #TavieBelge
 
+![Image](/zij.was.eens/images/DHGKxePNuYj_0.webp)
+![Image](/zij.was.eens/images/DHGKxePNuYj_1.webp)

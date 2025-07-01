@@ -5,20 +5,6 @@ date: 2025-04-11 21:42:01
 header_image: /images/DIUYL_dt_uF_0.webp
 ---
 
-# DIUYL_dt_uF
-
-**Date:** 2025-04-11 21:42:01
-
-## Images
-
-![Image](/zij.was.eens/images/DIUYL_dt_uF_0.webp)
-
-![Image](/zij.was.eens/images/DIUYL_dt_uF_1.webp)
-
-![Image](/zij.was.eens/images/DIUYL_dt_uF_2.webp)
-
-## Caption
-
 Je dacht toch niet dat Marie Popelin de enige feministische Popelin was in het gezin?! 
 
 Vandaag 75 jaar geleden is Louise Popelin geboren in Schaarbeek. Het gezin Popelin behoort tot de liberale Brusselse burgerij en is ook relatief progressief wat betreft het verschil in opvoeding tussen hun zonen Emile en Fernand en hun drie dochters, Marie, Louise en Emma.
@@ -35,3 +21,6 @@ Bronnen: 'Emma, Louise, Marie...'
 
 @ufka_antwerpen @farmaceuticaofficial @gentsefarmakring
 
+![Image](/zij.was.eens/images/DIUYL_dt_uF_0.webp)
+![Image](/zij.was.eens/images/DIUYL_dt_uF_1.webp)
+![Image](/zij.was.eens/images/DIUYL_dt_uF_2.webp)

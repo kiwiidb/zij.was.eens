@@ -5,22 +5,6 @@ date: 2025-05-05 14:08:45
 header_image: /images/DJRXZOeN6ax_0.webp
 ---
 
-# DJRXZOeN6ax
-
-**Date:** 2025-05-05 14:08:45
-
-## Images
-
-![Image](/zij.was.eens/images/DJRXZOeN6ax_0.webp)
-
-![Image](/zij.was.eens/images/DJRXZOeN6ax_1.webp)
-
-![Image](/zij.was.eens/images/DJRXZOeN6ax_2.webp)
-
-![Image](/zij.was.eens/images/DJRXZOeN6ax_3.webp)
-
-## Caption
-
 Vandaag 124 jaar geleden is Madeleine Ley geboren in 1901. Ze blijft hier niet lang wonen: het gezin Ley verhuist naar Ukkel wanneer vader Auguste Ley benoemd wordt als professor aan de ULB. 
 
 Zoals het een liberaal progressief Brussels gezin betaamt, krijgt Madeleine de kans om te studeren. Haar middelbaar onderwijs geniet ze in de school van arts en pedagoog Ovide Decroly. Daarna schrijft ze zich in 1918 in voor een talenopleiding aan de ULB. Deze maakt ze evenwel niet af. In 1921 trouwt ze met Lucien Wybaux, die haar in 1929 meeneemt naar Zwitserland. Hier ontdekt Madeleine een passie voor de bergen, die het decor zullen vormen van haar latere werken. Lucien, die ze al sinds haar 4 jaar kent en met wie ze een hechte band heeft, laat zich van zijn minst mooie kant zien wanneer hij ontdekt dat Madeleine een 'innige vriendschap' onderhoudt met een vrouw die ze in de bergen heeft ontmoet.
@@ -33,3 +17,7 @@ Ze wordt geprezen voor het schrijven van kinderboeken die ook gretig gelezen wor
 
 Bron: Le Cerveau Volé
 
+![Image](/zij.was.eens/images/DJRXZOeN6ax_0.webp)
+![Image](/zij.was.eens/images/DJRXZOeN6ax_1.webp)
+![Image](/zij.was.eens/images/DJRXZOeN6ax_2.webp)
+![Image](/zij.was.eens/images/DJRXZOeN6ax_3.webp)

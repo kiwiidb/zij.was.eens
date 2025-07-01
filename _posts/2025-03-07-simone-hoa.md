@@ -5,20 +5,6 @@ date: 2025-03-07 12:59:56
 header_image: /images/DG5bfDCNmC6_0.webp
 ---
 
-# DG5bfDCNmC6
-
-**Date:** 2025-03-07 12:59:56
-
-## Images
-
-![Image](/zij.was.eens/images/DG5bfDCNmC6_0.webp)
-
-![Image](/zij.was.eens/images/DG5bfDCNmC6_1.webp)
-
-![Image](/zij.was.eens/images/DG5bfDCNmC6_2.webp)
-
-## Caption
-
 Vandaag 109 jaar geleden is Simone Hoa geboren in Beijing, China. 
 
 Haar vader is een Chinese ingenieur, haar moeder een Pools-joodse schrijfster. In 1932, en na een verblijf in Frankrijk en Engeland, verhuist ze naar Brussel. Simone werkt haar middelbare studies af aan het Lycée Dachsbeck en schrijft zich daarna in voor de architectuuropleiding aan de prestigieuze kunstschool La Cambre in Brussel. Ze krijgt les van Henry Van De Velde en is in 1938 de vierde vrouw die hier afstudeert in architectuur. Ze is tevens de eerste vrouw in België die een eigen architectuurkantoor opricht. Ze is de enige vrouw op dat moment die mensen in dienst heeft en regelmatig in architectuurtijdschriften verschijnt. Simone onderscheidt zich met innovatieve, modernistische ontwerpen, geïnspireerd door o.a. Le Corbusier. 
@@ -33,3 +19,6 @@ Bron: Bruzz, CIVA
 
 @untold.asian.stories
 
+![Image](/zij.was.eens/images/DG5bfDCNmC6_0.webp)
+![Image](/zij.was.eens/images/DG5bfDCNmC6_1.webp)
+![Image](/zij.was.eens/images/DG5bfDCNmC6_2.webp)

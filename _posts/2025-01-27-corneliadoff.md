@@ -5,16 +5,6 @@ date: 2025-01-27 14:07:33
 header_image: /images/DFVIOGKNn_K_0.webp
 ---
 
-# DFVIOGKNn_K
-
-**Date:** 2025-01-27 14:07:33
-
-## Images
-
-![Image](/zij.was.eens/images/DFVIOGKNn_K_0.webp)
-
-## Caption
-
 Vandaag 167 jaar geleden is Cornelia 'Neel' Doff geboren in Buggenum, Nederland. 
 
 Haar gezin, dat negen kinderen telt, is erg arm waardoor Neel in de Amsterdamse prostitutie belandt. Om te ontsnappen van haar armoedig bestaan, verhuist het gezin naar Antwerpen en vervolgens naar Brussel. Hier gaat de knappe Neel aan de slag als model voor Belgische kunstenaars als James Ensor en Félicien Rops. Ze poseert ook voor beeldhouwer Charles Samuel als 'Nele' uit Tijl Uilenspiegel. Dit beeld is zowel te vinden in Knokke als in Brussel vlakbij het Flageyplein. 
@@ -29,3 +19,4 @@ Bronnen: Zwinstreek.eu, the-low-countries.com, amsterdam.nl
 
 #ZijWasEens #CorneliaDoff #NeelDoff #KeetjeTippel
 
+![Image](/zij.was.eens/images/DFVIOGKNn_K_0.webp)

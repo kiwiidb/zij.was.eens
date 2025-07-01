@@ -5,20 +5,6 @@ date: 2025-03-10 21:13:47
 header_image: /images/DHCCYt2tTUp_0.webp
 ---
 
-# DHCCYt2tTUp
-
-**Date:** 2025-03-10 21:13:47
-
-## Images
-
-![Image](/zij.was.eens/images/DHCCYt2tTUp_0.webp)
-
-![Image](/zij.was.eens/images/DHCCYt2tTUp_1.webp)
-
-![Image](/zij.was.eens/images/DHCCYt2tTUp_2.webp)
-
-## Caption
-
 Vandaag 40 jaar geleden is Yvonne Fontaine overleden in Gent. Yvonne is geboren op 23 juli 1904 in Antwerpen. 
 
 Haar gezin maakt deel uit van de gegoede burgerij. Haar vader is militair en haar moeder is de dochter van de Gentse industrieel Isidore Schepens, bij wie Yvonnes vader uiteindelijk ook aan de slag zal gaan als fabrieksdirecteur nadat het gezin naar Gent verhuist. Yvonne slaagt in 1922 voor haar eindexamen bij de centrale examencommissie, en kan dus - middelbaar diploma op zak - universitaire studies aanvatten. Ze kiest voor geneeskunde aan de Universiteit Gent. Ze is een van de vier vrouwen aan deze richting en studeert in 1929 af. 
@@ -33,3 +19,6 @@ Bron: 'Martha's labyrint' door Marc Verschooris
 
 @8meicoalitie
 
+![Image](/zij.was.eens/images/DHCCYt2tTUp_0.webp)
+![Image](/zij.was.eens/images/DHCCYt2tTUp_1.webp)
+![Image](/zij.was.eens/images/DHCCYt2tTUp_2.webp)

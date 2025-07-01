@@ -122,14 +122,12 @@ a:hover {
 }
 
 .post-image {
-    height: 200px;
     overflow: hidden;
 }
 
 .post-image img {
     width: 100%;
-    height: 100%;
-    object-fit: cover;
+    height: auto;
     transition: transform 0.3s ease;
 }
 

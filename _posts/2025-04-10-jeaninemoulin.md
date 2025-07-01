@@ -5,16 +5,6 @@ date: 2025-04-10 14:05:11
 header_image: /images/DIQ_HORtei2_0.webp
 ---
 
-# DIQ_HORtei2
-
-**Date:** 2025-04-10 14:05:11
-
-## Images
-
-![Image](/zij.was.eens/images/DIQ_HORtei2_0.webp)
-
-## Caption
-
 Vandaag 113 jaar geleden is Jeanine Rozenblat geboren in Brussel. 
 
 Haar ouders zijn in 1907 geëmigreerd uit Polen. Haar vader is een ingenieur, maar ook muzikant. Haar moeder is in haar thuisland een van de eerste studentes sociale wetenschappen. Jeanine groeit op in een intellectuele omgeving waarin veel belang wordt gehecht aan cultuur en waar verschillende grote namen regelmatig over de vloer komen.
@@ -29,3 +19,4 @@ Bron: Académie royale de langue et de littérature françaises de Belgique
 
 @ulbruxelles @bxldestad
 
+![Image](/zij.was.eens/images/DIQ_HORtei2_0.webp)

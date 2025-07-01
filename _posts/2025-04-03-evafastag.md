@@ -5,18 +5,6 @@ date: 2025-04-03 14:37:00
 header_image: /images/DH_BMIktlTF_0.webp
 ---
 
-# DH_BMIktlTF
-
-**Date:** 2025-04-03 14:37:00
-
-## Images
-
-![Image](/zij.was.eens/images/DH_BMIktlTF_0.webp)
-
-![Image](/zij.was.eens/images/DH_BMIktlTF_1.webp)
-
-## Caption
-
 Vandaag 108 jaar geleden is Eva Fastag geboren in Warschau. Twee jaar na haar geboorte ontvlucht ze de stad samen met haar ouders richting de VS. Deze vlucht brengt hen in Antwerpen op 11 november 1919.
 
 Haar vader, een horlogemaker, besluit om finaal in Antwerpen te blijven. De stad is in volle heropbouw na WOI en kan jonge mensen gebruiken. Eva krijgt nog een zus en drie broers. Het joodse gezin heeft de Poolse nationaliteit, aangezien naturalisatie te duur was. Op de middelbare school leert Eva stenodactylo. Ze is een goede student en haalt erg goede cijfers.
@@ -29,3 +17,5 @@ Eva overlijdt op 12 augustus 2021. Over haar leven schreef Pieter Serrien het bo
 
 #ZijWasEens #EvaFastag
 
+![Image](/zij.was.eens/images/DH_BMIktlTF_0.webp)
+![Image](/zij.was.eens/images/DH_BMIktlTF_1.webp)

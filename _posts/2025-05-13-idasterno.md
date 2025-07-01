@@ -5,18 +5,6 @@ date: 2025-05-13 14:18:03
 header_image: /images/DJl-0RQtmYo_0.webp
 ---
 
-# DJl-0RQtmYo
-
-**Date:** 2025-05-13 14:18:03
-
-## Images
-
-![Image](/zij.was.eens/images/DJl-0RQtmYo_0.webp)
-
-![Image](/zij.was.eens/images/DJl-0RQtmYo_1.webp)
-
-## Caption
-
 Vandaag 61 jaar geleden is Ida Sterno overleden in Brussel. Ze is geboren in 1902 in een niet-religieus joods gezin in Roemenië. 
 
 In 1916 komt ze naar België, waar haar broer hogere studies volgt. Ze schrijft zich in 1923 voor de opleiding sociaal werk aan de École centrale de Service social. Na de tweejarige opleiding brengt ze nog enkele jaren door in de V.S. om inspiratie op te doen rond sociaal werk in bedrijven en vervolgens gaat ze in België aan de slag. Wanneer de anti-Joodse sentimenten in aanloop naar WOII beginnen te groeien, trouwt ze met de niet-joodse Victor Hendrickx. Een schijnhuwelijk om vervolging te voorkomen.
@@ -29,3 +17,5 @@ Op 29 mei 1944 wordt Ida aangehouden net op het moment dat ze informatie aan het
 
 Bron: 'Assistantes sociales en Résistance' door Sarah Belli
 
+![Image](/zij.was.eens/images/DJl-0RQtmYo_0.webp)
+![Image](/zij.was.eens/images/DJl-0RQtmYo_1.webp)

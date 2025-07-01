@@ -5,18 +5,6 @@ date: 2025-05-10 17:44:02
 header_image: /images/DJeoAUHoNjq_0.webp
 ---
 
-# DJeoAUHoNjq
-
-**Date:** 2025-05-10 17:44:02
-
-## Images
-
-![Image](/zij.was.eens/images/DJeoAUHoNjq_0.webp)
-
-![Image](/zij.was.eens/images/DJeoAUHoNjq_1.webp)
-
-## Caption
-
 Vandaag 97 jaar geleden is Julie Pecher overleden in Antwerpen. Ze is in dezelfde stad geboren op 15 januari 1851 in een bekende, rijke en liberale familie. 
 
 Ze is vrij opgevoed. De omgeving van haar vader, Edouard Pecher, zal hem zelfs meermaals wijzen op 'Julies gedrag' en hem zeggen dat hij strenger moet zijn. Desondanks trouwt Julie in 1872 met de beloftevolle advocaat Guillaume Bernays. Hoewel hun huwelijk in het begin gemoedelijk verloopt, komen de eerste barsten al snel. Julie klaagt bij haar vader dat Guillaume haar niet goed behandelt. Enter Armand Peltzer. Armand is een bekende handelaar in het Antwerpse en een goede vriend, sommigen zeggen de enige vriend, van Guillaume. Hij ontpopt zich tot bemiddelaar en het koppel wendt zich tot hem wanneer ze ruzies hebben. Bij dit bemiddelen groeien zijn gevoelens voor Julie echter en al snel worden de twee het onderwerp van de roddelmolen van de Antwerpse beau monde. Hierop verbiedt Guillaume hem de toegang tot hun huis. 
@@ -27,3 +15,5 @@ De broers worden verdedigd door topadvocaten Edmond Picard en Jules Lejeune. Leo
 
 (Lees verder in de comments, het is de moeite)
 
+![Image](/zij.was.eens/images/DJeoAUHoNjq_0.webp)
+![Image](/zij.was.eens/images/DJeoAUHoNjq_1.webp)

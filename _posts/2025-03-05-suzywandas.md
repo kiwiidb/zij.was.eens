@@ -5,16 +5,6 @@ date: 2025-03-05 12:04:15
 header_image: /images/DG0Lhd4NHMu_0.webp
 ---
 
-# DG0Lhd4NHMu
-
-**Date:** 2025-03-05 12:04:15
-
-## Images
-
-![Image](/zij.was.eens/images/DG0Lhd4NHMu_0.webp)
-
-## Caption
-
 Vandaag 129 jaar geleden is Jeanne Van Dyk geboren. Haar ouders zijn circusartiesten en Jeanne ziet het levenslicht in een foorwagen op de site van Thurn en Taxis, waar het circus van haar vader en diens halfbroer op dat moment stand houdt. 
 
 Geïnspireerd door haar omgeving begint Jeanne op jonge leeftijd al verschillende goocheltrucs te oefenen. Wanneer ze dertien is, overlijdt haar vader. Niet lang daarna breekt ook WOI uit. Haar broer strijdt mee in het Belgische leger. Jeanne trekt samen met haar moeder naar Italië, waar ze blijven optreden. Haar moeder heeft een jeugdig uiterlijk, dus hun artiestennaam wordt 'The Wanda's Sisters'. Na de oorlog keren moeder en dochter terug naar Brussel, hun uitvalbasis tussen de vele tournees doorheen heel Europa door. Jeanne blijkt echter zo getalenteerd dat ze vanaf 1936 solo gaat. Ze kiest de naam Suzy Wandas, naar het nummer 'If you knew Susie'. Ze wordt ook wel het meisje met de feeënvingers genoemd, omdat ze haar trucs langzaam en elegant uitvoert. 
@@ -27,3 +17,4 @@ Bronnen: @huisvanalijn @kobevanherwegen
 
 #ZijWasEens #SuzyWandas #SleightOfHands #Cardistry
 
+![Image](/zij.was.eens/images/DG0Lhd4NHMu_0.webp)

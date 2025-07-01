@@ -5,24 +5,6 @@ date: 2025-04-16 08:32:45
 header_image: /images/DIf11sON7T__0.webp
 ---
 
-# DIf11sON7T_
-
-**Date:** 2025-04-16 08:32:45
-
-## Images
-
-![Image](/zij.was.eens/images/DIf11sON7T__0.webp)
-
-![Image](/zij.was.eens/images/DIf11sON7T__1.webp)
-
-![Image](/zij.was.eens/images/DIf11sON7T__2.webp)
-
-![Image](/zij.was.eens/images/DIf11sON7T__3.webp)
-
-![Image](/zij.was.eens/images/DIf11sON7T__4.webp)
-
-## Caption
-
 Tijdens haar doop liet de priester haar per ongeluk in het doopvont vallen, een voorbode op haar later leven? 
 
 Vandaag 27 jaar geleden is Fernanda Caroen overleden in Oostende. Ze is in dezelfde stad geboren op 27 juli 1920. 
@@ -39,3 +21,8 @@ In 1948 neemt ze wél mee aan de Olympische Spelen. Hoewel ze nog jong is, zijn 
 
 @oostendedestadaanzee
 
+![Image](/zij.was.eens/images/DIf11sON7T__0.webp)
+![Image](/zij.was.eens/images/DIf11sON7T__1.webp)
+![Image](/zij.was.eens/images/DIf11sON7T__2.webp)
+![Image](/zij.was.eens/images/DIf11sON7T__3.webp)
+![Image](/zij.was.eens/images/DIf11sON7T__4.webp)

@@ -5,18 +5,6 @@ date: 2025-03-25 09:54:42
 header_image: /images/DHncmDNtzJ9_0.webp
 ---
 
-# DHncmDNtzJ9
-
-**Date:** 2025-03-25 09:54:42
-
-## Images
-
-![Image](/zij.was.eens/images/DHncmDNtzJ9_0.webp)
-
-![Image](/zij.was.eens/images/DHncmDNtzJ9_1.webp)
-
-## Caption
-
 Vandaag 56 jaar geleden is Elsie Mary Bell overleden in Ukkel. Elsie is geboren op 21 juni in Acton, Engeland. 
 
 Na haar studies gaat Elsie aan de slag als leerkracht in Londen. Tijdens WOI ontmoet ze hier de Belgische soldaat Georges Maréchal, die in een Londens ziekenhuis moet recupereren van een longontsteking die hij heeft opgelopen in de loopgraven. De liefde brengt haar eerst naar Koblenz, waar het echtpaar Bell-Maréchal drie kinderen krijgt. In 1929 verhuist het volledige gezin naar Brussel, België. 
@@ -29,3 +17,5 @@ In 1942 wordt Elsie, samen met haar gezin gearresteerd. Haar echtgenoot wordt ge
 
 @8meicoalitie
 
+![Image](/zij.was.eens/images/DHncmDNtzJ9_0.webp)
+![Image](/zij.was.eens/images/DHncmDNtzJ9_1.webp)

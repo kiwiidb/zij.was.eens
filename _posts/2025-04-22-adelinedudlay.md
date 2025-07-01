@@ -5,22 +5,6 @@ date: 2025-04-22 08:42:10
 header_image: /images/DIvTr2ltNZY_0.webp
 ---
 
-# DIvTr2ltNZY
-
-**Date:** 2025-04-22 08:42:10
-
-## Images
-
-![Image](/zij.was.eens/images/DIvTr2ltNZY_0.webp)
-
-![Image](/zij.was.eens/images/DIvTr2ltNZY_1.webp)
-
-![Image](/zij.was.eens/images/DIvTr2ltNZY_2.webp)
-
-![Image](/zij.was.eens/images/DIvTr2ltNZY_3.webp)
-
-## Caption
-
 Vandaag 167 jaar geleden is Adeline Dulait geboren in Brussel. Dulait is de familienaam van haar moeder; haar biologische vader - een magistraat - wil haar niet erkennen. 
 
 In 1867 schrijft de piepjonge Adeline zich in aan het Koninklijk Conservatorium in Brussel, richting piano. Haar moeder laat dit toe omdat ze ervan uitgaat dat Adeline dan zelf pianoleerkracht kan worden. Adeline doet dit tot haar 15 jaar, maar voelt dat piano niet haar roeping is. In het geniep schrijft Adeline zich in voor de acteerlessen. Via een van haar leerkrachten, Jeanne Tordeus, komt ze in contact met de directeur van het prestigieuze Comédie-Française in Parijs. Jeanne is zelf de eerste Belgische actrice aangesloten bij dit toneelgezelschap en weet Adelines moeder te overtuigen van het bijzonder talent dat ze in Adeline ziet. In 1876 studeert ze met grote onderscheiding af aan het conservatorium en tekent ze haar contract bij de Comédie-Française. Hiervoor gaat ze zo ver dat ze zes tanden laat verwijderen om haar uitspraak te verbeteren!
@@ -31,3 +15,7 @@ Ze overlijdt op 15 november 1934 in Parijs en ligt begraven op de bekende begraa
 
 #ZijWasEens #AdelineDudlay #AdelineDulait
 
+![Image](/zij.was.eens/images/DIvTr2ltNZY_0.webp)
+![Image](/zij.was.eens/images/DIvTr2ltNZY_1.webp)
+![Image](/zij.was.eens/images/DIvTr2ltNZY_2.webp)
+![Image](/zij.was.eens/images/DIvTr2ltNZY_3.webp)

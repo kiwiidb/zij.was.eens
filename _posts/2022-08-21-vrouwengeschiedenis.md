@@ -5,18 +5,6 @@ date: 2022-08-21 16:19:26
 header_image: /images/Chhk95jqzRR_0.jpg
 ---
 
-# Chhk95jqzRR
-
-**Date:** 2022-08-21 16:19:26
-
-## Images
-
-![Image](/zij.was.eens/images/Chhk95jqzRR_0.jpg)
-
-![Image](/zij.was.eens/images/Chhk95jqzRR_1.jpg)
-
-## Caption
-
 Vandaag 122 jaar geleden is Georgette Ciselet geboren. Op jonge leeftijd staat ze bekend als een koppig meisje dat het lastig heeft met schoolse discipline. Op haar 8ste is ze bijvoorbeeld al 4 keer van school moeten veranderen. Op een gegeven zijn haar ouders dit beu en nemen ze 2 ULB-studentes aan om haar privélessen te geven. Deze vrouwen inspireren Ciselet om ook verder te studeren, 'une folie' volgens haar vader. 
 
 In 1923 studeert Ciselet met onderscheiding af aan de rechtenfaculteit van de ULB. Ze schrijft zich in aan de balie van Brussel, en is de vijfde vrouw die dit doet. Later zal ze ook indruk maken op andere jonge vrouwen aan de balie: 'Georgette Ciselet was een soort van heilig monster en je raakt niet aan heilige monsters', aldus een vrouwelijke advocaat die de laatste jaren van Ciselet aan de balie heeft meegemaakt. 
@@ -27,3 +15,5 @@ Ciselet overlijdt op 31 augustus 1983.
 
 #ZijWasEens #Vrouwengeschiedenis #GeorgetteCiselet @senatbesenaat
 
+![Image](/zij.was.eens/images/Chhk95jqzRR_0.jpg)
+![Image](/zij.was.eens/images/Chhk95jqzRR_1.jpg)

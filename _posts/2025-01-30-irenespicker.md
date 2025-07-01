@@ -5,16 +5,6 @@ date: 2025-01-30 11:52:18
 header_image: /images/DFcnIGsN33I_0.webp
 ---
 
-# DFcnIGsN33I
-
-**Date:** 2025-01-30 11:52:18
-
-## Images
-
-![Image](/zij.was.eens/images/DFcnIGsN33I_0.webp)
-
-## Caption
-
 Vandaag 104 jaar geleden is Irene Spicker geboren in Berlijn. 
 
 Irene, die als kind artistiek talent vertoont, is in Berlijn ingeschreven in een kunstschool. In 1937 wordt ze geschorst omdat ze joods is. Hoewel de sfeer in Berlijn op dat moment al grimmig is, vlucht Irene pas in 1939 samen met haar zus naar Brussel. Haar vader vervoegt hen later. Het gezin verblijft in Elsene en Irene herneemt de lessen in een plaatselijke kunstschool. 
@@ -32,3 +22,4 @@ Meer weten? Irene schreef een autobiografie: 'They'll have to catch me first'
 
 @kazernedossin @stadmechelen
 
+![Image](/zij.was.eens/images/DFcnIGsN33I_0.webp)

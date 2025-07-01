@@ -5,20 +5,6 @@ date: 2025-03-11 10:18:22
 header_image: /images/DHDcLJct_q-_0.webp
 ---
 
-# DHDcLJct_q-
-
-**Date:** 2025-03-11 10:18:22
-
-## Images
-
-![Image](/zij.was.eens/images/DHDcLJct_q-_0.webp)
-
-![Image](/zij.was.eens/images/DHDcLJct_q-_1.webp)
-
-![Image](/zij.was.eens/images/DHDcLJct_q-_2.webp)
-
-## Caption
-
 Vandaag 114 jaar geleden is Ida Rosenheimer geboren in Antwerpen. Haar vader is een Duitser, haar moeder Nederlands-Engels. Bij het uitbreken van WOI verhuist het joodse gezin naar Scheveningen in Nederland. 
 
 Toch blijft Ida Antwerpen een warm hart toe dragen. Het is ook hier dat de getalenteerde pianiste zal debuteren in het Cercle Musical Juif in 1930. Haar carrière verloopt hierna glansrijk, tot WOII uitbreekt. Dankzij haar man, David Simons, met wie ze in 1933 in het huwelijksbootje treedt, belandt het gezin Simons op een lijst met geprivilegieerde joden. Op deze lijst staan prominente joden uit het bedrijfsleven, academia of cultuur die een belangrijke bijdrage leveren aan de Nederlandse samenleving. Dit geeft hen even bescherming, maar het gezin belandt in 1943 in Westerbork en in 1944 in Theresienstadt. Ida blijft piano spelen in deze kampen. 
@@ -31,3 +17,6 @@ Bron: 'Slijk en sterren. Het verscheurde leven van pianiste en schrijfster Ida S
 
 @kampwesterbork
 
+![Image](/zij.was.eens/images/DHDcLJct_q-_0.webp)
+![Image](/zij.was.eens/images/DHDcLJct_q-_1.webp)
+![Image](/zij.was.eens/images/DHDcLJct_q-_2.webp)

@@ -5,22 +5,6 @@ date: 2025-05-09 22:02:59
 header_image: /images/DJcg2FGNnCH_0.webp
 ---
 
-# DJcg2FGNnCH
-
-**Date:** 2025-05-09 22:02:59
-
-## Images
-
-![Image](/zij.was.eens/images/DJcg2FGNnCH_0.webp)
-
-![Image](/zij.was.eens/images/DJcg2FGNnCH_1.webp)
-
-![Image](/zij.was.eens/images/DJcg2FGNnCH_2.webp)
-
-![Image](/zij.was.eens/images/DJcg2FGNnCH_3.webp)
-
-## Caption
-
 Vandaag 72 jaar geleden is Jeanne Maubourg overleden in Montreal, Canada. Ze is geboren op 10 november 1873 in Namen. 
 
 Haar eerste zanglessen krijgt ze van haar vader, die operette-dirigent is in het Théâtre royal des Galeries in Brussel. Hij is geen fan van het carrièrepad dat zijn dochter voor ogen heeft, maar ze verplicht hem om naar haar zang te luisteren en overtuigt hem van haar talent. In 1894 maakt ze haar debuut in De Munt. Recensenten loven haar loepzuivere stem. Haar haren zijn pikzwart, wat past bij dramatische stukken. Toch kiest Jeanne ervoor om haar haren blond te verven, wat ze het grootste deel van haar carrière zal blijven doen. Ze onderscheidt zich door haar persoonlijkheid: voor het wereldje waarin ze opklimt is ze eerder gereserveerd van aard. Hierover zegt ze zelf dat ze enkel houdt van 'scene' (schoppen) op het podium, niet ernaast. 
@@ -31,3 +15,7 @@ In 1917 verhuist ze naar Canada. Ze verbindt zich hier aan een theater, maar beg
 
 #ZijWasEens #JeanneMarbourg
 
+![Image](/zij.was.eens/images/DJcg2FGNnCH_0.webp)
+![Image](/zij.was.eens/images/DJcg2FGNnCH_1.webp)
+![Image](/zij.was.eens/images/DJcg2FGNnCH_2.webp)
+![Image](/zij.was.eens/images/DJcg2FGNnCH_3.webp)

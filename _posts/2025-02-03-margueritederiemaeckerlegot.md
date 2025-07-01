@@ -5,20 +5,6 @@ date: 2025-02-03 16:04:21
 header_image: /images/DFnXJwHNkes_0.webp
 ---
 
-# DFnXJwHNkes
-
-**Date:** 2025-02-03 16:04:21
-
-## Images
-
-![Image](/zij.was.eens/images/DFnXJwHNkes_0.webp)
-
-![Image](/zij.was.eens/images/DFnXJwHNkes_1.webp)
-
-![Image](/zij.was.eens/images/DFnXJwHNkes_2.webp)
-
-## Caption
-
 Slechts een op de vier ministers in onze gloednieuwe federale regering is vrouw. 
 
 Op 9 maart 1913 is Marguerite Legot geboren in Oudenaarde. Voor haar studies komt ze terecht in Gent: middelbaar onderwijs in @nieuwenboschhumaniora en daarna rechtsgeleerdheid aan de @ugent. Na haar studies gaat ze aan de slag in Brussel op het kantoor van Pierre Nothomb in Brussel. Hier ontmoet ze Maria Baers, boegbeeld van het christelijk feminisme. Marguerite wordt secretaris van haar politiek kabinet. 
@@ -31,3 +17,6 @@ Marguerite De Riemaecker-Legot overlijdt op 7 mei 1977 in Brussel.
 
 Bronnen: UGentMemorie
 
+![Image](/zij.was.eens/images/DFnXJwHNkes_0.webp)
+![Image](/zij.was.eens/images/DFnXJwHNkes_1.webp)
+![Image](/zij.was.eens/images/DFnXJwHNkes_2.webp)

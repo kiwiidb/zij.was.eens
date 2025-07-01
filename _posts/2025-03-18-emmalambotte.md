@@ -5,22 +5,6 @@ date: 2025-03-18 15:21:44
 header_image: /images/DHWAdMBo0iY_0.webp
 ---
 
-# DHWAdMBo0iY
-
-**Date:** 2025-03-18 15:21:44
-
-## Images
-
-![Image](/zij.was.eens/images/DHWAdMBo0iY_0.webp)
-
-![Image](/zij.was.eens/images/DHWAdMBo0iY_1.webp)
-
-![Image](/zij.was.eens/images/DHWAdMBo0iY_2.webp)
-
-![Image](/zij.was.eens/images/DHWAdMBo0iY_3.webp)
-
-## Caption
-
 Vandaag 62 jaar geleden is Emma Protin overleden in Wilrijk. Ze is geboren op 11 augustus 1878 in Luik. 
 
 Ze groeit op in een rijk milieu waarin ook veel aandacht wordt besteed aan haar opleiding. Emma heeft artistieke aanleg en schildert graag, maar haar ware passie ligt bij het schrijven, ondanks aanmoedigingen van haar echtgenoot om meer te doen met haar schilderkunst. Het is door haar echtgenoot, Albin Lambotte, dat Emma later verhuist naar Antwerpen. Hij is er immers aangesteld als hoofdchirurg in het Stuyvenbergziekenhuis. 
@@ -33,3 +17,7 @@ Emma ontmoet Ensor in 1903. Op dat moment woont Emma al enkele jaren in Antwerpe
 
 Bronnen: KMSKA
 
+![Image](/zij.was.eens/images/DHWAdMBo0iY_0.webp)
+![Image](/zij.was.eens/images/DHWAdMBo0iY_1.webp)
+![Image](/zij.was.eens/images/DHWAdMBo0iY_2.webp)
+![Image](/zij.was.eens/images/DHWAdMBo0iY_3.webp)

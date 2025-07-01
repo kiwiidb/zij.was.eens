@@ -5,20 +5,6 @@ date: 2025-04-17 14:02:17
 header_image: /images/DIjAWF2NDj__0.webp
 ---
 
-# DIjAWF2NDj_
-
-**Date:** 2025-04-17 14:02:17
-
-## Images
-
-![Image](/zij.was.eens/images/DIjAWF2NDj__0.webp)
-
-![Image](/zij.was.eens/images/DIjAWF2NDj__1.webp)
-
-![Image](/zij.was.eens/images/DIjAWF2NDj__2.webp)
-
-## Caption
-
 Wist je dat de klassieke pralinedoosjes uitgevonden zijn door de echtgenote van chocolatier Jean Neuhaus Jr.? 
 
 Vandaag 151 jaar geleden is Louise Agostini geboren in Brussel. In 1900 trouwt ze met Jean Neuhaus Junior. en wordt ze een belangrijke schakel in het uitbouwen van het bedrijf Neuhaus. 
@@ -31,3 +17,6 @@ Vergeet jij de volgende keer ook niet aan Louise te denken wanneer je een pralin
 
 Bronnen: @neuhauschocolates, @urban_brussels
 
+![Image](/zij.was.eens/images/DIjAWF2NDj__0.webp)
+![Image](/zij.was.eens/images/DIjAWF2NDj__1.webp)
+![Image](/zij.was.eens/images/DIjAWF2NDj__2.webp)

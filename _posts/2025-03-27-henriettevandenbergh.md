@@ -5,20 +5,6 @@ date: 2025-03-27 19:40:03
 header_image: /images/DHtpK_pNPZV_0.webp
 ---
 
-# DHtpK_pNPZV
-
-**Date:** 2025-03-27 19:40:03
-
-## Images
-
-![Image](/zij.was.eens/images/DHtpK_pNPZV_0.webp)
-
-![Image](/zij.was.eens/images/DHtpK_pNPZV_1.webp)
-
-![Image](/zij.was.eens/images/DHtpK_pNPZV_2.webp)
-
-## Caption
-
 Vandaag 105 jaar geleden is Henriëtte Mayer Van den Bergh overleden. Henriëtte is geboren in 1838 in de 'high society' van Antwerpen.
 
 Ze trouwt op 18-jarige leeftijd met zakenman Emil Mayer. Het echtpaar krijgt 3 kinderen, waarvan 2 zoontjes overleven: Oscar en Fritz. Hun dochter overlijdt na 2 dagen. Kunst speelde een belangrijke rol voor deze rijke familie. Oscar en Fritz groeien dan ook op in den huis vol kunstwerken, met dank aan de inrichting door Henriëtte. Henriëtte begeeft zich door haar artistieke en culturele interesses in een wereld voorbehouden voor mannen. 
@@ -33,3 +19,6 @@ Bron: 'Thuis in een museum' door Ulrike Müller
 
 @museummayervandenbergh
 
+![Image](/zij.was.eens/images/DHtpK_pNPZV_0.webp)
+![Image](/zij.was.eens/images/DHtpK_pNPZV_1.webp)
+![Image](/zij.was.eens/images/DHtpK_pNPZV_2.webp)

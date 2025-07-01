@@ -5,22 +5,6 @@ date: 2025-04-14 08:58:48
 header_image: /images/DIavOwCNCJY_0.webp
 ---
 
-# DIavOwCNCJY
-
-**Date:** 2025-04-14 08:58:48
-
-## Images
-
-![Image](/zij.was.eens/images/DIavOwCNCJY_0.webp)
-
-![Image](/zij.was.eens/images/DIavOwCNCJY_1.webp)
-
-![Image](/zij.was.eens/images/DIavOwCNCJY_2.webp)
-
-![Image](/zij.was.eens/images/DIavOwCNCJY_3.webp)
-
-## Caption
-
 Vandaag 113 jaar geleden zou de Titanic haar laatste dag op zee meemaken. Een van de overlevenden die tot de verbeelding spreekt is de Belgische Bertha Mayné. 
 
 Bertha Mayné is geboren op 21 juli 1887 in Brussel in een arbeidersgezin met zes kinderen. Al snel verlaat ze het ouderlijk huis om cabaretzangeres te worden, met succes. Haar beroep in het nachtleven brengt de nodige mannelijke aandacht met zich mee, onder andere van de legerofficier Fernand de Villiers. Wanneer hij naar Congo wordt gestuurd, neemt ze zijn naam aan als artiestennaam: Berthe de Villiers is geboren.
@@ -35,3 +19,7 @@ Op latere leeftijd vertelt ze wel over vroeger aan haar familie, die haar niet g
 
 Bron: Vlamingen op de Titanic - Dirk Musschoot
 
+![Image](/zij.was.eens/images/DIavOwCNCJY_0.webp)
+![Image](/zij.was.eens/images/DIavOwCNCJY_1.webp)
+![Image](/zij.was.eens/images/DIavOwCNCJY_2.webp)
+![Image](/zij.was.eens/images/DIavOwCNCJY_3.webp)

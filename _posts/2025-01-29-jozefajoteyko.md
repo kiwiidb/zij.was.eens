@@ -5,18 +5,6 @@ date: 2025-01-29 10:51:35
 header_image: /images/DFZ7YhbNSty_0.webp
 ---
 
-# DFZ7YhbNSty
-
-**Date:** 2025-01-29 10:51:35
-
-## Images
-
-![Image](/zij.was.eens/images/DFZ7YhbNSty_0.webp)
-
-![Image](/zij.was.eens/images/DFZ7YhbNSty_1.webp)
-
-## Caption
-
 Vandaag 159 jaar geleden is Józefa Joteyko geboren in Kiev.
 
 Ze groeit er op in de Poolse intellectuele elite en verhuist in 1873 dan ook met haar gezin naar Warschau, waar de kinderen volgens hun ouders een betere opleiding zouden kunnen genieten. Omdat haar moeder haar niet naar een staatsschool wilde sturen - waar de Russen de plak zwaaien en haar Poolse identiteit onder vuur zou liggen - krijgt Józefa thuis lessen van Poolse leerkrachten. Wanneer het tijd wordt om hoger onderwijs aan te vatten, trekt ze naar Genève voor de opleiding natuurwetenschappen, aangezien vrouwen niet verder mogen studeren in Polen op dat moment. Na het behalen van haar diploma trekt ze naar Parijs, waar ze in 1896 nog een diploma geneeskunde behaalt. Het is ook in Parijs dat ze haar 'levensgezellin' Michalina Stefanowska ontmoet, met wie ze ook professioneel samenwerkt. Ze blijft nog twee jaar in Parijs als arts, maar de academische wereld lonkt. 
@@ -31,3 +19,5 @@ Józefa is een overtuigd feminist en vindt dat alle jobdomeinen toegankelijk moe
 
 Bronnen: 'Emma, Louise, Marie ...' door E. Gubin & V. Piette
 
+![Image](/zij.was.eens/images/DFZ7YhbNSty_0.webp)
+![Image](/zij.was.eens/images/DFZ7YhbNSty_1.webp)

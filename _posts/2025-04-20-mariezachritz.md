@@ -5,20 +5,6 @@ date: 2025-04-20 21:45:53
 header_image: /images/DIrjyRPinpl_0.webp
 ---
 
-# DIrjyRPinpl
-
-**Date:** 2025-04-20 21:45:53
-
-## Images
-
-![Image](/zij.was.eens/images/DIrjyRPinpl_0.webp)
-
-![Image](/zij.was.eens/images/DIrjyRPinpl_1.webp)
-
-![Image](/zij.was.eens/images/DIrjyRPinpl_2.webp)
-
-## Caption
-
 Antwerpen mag de 'sterkste vrouw ter wereld' claimen! Of zou het toch Brussel zijn? 
 
 Vandaag 160 jaar geleden is Marie Zachritz in Antwerpen geboren. Haar ouders zijn uit Duitsland geëmigreerde circusartiesten.
@@ -35,3 +21,6 @@ Marie overlijdt op 11 november 1927 in haar geliefde Brussel. Haar verhaal was c
 
 Bron: Het Nieuwsblad
 
+![Image](/zij.was.eens/images/DIrjyRPinpl_0.webp)
+![Image](/zij.was.eens/images/DIrjyRPinpl_1.webp)
+![Image](/zij.was.eens/images/DIrjyRPinpl_2.webp)

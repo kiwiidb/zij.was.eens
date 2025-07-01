@@ -5,16 +5,6 @@ date: 2025-03-04 15:38:39
 header_image: /images/DGx_Q0ANYuL_0.webp
 ---
 
-# DGx_Q0ANYuL
-
-**Date:** 2025-03-04 15:38:39
-
-## Images
-
-![Image](/zij.was.eens/images/DGx_Q0ANYuL_0.webp)
-
-## Caption
-
 Vandaag 93 jaar geleden is Miriam Makeba geboren in Johannesburg, Zuid-Afrika. 
 
 Miriam breekt door met haar muziek in de jaren 50. Haar talent brengt haar op tournees doorheen Europa en de V.S. Door haar anti-apartheidsactivisme wordt haar Zuid-Afrikaans staatsburgerschap afgenomen. Miriam woont hierna in de V.S., en een periode in Guinee. Ze trouwt met Baegeot Bah, die een hoge functie bij Sabena heeft. Dit huwelijk brengt haar naar Brussel. Zelfs in de Matongéwijk is men er niet van op de hoogte dat 'Mama Africa' in ons land woont. Dankzij de luchthavenverbinding in Brussel kan Miriam makkelijk blijven touren: in 1987 vergezelt ze Paul Simon die voor zijn Graceland-tournee wil samenwerken met zwarte artiesten. Miriam haalt ook Nina Simone naar Brussel: in een studio vlakbij Koekelberg nemen de twee dames hun versie van Bob Dylans 'I shall be released' op. Een bijzonder moment. 
@@ -25,3 +15,4 @@ Het anti-apartheidsactivisme heeft Miriam overigens van geen vreemde: haar moede
 
 #ZijWasEens #MiriamMakeba
 
+![Image](/zij.was.eens/images/DGx_Q0ANYuL_0.webp)

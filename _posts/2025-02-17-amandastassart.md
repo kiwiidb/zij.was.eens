@@ -5,18 +5,6 @@ date: 2025-02-17 08:55:56
 header_image: /images/DGKpQG4tSVO_0.webp
 ---
 
-# DGKpQG4tSVO
-
-**Date:** 2025-02-17 08:55:56
-
-## Images
-
-![Image](/zij.was.eens/images/DGKpQG4tSVO_0.webp)
-
-![Image](/zij.was.eens/images/DGKpQG4tSVO_1.webp)
-
-## Caption
-
 Vandaag 102 jaar geleden is Amanda Stassart geboren in Lausanne, Zwitserland. 
 
 Terwijl haar ouders verblijven in de VS, leeft Amanda bij haar grootmoeder in Elsene. In 1936 verhuist ze naar Frankrijk. Wanneer WOII uitbreekt is het gezin actief bij het verzet, al weten ze dit niet van elkaar. Wanneer Amanda ontdekt dat haar moeder actief is bij de Komeetlijn, een netwerk dat in België neergestorte geallieerde piloten helpt ontsnappen, sluit ze zich ook aan bij dit netwerk. In 1944 worden zij en haar moeder verraden. Haar moeder sterft in Ravensbruck. Amanda wordt in 1945 bevrijd uit Mauthausen en ontdekt later dat haar vader is gestorven in het concentratiekamp Mittelbau-Dora. Voor haar inzet tijdens de oorlog krijgt ze verschillende onderscheidingen, waaronder de Amerikaanse Medal of Freedom en de British Empire Medal.
@@ -29,3 +17,5 @@ Amanda overlijdt op 4 januari 2013 in Sint-Pieters-Woluwe. In Sint-Lambrechts-Wo
 
 @8meicoalitie
 
+![Image](/zij.was.eens/images/DGKpQG4tSVO_0.webp)
+![Image](/zij.was.eens/images/DGKpQG4tSVO_1.webp)

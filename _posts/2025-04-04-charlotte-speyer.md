@@ -5,20 +5,6 @@ date: 2025-04-04 14:11:48
 header_image: /images/DIBjGc0Nh9c_0.webp
 ---
 
-# DIBjGc0Nh9c
-
-**Date:** 2025-04-04 14:11:48
-
-## Images
-
-![Image](/zij.was.eens/images/DIBjGc0Nh9c_0.webp)
-
-![Image](/zij.was.eens/images/DIBjGc0Nh9c_1.webp)
-
-![Image](/zij.was.eens/images/DIBjGc0Nh9c_2.webp)
-
-## Caption
-
 Vandaag 155 jaar geleden is Charlotte Speyer geboren in een welvarende Londense familie. Haar roepnaam is Lalla, naar haar Italiaanse grootmoeder. 
 
 Op zestienjarige leeftijd wordt Lalla naar Brussel op internaat gestuurd. In Brussel leert ze haar eerste echtgenoot kennen, maar dit huwelijk strandt. 
@@ -35,3 +21,6 @@ Bron: 'Madame Lalla Vandervelde' door Martine Vermandere
 
 @amsab_isg @zij_kant
 
+![Image](/zij.was.eens/images/DIBjGc0Nh9c_0.webp)
+![Image](/zij.was.eens/images/DIBjGc0Nh9c_1.webp)
+![Image](/zij.was.eens/images/DIBjGc0Nh9c_2.webp)
