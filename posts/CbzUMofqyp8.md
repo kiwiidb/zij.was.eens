@@ -4,13 +4,13 @@
 
 ## Images
 
-![Image](../images_posts_json/CbzUMofqyp8_0.jpg)
+![Image](../images/CbzUMofqyp8_0.jpg)
 
-![Image](../images_posts_json/CbzUMofqyp8_1.jpg)
+![Image](../images/CbzUMofqyp8_1.jpg)
 
-![Image](../images_posts_json/CbzUMofqyp8_2.jpg)
+![Image](../images/CbzUMofqyp8_2.jpg)
 
-![Image](../images_posts_json/CbzUMofqyp8_3.jpg)
+![Image](../images/CbzUMofqyp8_3.jpg)
 
 ## Caption
 

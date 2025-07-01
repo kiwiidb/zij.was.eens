@@ -4,9 +4,9 @@
 
 ## Images
 
-![Image](../images_posts_json/DIdSeVOtkC6_0.webp)
+![Image](../images/DIdSeVOtkC6_0.webp)
 
-![Image](../images_posts_json/DIdSeVOtkC6_1.webp)
+![Image](../images/DIdSeVOtkC6_1.webp)
 
 ## Caption
 

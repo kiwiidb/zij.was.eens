@@ -4,11 +4,11 @@
 
 ## Images
 
-![Image](../images_posts_json/DHtpK_pNPZV_0.webp)
+![Image](../images/DHtpK_pNPZV_0.webp)
 
-![Image](../images_posts_json/DHtpK_pNPZV_1.webp)
+![Image](../images/DHtpK_pNPZV_1.webp)
 
-![Image](../images_posts_json/DHtpK_pNPZV_2.webp)
+![Image](../images/DHtpK_pNPZV_2.webp)
 
 ## Caption
 

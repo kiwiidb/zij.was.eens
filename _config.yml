@@ -1,0 +1,31 @@
+title: "Zij Was Eens"
+description: "Verhalen van bijzondere vrouwen uit de geschiedenis"
+url: "https://kiwiidb.github.io"
+baseurl: "/zij.was.eens"
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+exclude:
+  - scrape.py
+  - instagram_parser.py
+  - posts_json/
+  - profile.json

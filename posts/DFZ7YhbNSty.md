@@ -4,9 +4,9 @@
 
 ## Images
 
-![Image](../images_posts_json/DFZ7YhbNSty_0.webp)
+![Image](../images/DFZ7YhbNSty_0.webp)
 
-![Image](../images_posts_json/DFZ7YhbNSty_1.webp)
+![Image](../images/DFZ7YhbNSty_1.webp)
 
 ## Caption
 

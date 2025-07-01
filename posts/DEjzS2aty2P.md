@@ -4,7 +4,7 @@
 
 ## Images
 
-![Image](../images_posts_json/DEjzS2aty2P_0.webp)
+![Image](../images/DEjzS2aty2P_0.webp)
 
 ## Caption
 

@@ -4,13 +4,13 @@
 
 ## Images
 
-![Image](../images_posts_json/DIavOwCNCJY_0.webp)
+![Image](../images/DIavOwCNCJY_0.webp)
 
-![Image](../images_posts_json/DIavOwCNCJY_1.webp)
+![Image](../images/DIavOwCNCJY_1.webp)
 
-![Image](../images_posts_json/DIavOwCNCJY_2.webp)
+![Image](../images/DIavOwCNCJY_2.webp)
 
-![Image](../images_posts_json/DIavOwCNCJY_3.webp)
+![Image](../images/DIavOwCNCJY_3.webp)
 
 ## Caption
 

@@ -4,13 +4,13 @@
 
 ## Images
 
-![Image](../images_posts_json/Cbm2AQ9qMsL_0.jpg)
+![Image](../images/Cbm2AQ9qMsL_0.jpg)
 
-![Image](../images_posts_json/Cbm2AQ9qMsL_1.jpg)
+![Image](../images/Cbm2AQ9qMsL_1.jpg)
 
-![Image](../images_posts_json/Cbm2AQ9qMsL_2.jpg)
+![Image](../images/Cbm2AQ9qMsL_2.jpg)
 
-![Image](../images_posts_json/Cbm2AQ9qMsL_3.jpg)
+![Image](../images/Cbm2AQ9qMsL_3.jpg)
 
 ## Caption
 

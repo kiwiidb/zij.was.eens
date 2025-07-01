@@ -4,7 +4,7 @@
 
 ## Images
 
-![Image](../images_posts_json/C2Paw_BNTT6_0.webp)
+![Image](../images/C2Paw_BNTT6_0.webp)
 
 ## Caption
 

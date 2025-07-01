@@ -4,7 +4,7 @@
 
 ## Images
 
-![Image](../images_posts_json/DIQ_HORtei2_0.webp)
+![Image](../images/DIQ_HORtei2_0.webp)
 
 ## Caption
 

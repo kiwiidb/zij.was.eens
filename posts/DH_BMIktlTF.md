@@ -4,9 +4,9 @@
 
 ## Images
 
-![Image](../images_posts_json/DH_BMIktlTF_0.webp)
+![Image](../images/DH_BMIktlTF_0.webp)
 
-![Image](../images_posts_json/DH_BMIktlTF_1.webp)
+![Image](../images/DH_BMIktlTF_1.webp)
 
 ## Caption
 

@@ -4,11 +4,11 @@
 
 ## Images
 
-![Image](../images_posts_json/DFe1VN_tFdl_0.webp)
+![Image](../images/DFe1VN_tFdl_0.webp)
 
-![Image](../images_posts_json/DFe1VN_tFdl_1.webp)
+![Image](../images/DFe1VN_tFdl_1.webp)
 
-![Image](../images_posts_json/DFe1VN_tFdl_2.webp)
+![Image](../images/DFe1VN_tFdl_2.webp)
 
 ## Caption
 

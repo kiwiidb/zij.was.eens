@@ -4,9 +4,9 @@
 
 ## Images
 
-![Image](../images_posts_json/CcvBu23q7ee_0.jpg)
+![Image](../images/CcvBu23q7ee_0.jpg)
 
-![Image](../images_posts_json/CcvBu23q7ee_1.jpg)
+![Image](../images/CcvBu23q7ee_1.jpg)
 
 ## Caption
 

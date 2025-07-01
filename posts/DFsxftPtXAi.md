@@ -4,7 +4,7 @@
 
 ## Images
 
-![Image](../images_posts_json/DFsxftPtXAi_0.webp)
+![Image](../images/DFsxftPtXAi_0.webp)
 
 ## Caption
 

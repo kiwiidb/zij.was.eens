@@ -4,11 +4,11 @@
 
 ## Images
 
-![Image](../images_posts_json/DIUYL_dt_uF_0.webp)
+![Image](../images/DIUYL_dt_uF_0.webp)
 
-![Image](../images_posts_json/DIUYL_dt_uF_1.webp)
+![Image](../images/DIUYL_dt_uF_1.webp)
 
-![Image](../images_posts_json/DIUYL_dt_uF_2.webp)
+![Image](../images/DIUYL_dt_uF_2.webp)
 
 ## Caption
 

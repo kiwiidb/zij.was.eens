@@ -4,11 +4,11 @@
 
 ## Images
 
-![Image](../images_posts_json/DIW91MatyPY_0.webp)
+![Image](../images/DIW91MatyPY_0.webp)
 
-![Image](../images_posts_json/DIW91MatyPY_1.webp)
+![Image](../images/DIW91MatyPY_1.webp)
 
-![Image](../images_posts_json/DIW91MatyPY_2.webp)
+![Image](../images/DIW91MatyPY_2.webp)
 
 ## Caption
 

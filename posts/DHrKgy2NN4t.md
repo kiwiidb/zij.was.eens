@@ -4,15 +4,15 @@
 
 ## Images
 
-![Image](../images_posts_json/DHrKgy2NN4t_0.webp)
+![Image](../images/DHrKgy2NN4t_0.webp)
 
-![Image](../images_posts_json/DHrKgy2NN4t_1.webp)
+![Image](../images/DHrKgy2NN4t_1.webp)
 
-![Image](../images_posts_json/DHrKgy2NN4t_2.webp)
+![Image](../images/DHrKgy2NN4t_2.webp)
 
-![Image](../images_posts_json/DHrKgy2NN4t_3.webp)
+![Image](../images/DHrKgy2NN4t_3.webp)
 
-![Image](../images_posts_json/DHrKgy2NN4t_4.webp)
+![Image](../images/DHrKgy2NN4t_4.webp)
 
 ## Caption
 

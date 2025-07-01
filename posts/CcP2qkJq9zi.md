@@ -4,7 +4,7 @@
 
 ## Images
 
-![Image](../images_posts_json/CcP2qkJq9zi_0.jpg)
+![Image](../images/CcP2qkJq9zi_0.jpg)
 
 ## Caption
 

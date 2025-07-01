@@ -4,7 +4,7 @@
 
 ## Images
 
-![Image](../images_posts_json/C_skua_tSpA_0.webp)
+![Image](../images/C_skua_tSpA_0.webp)
 
 ## Caption
 

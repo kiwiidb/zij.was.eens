@@ -4,11 +4,11 @@
 
 ## Images
 
-![Image](../images_posts_json/ChbfcI_KCJE_0.jpg)
+![Image](../images/ChbfcI_KCJE_0.jpg)
 
-![Image](../images_posts_json/ChbfcI_KCJE_1.jpg)
+![Image](../images/ChbfcI_KCJE_1.jpg)
 
-![Image](../images_posts_json/ChbfcI_KCJE_2.jpg)
+![Image](../images/ChbfcI_KCJE_2.jpg)
 
 ## Caption
 

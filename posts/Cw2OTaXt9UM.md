@@ -4,9 +4,9 @@
 
 ## Images
 
-![Image](../images_posts_json/Cw2OTaXt9UM_0.jpg)
+![Image](../images/Cw2OTaXt9UM_0.jpg)
 
-![Image](../images_posts_json/Cw2OTaXt9UM_1.jpg)
+![Image](../images/Cw2OTaXt9UM_1.jpg)
 
 ## Caption
 

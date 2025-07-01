@@ -4,13 +4,13 @@
 
 ## Images
 
-![Image](../images_posts_json/DIZJVYgtMtB_0.webp)
+![Image](../images/DIZJVYgtMtB_0.webp)
 
-![Image](../images_posts_json/DIZJVYgtMtB_1.webp)
+![Image](../images/DIZJVYgtMtB_1.webp)
 
-![Image](../images_posts_json/DIZJVYgtMtB_2.webp)
+![Image](../images/DIZJVYgtMtB_2.webp)
 
-![Image](../images_posts_json/DIZJVYgtMtB_3.webp)
+![Image](../images/DIZJVYgtMtB_3.webp)
 
 ## Caption
 

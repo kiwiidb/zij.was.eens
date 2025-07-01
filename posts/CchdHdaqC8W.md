@@ -4,11 +4,11 @@
 
 ## Images
 
-![Image](../images_posts_json/CchdHdaqC8W_0.jpg)
+![Image](../images/CchdHdaqC8W_0.jpg)
 
-![Image](../images_posts_json/CchdHdaqC8W_1.jpg)
+![Image](../images/CchdHdaqC8W_1.jpg)
 
-![Image](../images_posts_json/CchdHdaqC8W_2.jpg)
+![Image](../images/CchdHdaqC8W_2.jpg)
 
 ## Caption
 
