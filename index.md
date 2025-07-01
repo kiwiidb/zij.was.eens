@@ -2,7 +2,17 @@
 layout: default
 title: Home
 ---
+<input type="text" id="search-input" placeholder="Search">
+<ul id="results-container"></ul>
 
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json'
+  })
+</script>
 <div class="posts-grid">
     {% for post in site.posts %}
         <article class="post-card">

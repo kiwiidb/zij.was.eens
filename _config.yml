@@ -87,6 +87,7 @@ exclude:
   - instagram_parser.py
   - posts_json/
   - profile.json
+  - search.json
   - posts_extract.json
   - Gemfile
   - Gemfile.lock
