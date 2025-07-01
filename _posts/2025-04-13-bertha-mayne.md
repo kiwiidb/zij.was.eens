@@ -2,7 +2,7 @@
 layout: post
 title: "Bertha Mayné"
 date: 2025-04-14 08:58:48
-header_image: /zij.was.eens/images/DIavOwCNCJY_0.webp
+header_image: /images/DIavOwCNCJY_0.webp
 ---
 
 # DIavOwCNCJY

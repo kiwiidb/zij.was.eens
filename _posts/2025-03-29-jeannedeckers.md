@@ -2,7 +2,7 @@
 layout: post
 title: "Jeanne Deckers"
 date: 2025-03-29 19:37:46
-header_image: /zij.was.eens/images/DHyygFstKyM_0.webp
+header_image: /images/DHyygFstKyM_0.webp
 ---
 
 # DHyygFstKyM

@@ -2,7 +2,7 @@
 layout: post
 title: "Marguerite Acarin"
 date: 2025-03-30 10:10:23
-header_image: /zij.was.eens/images/DH0PfzxtBsz_0.webp
+header_image: /images/DH0PfzxtBsz_0.webp
 ---
 
 # DH0PfzxtBsz

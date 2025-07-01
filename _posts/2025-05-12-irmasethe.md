@@ -2,7 +2,7 @@
 layout: post
 title: "Irma Sèthe"
 date: 2025-05-12 09:32:59
-header_image: /zij.was.eens/images/DJi5Zj3t1uM_0.webp
+header_image: /images/DJi5Zj3t1uM_0.webp
 ---
 
 # DJi5Zj3t1uM

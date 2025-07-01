@@ -2,7 +2,7 @@
 layout: post
 title: "Gabrielle Petit"
 date: 2022-04-01 10:30:52
-header_image: /zij.was.eens/images/CbzUMofqyp8_0.jpg
+header_image: /images/CbzUMofqyp8_0.jpg
 ---
 
 # CbzUMofqyp8

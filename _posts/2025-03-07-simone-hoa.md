@@ -2,7 +2,7 @@
 layout: post
 title: "Simone Hoa"
 date: 2025-03-07 12:59:56
-header_image: /zij.was.eens/images/DG5bfDCNmC6_0.webp
+header_image: /images/DG5bfDCNmC6_0.webp
 ---
 
 # DG5bfDCNmC6

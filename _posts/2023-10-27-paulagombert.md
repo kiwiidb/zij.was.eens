@@ -2,7 +2,7 @@
 layout: post
 title: "Paula Gombert"
 date: 2023-10-27 20:31:55
-header_image: /zij.was.eens/images/Cy6ZREmNn3i_0.webp
+header_image: /images/Cy6ZREmNn3i_0.webp
 ---
 
 # Cy6ZREmNn3i

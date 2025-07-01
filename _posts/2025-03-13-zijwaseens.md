@@ -2,7 +2,7 @@
 layout: post
 title: "Thérèse Goldschmidt"
 date: 2025-03-13 11:13:53
-header_image: /zij.was.eens/images/DHIsHiGt7i5_0.webp
+header_image: /images/DHIsHiGt7i5_0.webp
 ---
 
 # DHIsHiGt7i5

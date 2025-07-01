@@ -2,7 +2,7 @@
 layout: post
 title: "Jenny Addams"
 date: 2025-02-15 18:50:23
-header_image: /zij.was.eens/images/DGGjsPttkT1_0.webp
+header_image: /images/DGGjsPttkT1_0.webp
 ---
 
 # DGGjsPttkT1

@@ -2,7 +2,7 @@
 layout: post
 title: "Germaine Van Parys"
 date: 2022-08-19 07:35:42
-header_image: /zij.was.eens/images/ChbfcI_KCJE_0.jpg
+header_image: /images/ChbfcI_KCJE_0.jpg
 ---
 
 # ChbfcI_KCJE

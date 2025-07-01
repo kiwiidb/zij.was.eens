@@ -2,7 +2,7 @@
 layout: post
 title: "Sara Huysmans"
 date: 2024-01-18 13:03:14
-header_image: /zij.was.eens/images/C2Paw_BNTT6_0.webp
+header_image: /images/C2Paw_BNTT6_0.webp
 ---
 
 # C2Paw_BNTT6

@@ -2,7 +2,7 @@
 layout: post
 title: "Eugénie Hamer"
 date: 2025-04-28 16:05:39
-header_image: /zij.was.eens/images/DI_jNPgoplD_0.webp
+header_image: /images/DI_jNPgoplD_0.webp
 ---
 
 # DI_jNPgoplD

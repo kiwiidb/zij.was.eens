@@ -2,7 +2,7 @@
 layout: post
 title: "Monique Martin"
 date: 2024-09-09 14:30:48
-header_image: /zij.was.eens/images/C_skua_tSpA_0.webp
+header_image: /images/C_skua_tSpA_0.webp
 ---
 
 # C_skua_tSpA

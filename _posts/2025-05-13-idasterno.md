@@ -2,7 +2,7 @@
 layout: post
 title: "Ida Sterno"
 date: 2025-05-13 14:18:03
-header_image: /zij.was.eens/images/DJl-0RQtmYo_0.webp
+header_image: /images/DJl-0RQtmYo_0.webp
 ---
 
 # DJl-0RQtmYo

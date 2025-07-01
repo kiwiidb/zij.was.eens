@@ -2,7 +2,7 @@
 layout: post
 title: "Antoinette Vandeputte"
 date: 2025-04-21 19:25:48
-header_image: /zij.was.eens/images/DIt4jIut76Y_0.webp
+header_image: /images/DIt4jIut76Y_0.webp
 ---
 
 # DIt4jIut76Y

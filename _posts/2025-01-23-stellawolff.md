@@ -2,7 +2,7 @@
 layout: post
 title: "Stella Wolff"
 date: 2025-01-23 08:32:30
-header_image: /zij.was.eens/images/DFKOsrQNuL0_0.webp
+header_image: /images/DFKOsrQNuL0_0.webp
 ---
 
 # DFKOsrQNuL0

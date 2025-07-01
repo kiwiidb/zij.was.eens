@@ -2,7 +2,7 @@
 layout: post
 title: "Ida Simons"
 date: 2025-03-11 10:18:22
-header_image: /zij.was.eens/images/DHDcLJct_q-_0.webp
+header_image: /images/DHDcLJct_q-_0.webp
 ---
 
 # DHDcLJct_q-

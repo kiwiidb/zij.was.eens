@@ -2,7 +2,7 @@
 layout: post
 title: "Tina Lucas"
 date: 2022-08-16 14:38:13
-header_image: /zij.was.eens/images/ChUhaLNKsSV_0.jpg
+header_image: /images/ChUhaLNKsSV_0.jpg
 ---
 
 # ChUhaLNKsSV

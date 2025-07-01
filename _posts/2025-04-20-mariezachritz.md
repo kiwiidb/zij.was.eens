@@ -2,7 +2,7 @@
 layout: post
 title: "Marie Zachritz"
 date: 2025-04-20 21:45:53
-header_image: /zij.was.eens/images/DIrjyRPinpl_0.webp
+header_image: /images/DIrjyRPinpl_0.webp
 ---
 
 # DIrjyRPinpl

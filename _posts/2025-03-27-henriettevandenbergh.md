@@ -2,7 +2,7 @@
 layout: post
 title: "Henriette Van den Bergh"
 date: 2025-03-27 19:40:03
-header_image: /zij.was.eens/images/DHtpK_pNPZV_0.webp
+header_image: /images/DHtpK_pNPZV_0.webp
 ---
 
 # DHtpK_pNPZV

@@ -2,7 +2,7 @@
 layout: post
 title: "Eva Dell'Acqua"
 date: 2025-01-28 09:26:22
-header_image: /zij.was.eens/images/DFXM1g1NyZQ_0.webp
+header_image: /images/DFXM1g1NyZQ_0.webp
 ---
 
 # DFXM1g1NyZQ

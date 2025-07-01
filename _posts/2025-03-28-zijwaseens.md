@@ -2,7 +2,7 @@
 layout: post
 title: "Claire Préaux"
 date: 2025-03-28 21:47:57
-header_image: /zij.was.eens/images/DHwcmtINuDm_0.webp
+header_image: /images/DHwcmtINuDm_0.webp
 ---
 
 # DHwcmtINuDm

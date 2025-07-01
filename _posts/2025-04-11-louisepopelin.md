@@ -2,7 +2,7 @@
 layout: post
 title: "Louise Popelin"
 date: 2025-04-11 21:42:01
-header_image: /zij.was.eens/images/DIUYL_dt_uF_0.webp
+header_image: /images/DIUYL_dt_uF_0.webp
 ---
 
 # DIUYL_dt_uF

@@ -2,7 +2,7 @@
 layout: post
 title: "Madeleine De Meulemeester"
 date: 2024-01-08 16:47:59
-header_image: /zij.was.eens/images/C12EiQdtxCo_0.webp
+header_image: /images/C12EiQdtxCo_0.webp
 ---
 
 ![Madeleine De Meulemeester](/zij.was.eens/images/C12EiQdtxCo_0.webp)

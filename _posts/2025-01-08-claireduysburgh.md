@@ -2,7 +2,7 @@
 layout: post
 title: "Claire Duysburgh"
 date: 2025-01-08 10:21:54
-header_image: /zij.was.eens/images/DEjzS2aty2P_0.webp
+header_image: /images/DEjzS2aty2P_0.webp
 ---
 
 # DEjzS2aty2P

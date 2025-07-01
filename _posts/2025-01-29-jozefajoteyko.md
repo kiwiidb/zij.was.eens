@@ -2,7 +2,7 @@
 layout: post
 title: "Józefa Joteyko"
 date: 2025-01-29 10:51:35
-header_image: /zij.was.eens/images/DFZ7YhbNSty_0.webp
+header_image: /images/DFZ7YhbNSty_0.webp
 ---
 
 # DFZ7YhbNSty

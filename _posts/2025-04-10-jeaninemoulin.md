@@ -2,7 +2,7 @@
 layout: post
 title: "Jeanine Moulin"
 date: 2025-04-10 14:05:11
-header_image: /zij.was.eens/images/DIQ_HORtei2_0.webp
+header_image: /images/DIQ_HORtei2_0.webp
 ---
 
 # DIQ_HORtei2

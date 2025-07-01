@@ -2,7 +2,7 @@
 layout: post
 title: "Emma Lambotte"
 date: 2025-03-18 15:21:44
-header_image: /zij.was.eens/images/DHWAdMBo0iY_0.webp
+header_image: /images/DHWAdMBo0iY_0.webp
 ---
 
 # DHWAdMBo0iY

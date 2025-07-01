@@ -2,7 +2,7 @@
 layout: post
 title: "Lucia De Brouckere"
 date: 2023-07-13 19:02:56
-header_image: /zij.was.eens/images/CupS0matJZf_0.jpg
+header_image: /images/CupS0matJZf_0.jpg
 ---
 
 # CupS0matJZf
