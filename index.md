@@ -11,7 +11,7 @@ title: Home
   SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
-    json: {{ "/search.json" | relative_url }}',
+    json: '{{ "/search.json" | relative_url }}',
     searchResultTemplate: '<li><a href="{url}" class="search-result-item"><h3>{title}</h3><p>{excerpt}</p><time>{date}</time></a></li>',
     noResultsText: '<li class="no-results">No results found</li>',
     limit: 10,
