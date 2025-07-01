@@ -1,0 +1,23 @@
+# ChWnqurqIJs
+
+**Date:** 2022-08-17 10:11:23
+
+## Images
+
+![Image](../images_posts_json/ChWnqurqIJs_0.jpg)
+
+![Image](../images_posts_json/ChWnqurqIJs_1.jpg)
+
+## Caption
+
+Wist je dat er een verrassend aantal vrouwen in België destijds furore hebben kunnen maken als componist? 
+
+Een van hen is Suzanne Daneau, vandaag 121 jaar geleden geboren in Doornik. Daneau is de dochter van componist Nicolas Daneau en heeft de liefde voor muziek met de paplepel meegekregen. Haar vader is haar eerste leraar en vanaf haar 7 jaar volgt ze dan ook pianolessen aan de Académie de musique in Doornik. Haar vader, die in 1919 benoemd wordt als directeur aan het conservatorium van Bergen weigert gek genoeg om zijn dochter lessen te laten volgen aan zijn instelling. De goede man plooit pas een jaar later, waardoor Daneau zich pas in 1920 kan inschrijven en les krijgt van grote Belgische virtuozen. Na haar opleiding blijft ze oefenen onder het toeziend oog van Arthur De Greef en Paul Gilson. Haar vader ontpopt zich tot een echte Kris Jenner 'momager' en zorgt ervoor dat ze bij verschillende conferenties kan spelen. Hij is dan ook enorm teleurgesteld wanneer ze het niet goed doet bij enkele belangrijke internationale muziekwedstrijden, inclusief een ruzie met Camille Huysmans, toen Minister van Schone Kunsten en Onderwijs.
+
+Hoewel haar oeuvre vandaag de dag in de vergetelheid is geraakt, heeft ze wel enkele bescheiden successen met haar composities. Daneau zal zich naar het einde van haar carrière meer richten op muziekonderwijs en neemt ook de voorzittersfunctie van haar vader bij de Jury International des Etudes Musicales over na diens overlijden.
+
+Bron: La Biographie Nationale
+Bron beeld: Dictionnaire des femmes belges 
+
+#SuzanneDaneau #ZijWasEens
+
