@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BertheBovy"
+title: "Berthe Bovy"
 date: 2025-01-06 13:11:54
 header_image: /zij.was.eens/images/DEe9KLlN6rj_0.webp
 ---

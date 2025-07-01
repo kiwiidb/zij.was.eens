@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micheline"
+title: "Micheline Lannoy"
 date: 2024-01-15 09:13:56
 header_image: /zij.was.eens/images/C2HSI0pNLMi_0.webp
 ---

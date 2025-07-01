@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MarinaChafroff"
+title: "Marina Chafroff"
 date: 2025-01-31 08:34:54
 header_image: /zij.was.eens/images/DFe1VN_tFdl_0.webp
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SuzyWandas"
+title: "Suzy Wandas"
 date: 2025-03-05 12:04:15
 header_image: /zij.was.eens/images/DG0Lhd4NHMu_0.webp
 ---

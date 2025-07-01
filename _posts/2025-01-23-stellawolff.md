@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "StellaWolff"
+title: "Stella Wolff"
 date: 2025-01-23 08:32:30
 header_image: /zij.was.eens/images/DFKOsrQNuL0_0.webp
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZijWasEens"
+title: "Andrée Geulen"
 date: 2023-09-06 12:36:22
 header_image: /zij.was.eens/images/Cw2OTaXt9UM_0.jpg
 ---

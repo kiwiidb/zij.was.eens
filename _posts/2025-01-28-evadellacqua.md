@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EvaDellAcqua"
+title: "Eva Dell'Acqua"
 date: 2025-01-28 09:26:22
 header_image: /zij.was.eens/images/DFXM1g1NyZQ_0.webp
 ---

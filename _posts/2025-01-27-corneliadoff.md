@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CorneliaDoff"
+title: "Cornelia Doff"
 date: 2025-01-27 14:07:33
 header_image: /zij.was.eens/images/DFVIOGKNn_K_0.webp
 ---

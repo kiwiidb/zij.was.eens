@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FlorentinaMosora"
+title: "Florentina Mosora"
 date: 2025-01-07 07:09:38
 header_image: /zij.was.eens/images/DEg4fv1Niby_0.webp
 ---

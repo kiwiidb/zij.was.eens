@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MiriamMakeba"
+title: "Miriam Makeba"
 date: 2025-03-04 15:38:39
 header_image: /zij.was.eens/images/DGx_Q0ANYuL_0.webp
 ---

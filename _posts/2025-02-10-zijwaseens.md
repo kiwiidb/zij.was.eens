@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZijWasEens"
+title: "Stemrecht"
 date: 2025-02-10 19:08:34
 header_image: /zij.was.eens/images/DF5tzHSt2Y9_0.webp
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zij Was Eens - Lancering"
+title: "Rosa VZW"
 date: 2023-10-26 15:02:48
 header_image: /zij.was.eens/images/Cy3Ozubtv_g_0.webp
 ---
