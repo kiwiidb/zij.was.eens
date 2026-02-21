@@ -84,10 +84,14 @@ social:
 # Build exclusions
 exclude:
   - scrape.py
+  - sync_new_posts.py
   - instagram_parser.py
+  - extract_post_info.py
+  - extract_first_images.py
   - posts_json/
   - profile.json
   - posts_extract.json
+  - all_posts_dump.json
   - Gemfile
   - Gemfile.lock
   - node_modules
