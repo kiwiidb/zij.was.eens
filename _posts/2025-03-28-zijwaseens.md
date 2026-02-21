@@ -15,6 +15,6 @@ Ze leidt tientallen generaties leerkrachten Grieks en Latijn op en staat bekend 
 
 Bronnen: CPEG, Le Soir Illustré (1945)
 
-![Image](/zij.was.eens/images/DHwcmtINuDm_0.webp)
-![Image](/zij.was.eens/images/DHwcmtINuDm_1.webp)
-![Image](/zij.was.eens/images/DHwcmtINuDm_2.webp)
+![Image](/images/DHwcmtINuDm_0.webp)
+![Image](/images/DHwcmtINuDm_1.webp)
+![Image](/images/DHwcmtINuDm_2.webp)

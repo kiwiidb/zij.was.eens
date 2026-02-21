@@ -19,4 +19,4 @@ Bronnen: Zwinstreek.eu, the-low-countries.com, amsterdam.nl
 
 #ZijWasEens #CorneliaDoff #NeelDoff #KeetjeTippel
 
-![Image](/zij.was.eens/images/DFVIOGKNn_K_0.webp)
+![Image](/images/DFVIOGKNn_K_0.webp)

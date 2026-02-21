@@ -15,10 +15,10 @@ Het is in datzelfde jaar dat ze voor het eerst te horen krijgt dat ze niet aan t
 
 (Vervolg in comments)
 
-![Image](/zij.was.eens/images/DNabgy_tKXz_0.webp)
-![Image](/zij.was.eens/images/DNabgy_tKXz_1.webp)
-![Image](/zij.was.eens/images/DNabgy_tKXz_2.webp)
-![Image](/zij.was.eens/images/DNabgy_tKXz_3.webp)
-![Image](/zij.was.eens/images/DNabgy_tKXz_4.webp)
-![Image](/zij.was.eens/images/DNabgy_tKXz_5.webp)
-![Image](/zij.was.eens/images/DNabgy_tKXz_6.webp)
+![Image](/images/DNabgy_tKXz_0.webp)
+![Image](/images/DNabgy_tKXz_1.webp)
+![Image](/images/DNabgy_tKXz_2.webp)
+![Image](/images/DNabgy_tKXz_3.webp)
+![Image](/images/DNabgy_tKXz_4.webp)
+![Image](/images/DNabgy_tKXz_5.webp)
+![Image](/images/DNabgy_tKXz_6.webp)

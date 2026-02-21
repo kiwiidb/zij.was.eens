@@ -15,4 +15,4 @@ Het anti-apartheidsactivisme heeft Miriam overigens van geen vreemde: haar moede
 
 #ZijWasEens #MiriamMakeba
 
-![Image](/zij.was.eens/images/DGx_Q0ANYuL_0.webp)
+![Image](/images/DGx_Q0ANYuL_0.webp)

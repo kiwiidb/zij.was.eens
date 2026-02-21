@@ -18,6 +18,6 @@ Na een zeer succesvolle carrière wordt Barbe-Louise ziek en overlijdt ze op 4 d
 
 Bron: Revue de la Banque n°8 (1969)
 
-![Image](/zij.was.eens/images/DRRWfBsik8t_0.webp)
-![Image](/zij.was.eens/images/DRRWfBsik8t_1.webp)
-![Image](/zij.was.eens/images/DRRWfBsik8t_2.webp)
+![Image](/images/DRRWfBsik8t_0.webp)
+![Image](/images/DRRWfBsik8t_1.webp)
+![Image](/images/DRRWfBsik8t_2.webp)

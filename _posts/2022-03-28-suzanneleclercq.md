@@ -13,5 +13,5 @@ Leclercq overlijdt op 12 juni 1994.
 
 Foto's: archieven Universiteit van Luik
 
-![Image](/zij.was.eens/images/CbpHsZKqrIg_0.jpg)
-![Image](/zij.was.eens/images/CbpHsZKqrIg_1.jpg)
+![Image](/images/CbpHsZKqrIg_0.jpg)
+![Image](/images/CbpHsZKqrIg_1.jpg)

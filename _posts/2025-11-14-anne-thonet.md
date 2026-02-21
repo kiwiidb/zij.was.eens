@@ -17,6 +17,6 @@ In de laatste jaren van haar leven wordt haar kunst donkerder. Anne lijdt aan de
 
 Schilderijen: website Koninklijke Musea voor Schone Kunsten van België
 
-![Image](/zij.was.eens/images/DRB4b2LCu2N_0.webp)
-![Image](/zij.was.eens/images/DRB4b2LCu2N_1.webp)
-![Image](/zij.was.eens/images/DRB4b2LCu2N_2.webp)
+![Image](/images/DRB4b2LCu2N_0.webp)
+![Image](/images/DRB4b2LCu2N_1.webp)
+![Image](/images/DRB4b2LCu2N_2.webp)

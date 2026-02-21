@@ -12,5 +12,5 @@ Renson schreef zich in 1912 in aan de ULB, maar door het uitbreken van WOI is ze
 
 Illustratie & foto: Dictionnaire des femmes belges
 
-![Image](/zij.was.eens/images/CbuEt-RqZjt_0.jpg)
-![Image](/zij.was.eens/images/CbuEt-RqZjt_1.jpg)
+![Image](/images/CbuEt-RqZjt_0.jpg)
+![Image](/images/CbuEt-RqZjt_1.jpg)

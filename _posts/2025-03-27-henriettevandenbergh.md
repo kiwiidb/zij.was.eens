@@ -19,6 +19,6 @@ Bron: 'Thuis in een museum' door Ulrike Müller
 
 @museummayervandenbergh
 
-![Image](/zij.was.eens/images/DHtpK_pNPZV_0.webp)
-![Image](/zij.was.eens/images/DHtpK_pNPZV_1.webp)
-![Image](/zij.was.eens/images/DHtpK_pNPZV_2.webp)
+![Image](/images/DHtpK_pNPZV_0.webp)
+![Image](/images/DHtpK_pNPZV_1.webp)
+![Image](/images/DHtpK_pNPZV_2.webp)

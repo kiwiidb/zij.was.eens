@@ -17,4 +17,4 @@ Eva overlijdt op 12 februari 1930 in Elsene.
 
 Bronnen: Crescendo Magazine, Ronnydeschepper.be
 
-![Image](/zij.was.eens/images/DFXM1g1NyZQ_0.webp)
+![Image](/images/DFXM1g1NyZQ_0.webp)

@@ -21,6 +21,6 @@ Marie overlijdt op 11 november 1927 in haar geliefde Brussel. Haar verhaal was c
 
 Bron: Het Nieuwsblad
 
-![Image](/zij.was.eens/images/DIrjyRPinpl_0.webp)
-![Image](/zij.was.eens/images/DIrjyRPinpl_1.webp)
-![Image](/zij.was.eens/images/DIrjyRPinpl_2.webp)
+![Image](/images/DIrjyRPinpl_0.webp)
+![Image](/images/DIrjyRPinpl_1.webp)
+![Image](/images/DIrjyRPinpl_2.webp)

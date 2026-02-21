@@ -12,4 +12,4 @@ Foto: Amsab
 
 #ZijWasEens
 
-![Image](/zij.was.eens/images/C2Paw_BNTT6_0.webp)
+![Image](/images/C2Paw_BNTT6_0.webp)

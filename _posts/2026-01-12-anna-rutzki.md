@@ -17,7 +17,7 @@ Je kan een struikelsteen ter herdenking van Anna terugvinden in de Lange Leemstr
 
 Bron: getuigen.be
 
-![Image](/zij.was.eens/images/DTZymLiij7__0.webp)
-![Image](/zij.was.eens/images/DTZymLiij7__1.webp)
-![Image](/zij.was.eens/images/DTZymLiij7__2.webp)
-![Image](/zij.was.eens/images/DTZymLiij7__3.webp)
+![Image](/images/DTZymLiij7__0.webp)
+![Image](/images/DTZymLiij7__1.webp)
+![Image](/images/DTZymLiij7__2.webp)
+![Image](/images/DTZymLiij7__3.webp)

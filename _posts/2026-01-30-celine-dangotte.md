@@ -19,7 +19,7 @@ Céline Dangotte wordt geëerd met een straat in Oostakker.
 
 Bron: May Sarton - 'A world of light', Brood & Rozen (bijdrage van Gita Deneckere over Céline en de vrijmetselarij), masterproef over Mabel Elwes 'Overal in thuis'
 
-![Image](/zij.was.eens/images/DUJAwCeCgAh_0.webp)
-![Image](/zij.was.eens/images/DUJAwCeCgAh_1.webp)
-![Image](/zij.was.eens/images/DUJAwCeCgAh_2.webp)
-![Image](/zij.was.eens/images/DUJAwCeCgAh_3.webp)
+![Image](/images/DUJAwCeCgAh_0.webp)
+![Image](/images/DUJAwCeCgAh_1.webp)
+![Image](/images/DUJAwCeCgAh_2.webp)
+![Image](/images/DUJAwCeCgAh_3.webp)

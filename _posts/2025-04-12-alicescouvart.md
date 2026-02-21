@@ -17,6 +17,6 @@ Alice wordt in 1927 aangesteld tot directeur van het 'Athenée des jeunes filles
 
 #ZijWasEens #AliceScouvart
 
-![Image](/zij.was.eens/images/DIW91MatyPY_0.webp)
-![Image](/zij.was.eens/images/DIW91MatyPY_1.webp)
-![Image](/zij.was.eens/images/DIW91MatyPY_2.webp)
+![Image](/images/DIW91MatyPY_0.webp)
+![Image](/images/DIW91MatyPY_1.webp)
+![Image](/images/DIW91MatyPY_2.webp)

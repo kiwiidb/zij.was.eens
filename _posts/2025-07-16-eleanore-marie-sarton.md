@@ -17,4 +17,4 @@ In haar geboorteplek Wondelgem is er sinds 1989 een May Sartonstraat.
 
 #ZijWasEens #MaySarton
 
-![Image](/zij.was.eens/images/DMKNXcDtIe9_0.webp)
+![Image](/images/DMKNXcDtIe9_0.webp)

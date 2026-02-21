@@ -19,5 +19,5 @@ Bron: Maison du Souvenir
 
 @8meicoalitie
 
-![Image](/zij.was.eens/images/DNC3ol8tRn0_0.webp)
-![Image](/zij.was.eens/images/DNC3ol8tRn0_1.webp)
+![Image](/images/DNC3ol8tRn0_0.webp)
+![Image](/images/DNC3ol8tRn0_1.webp)

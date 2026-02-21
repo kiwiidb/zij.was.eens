@@ -15,4 +15,4 @@ Wanneer in de jaren 80 een mysterieuze ziekte uitbreekt in het milieu van drugsv
 
 (Lees zeker verder in de comments!)
 
-![Image](/zij.was.eens/images/DFsxftPtXAi_0.webp)
+![Image](/images/DFsxftPtXAi_0.webp)

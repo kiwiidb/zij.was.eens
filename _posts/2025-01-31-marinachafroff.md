@@ -19,6 +19,6 @@ Saillant detail: Marina's tante langs moederszijde is de Sovjet-schutter Nina Pe
 
 #ZijWasEens #MarinaChafroff
 
-![Image](/zij.was.eens/images/DFe1VN_tFdl_0.webp)
-![Image](/zij.was.eens/images/DFe1VN_tFdl_1.webp)
-![Image](/zij.was.eens/images/DFe1VN_tFdl_2.webp)
+![Image](/images/DFe1VN_tFdl_0.webp)
+![Image](/images/DFe1VN_tFdl_1.webp)
+![Image](/images/DFe1VN_tFdl_2.webp)

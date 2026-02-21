@@ -17,7 +17,7 @@ Als verpleegkundige gaat Marie mee met haar oudste zoon en haar echtgenoot naar 
 
 Bronnen: er is veel geschreven over Marie Depage, maar via VRT NWS vind je een goed samenvattend artikel terug geschreven door Rode Kruis-archivaris Luc De Munck
 
-![Image](/zij.was.eens/images/DJWpmOltIt4_0.webp)
-![Image](/zij.was.eens/images/DJWpmOltIt4_1.webp)
-![Image](/zij.was.eens/images/DJWpmOltIt4_2.webp)
-![Image](/zij.was.eens/images/DJWpmOltIt4_3.webp)
+![Image](/images/DJWpmOltIt4_0.webp)
+![Image](/images/DJWpmOltIt4_1.webp)
+![Image](/images/DJWpmOltIt4_2.webp)
+![Image](/images/DJWpmOltIt4_3.webp)

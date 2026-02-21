@@ -19,7 +19,7 @@ Hélène overlijdt op 26 juni 1961 in Parijs. In Gent, Brussel en geboortestad D
 
 Het boek 'Hélène Dutrieu. De vrouw die door de Olympia vloog' is een absolute aanrader als je meer interesse hebt in dit onderwerp!
 
-![Image](/zij.was.eens/images/DL7neEqNg2S_0.webp)
-![Image](/zij.was.eens/images/DL7neEqNg2S_1.webp)
-![Image](/zij.was.eens/images/DL7neEqNg2S_2.webp)
-![Image](/zij.was.eens/images/DL7neEqNg2S_3.webp)
+![Image](/images/DL7neEqNg2S_0.webp)
+![Image](/images/DL7neEqNg2S_1.webp)
+![Image](/images/DL7neEqNg2S_2.webp)
+![Image](/images/DL7neEqNg2S_3.webp)

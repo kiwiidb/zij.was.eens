@@ -13,4 +13,4 @@ Depelsenaire heeft getuigd tijdens het proces van Breendonk. Over haar ervaringe
 
 #ZijWasEens #Vrouwengeschiedenis #BettyDepelsenaire #ElizabethSneyers #RedOrchestra #DieRoteKapelle
 
-![Image](/zij.was.eens/images/ChmyAOvqRRK_0.jpg)
+![Image](/images/ChmyAOvqRRK_0.jpg)

@@ -11,4 +11,4 @@ De Vriese studeert af met een aantal mooie prijzen op zak. Met dit prijzengeld s
 
 Bron: Bestor, UGentMemorie
 
-![Image](/zij.was.eens/images/DAYIOe7tRxu_0.webp)
+![Image](/images/DAYIOe7tRxu_0.webp)

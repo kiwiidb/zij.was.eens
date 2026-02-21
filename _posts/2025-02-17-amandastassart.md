@@ -17,5 +17,5 @@ Amanda overlijdt op 4 januari 2013 in Sint-Pieters-Woluwe. In Sint-Lambrechts-Wo
 
 @8meicoalitie
 
-![Image](/zij.was.eens/images/DGKpQG4tSVO_0.webp)
-![Image](/zij.was.eens/images/DGKpQG4tSVO_1.webp)
+![Image](/images/DGKpQG4tSVO_0.webp)
+![Image](/images/DGKpQG4tSVO_1.webp)

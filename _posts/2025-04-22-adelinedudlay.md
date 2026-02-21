@@ -15,7 +15,7 @@ Ze overlijdt op 15 november 1934 in Parijs en ligt begraven op de bekende begraa
 
 #ZijWasEens #AdelineDudlay #AdelineDulait
 
-![Image](/zij.was.eens/images/DIvTr2ltNZY_0.webp)
-![Image](/zij.was.eens/images/DIvTr2ltNZY_1.webp)
-![Image](/zij.was.eens/images/DIvTr2ltNZY_2.webp)
-![Image](/zij.was.eens/images/DIvTr2ltNZY_3.webp)
+![Image](/images/DIvTr2ltNZY_0.webp)
+![Image](/images/DIvTr2ltNZY_1.webp)
+![Image](/images/DIvTr2ltNZY_2.webp)
+![Image](/images/DIvTr2ltNZY_3.webp)

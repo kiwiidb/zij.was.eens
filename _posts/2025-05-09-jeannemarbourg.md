@@ -15,7 +15,7 @@ In 1917 verhuist ze naar Canada. Ze verbindt zich hier aan een theater, maar beg
 
 #ZijWasEens #JeanneMarbourg
 
-![Image](/zij.was.eens/images/DJcg2FGNnCH_0.webp)
-![Image](/zij.was.eens/images/DJcg2FGNnCH_1.webp)
-![Image](/zij.was.eens/images/DJcg2FGNnCH_2.webp)
-![Image](/zij.was.eens/images/DJcg2FGNnCH_3.webp)
+![Image](/images/DJcg2FGNnCH_0.webp)
+![Image](/images/DJcg2FGNnCH_1.webp)
+![Image](/images/DJcg2FGNnCH_2.webp)
+![Image](/images/DJcg2FGNnCH_3.webp)

@@ -17,4 +17,4 @@ Zuster Jules-Marie blijft actief als vrijwilliger tot 1985. Ze overlijdt op 31 m
 
 Bronnen: VRT, 'Altijd de eerste' - Luc De Munck
 
-![Image](/zij.was.eens/images/DLpctd1Nq_j_0.webp)
+![Image](/images/DLpctd1Nq_j_0.webp)

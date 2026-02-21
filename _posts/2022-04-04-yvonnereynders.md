@@ -11,6 +11,6 @@ Voor koersliefhebbend Vlaanderen was gisteren een hoogdag. De Ronde Van Vlaander
 
 Bron beeld: dewielersite.net, Sporza/VRT
 
-![Image](/zij.was.eens/images/Cb7YzQMqeN8_0.jpg)
-![Image](/zij.was.eens/images/Cb7YzQMqeN8_1.jpg)
-![Image](/zij.was.eens/images/Cb7YzQMqeN8_2.jpg)
+![Image](/images/Cb7YzQMqeN8_0.jpg)
+![Image](/images/Cb7YzQMqeN8_1.jpg)
+![Image](/images/Cb7YzQMqeN8_2.jpg)

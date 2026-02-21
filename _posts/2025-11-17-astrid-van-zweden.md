@@ -17,10 +17,10 @@ Deze titel is haar slechts één jaar beschoren. Op 29 augustus 1935 raakt het e
 
 #ZijWasEens #KoninginAstrid #AstridVanZweden
 
-![Image](/zij.was.eens/images/DRJxGwlCqi2_0.webp)
-![Image](/zij.was.eens/images/DRJxGwlCqi2_1.webp)
-![Image](/zij.was.eens/images/DRJxGwlCqi2_2.webp)
-![Image](/zij.was.eens/images/DRJxGwlCqi2_3.webp)
-![Image](/zij.was.eens/images/DRJxGwlCqi2_4.webp)
-![Image](/zij.was.eens/images/DRJxGwlCqi2_5.webp)
-![Image](/zij.was.eens/images/DRJxGwlCqi2_6.webp)
+![Image](/images/DRJxGwlCqi2_0.webp)
+![Image](/images/DRJxGwlCqi2_1.webp)
+![Image](/images/DRJxGwlCqi2_2.webp)
+![Image](/images/DRJxGwlCqi2_3.webp)
+![Image](/images/DRJxGwlCqi2_4.webp)
+![Image](/images/DRJxGwlCqi2_5.webp)
+![Image](/images/DRJxGwlCqi2_6.webp)

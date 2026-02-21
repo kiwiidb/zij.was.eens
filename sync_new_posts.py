@@ -149,7 +149,7 @@ header_image: {header_image}
 {caption_text}
 """
     for img in downloaded:
-        md += f"\n![Image](/zij.was.eens/images/{img})"
+        md += f"\n![Image](/images/{img})"
     md += "\n"
 
     post_filename = f"{date_prefix}-{slug}.md"

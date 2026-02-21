@@ -16,5 +16,5 @@ Vandaag is het de Internationale Dag van Transgendervisibiliteit. Corinne Van To
 Foto's: 'Casablanca Voorbij'
 Bronnen tekst: 'Casablanca Voorbij' & Zizo
 
-![Image](/zij.was.eens/images/Cbw_iGfKYvI_0.jpg)
-![Image](/zij.was.eens/images/Cbw_iGfKYvI_1.jpg)
+![Image](/images/Cbw_iGfKYvI_0.jpg)
+![Image](/images/Cbw_iGfKYvI_1.jpg)

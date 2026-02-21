@@ -17,4 +17,4 @@ Na de oorlog is ze een korte tijd actief in de Brusselse gemeentepolitiek, waar 
 
 @8meicoalitie
 
-![Image](/zij.was.eens/images/DL4L1A_NuZN_0.webp)
+![Image](/images/DL4L1A_NuZN_0.webp)

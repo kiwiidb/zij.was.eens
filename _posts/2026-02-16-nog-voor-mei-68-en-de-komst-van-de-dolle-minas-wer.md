@@ -15,7 +15,7 @@ Fun fact: het belangrijke art. 119 van het Verdrag van Rome beoogde niet eens de
 
 Bron: Brood en Rozen
 
-![Image](/zij.was.eens/images/DUz3nxvimZq_0.webp)
-![Image](/zij.was.eens/images/DUz3nxvimZq_1.webp)
-![Image](/zij.was.eens/images/DUz3nxvimZq_2.webp)
-![Image](/zij.was.eens/images/DUz3nxvimZq_3.webp)
+![Image](/images/DUz3nxvimZq_0.webp)
+![Image](/images/DUz3nxvimZq_1.webp)
+![Image](/images/DUz3nxvimZq_2.webp)
+![Image](/images/DUz3nxvimZq_3.webp)

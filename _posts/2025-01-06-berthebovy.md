@@ -9,4 +9,4 @@ Vandaag 138 jaar geleden is Berthe Bovy geboren in Cheratte (Luik). Deze naam do
 
 #ZijWasEens #BertheBovy
 
-![Image](/zij.was.eens/images/DEe9KLlN6rj_0.webp)
+![Image](/images/DEe9KLlN6rj_0.webp)

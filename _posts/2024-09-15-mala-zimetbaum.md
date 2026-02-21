@@ -9,4 +9,4 @@ Vandaag is het 80 jaar geleden dat Mala Zimetbaum is geëxecuteerd in Auschwitz.
 
 (Lees verder in de comments)
 
-![Image](/zij.was.eens/images/C_8etaGt8Z__0.webp)
+![Image](/images/C_8etaGt8Z__0.webp)

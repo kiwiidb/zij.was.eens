@@ -15,4 +15,4 @@ Saillant detail: we moeten de goedkeuring van deze wetten ook kaderen in de stri
 
 Bronnen: 'De wet op de spaargelden voor de gehuwde vrouw' (masterscriptie UGent)
 
-![Image](/zij.was.eens/images/DF5tzHSt2Y9_0.webp)
+![Image](/images/DF5tzHSt2Y9_0.webp)

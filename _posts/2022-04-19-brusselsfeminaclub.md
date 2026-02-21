@@ -12,6 +12,6 @@ Met de bekerfinale nog vers in het geheugen, duiken we vandaag in de geschiedeni
 Bron: @bruzzbe, KBR, Helge Faller
 Bron beeld: De Geïllustreerde Sportwereld, archief Helge Faller
 
-![Image](/zij.was.eens/images/CchdHdaqC8W_0.jpg)
-![Image](/zij.was.eens/images/CchdHdaqC8W_1.jpg)
-![Image](/zij.was.eens/images/CchdHdaqC8W_2.jpg)
+![Image](/images/CchdHdaqC8W_0.jpg)
+![Image](/images/CchdHdaqC8W_1.jpg)
+![Image](/images/CchdHdaqC8W_2.jpg)

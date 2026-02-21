@@ -17,4 +17,4 @@ Myriam overlijdt op 7 oktober 2021 in Manhattan.
 
 #ZijWasEens #MyriamSarachik #MyriamMorgenstein
 
-![Image](/zij.was.eens/images/DNFbrYrNtbM_0.webp)
+![Image](/images/DNFbrYrNtbM_0.webp)

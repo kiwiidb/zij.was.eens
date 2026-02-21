@@ -19,5 +19,5 @@ Józefa is een overtuigd feminist en vindt dat alle jobdomeinen toegankelijk moe
 
 Bronnen: 'Emma, Louise, Marie ...' door E. Gubin & V. Piette
 
-![Image](/zij.was.eens/images/DFZ7YhbNSty_0.webp)
-![Image](/zij.was.eens/images/DFZ7YhbNSty_1.webp)
+![Image](/images/DFZ7YhbNSty_0.webp)
+![Image](/images/DFZ7YhbNSty_1.webp)

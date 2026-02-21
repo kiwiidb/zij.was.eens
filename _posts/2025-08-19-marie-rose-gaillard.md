@@ -19,6 +19,6 @@ Bron: servicekoers.be
 
 @philippegilbertofficial
 
-![Image](/zij.was.eens/images/DNhwZ0MtQkQ_0.webp)
-![Image](/zij.was.eens/images/DNhwZ0MtQkQ_1.webp)
-![Image](/zij.was.eens/images/DNhwZ0MtQkQ_2.webp)
+![Image](/images/DNhwZ0MtQkQ_0.webp)
+![Image](/images/DNhwZ0MtQkQ_1.webp)
+![Image](/images/DNhwZ0MtQkQ_2.webp)

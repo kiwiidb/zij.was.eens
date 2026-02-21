@@ -21,6 +21,6 @@ Bronnen: 'Emma, Louise, Marie...'
 
 @ufka_antwerpen @farmaceuticaofficial @gentsefarmakring
 
-![Image](/zij.was.eens/images/DIUYL_dt_uF_0.webp)
-![Image](/zij.was.eens/images/DIUYL_dt_uF_1.webp)
-![Image](/zij.was.eens/images/DIUYL_dt_uF_2.webp)
+![Image](/images/DIUYL_dt_uF_0.webp)
+![Image](/images/DIUYL_dt_uF_1.webp)
+![Image](/images/DIUYL_dt_uF_2.webp)

@@ -11,4 +11,4 @@ Paula Gombert overlijdt op 14 mei 1995.
 
 #ZijWasEens #PaulaGombert #LeaDaan
 
-![Image](/zij.was.eens/images/Cy6ZREmNn3i_0.webp)
+![Image](/images/Cy6ZREmNn3i_0.webp)

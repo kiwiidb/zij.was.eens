@@ -17,4 +17,4 @@ Bronnen: @rosavzw @dewereldmorgen_be
 
 #ZijWasEens #LucienneHermanMichielsen #Abortus
 
-![Image](/zij.was.eens/images/DFH3ME7NU-U_0.webp)
+![Image](/images/DFH3ME7NU-U_0.webp)

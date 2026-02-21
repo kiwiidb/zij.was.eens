@@ -19,4 +19,4 @@ In 1986 koopt de provincie Antwerpen het arboretum over, al zal Jelena tot aan h
 
 @arboretumkalmthout
 
-![Image](/zij.was.eens/images/DNsDidTtf6k_0.webp)
+![Image](/images/DNsDidTtf6k_0.webp)

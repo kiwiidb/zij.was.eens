@@ -19,5 +19,5 @@ Zelfs na haar pensioen inspireert ze dansers in Frankrijk en Italië. Haar naam 
 
 Bronnen: Biographie nationale de Belgique (Tome 3), Dance biographies blog
 
-![Image](/zij.was.eens/images/DIdSeVOtkC6_0.webp)
-![Image](/zij.was.eens/images/DIdSeVOtkC6_1.webp)
+![Image](/images/DIdSeVOtkC6_0.webp)
+![Image](/images/DIdSeVOtkC6_1.webp)

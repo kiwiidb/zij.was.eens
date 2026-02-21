@@ -11,7 +11,7 @@ Anne geeft geen f*ck. Dit is niet bepaald een goede eigenschap, maar voor een vr
 
 #MissBelgium #AnneKeyaert @lesoirbe #ZijWasEens
 
-![Image](/zij.was.eens/images/Cbm2AQ9qMsL_0.jpg)
-![Image](/zij.was.eens/images/Cbm2AQ9qMsL_1.jpg)
-![Image](/zij.was.eens/images/Cbm2AQ9qMsL_2.jpg)
-![Image](/zij.was.eens/images/Cbm2AQ9qMsL_3.jpg)
+![Image](/images/Cbm2AQ9qMsL_0.jpg)
+![Image](/images/Cbm2AQ9qMsL_1.jpg)
+![Image](/images/Cbm2AQ9qMsL_2.jpg)
+![Image](/images/Cbm2AQ9qMsL_3.jpg)

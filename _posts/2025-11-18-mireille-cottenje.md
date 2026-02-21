@@ -17,6 +17,6 @@ Na de onafhankelijkheid van Congo moet Mireille met haar gezin terug naar Belgi√
 
 Bron: Letterenhuis, De Standaard
 
-![Image](/zij.was.eens/images/DRMLjLKCvpI_0.webp)
-![Image](/zij.was.eens/images/DRMLjLKCvpI_1.webp)
-![Image](/zij.was.eens/images/DRMLjLKCvpI_2.webp)
+![Image](/images/DRMLjLKCvpI_0.webp)
+![Image](/images/DRMLjLKCvpI_1.webp)
+![Image](/images/DRMLjLKCvpI_2.webp)

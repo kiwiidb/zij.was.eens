@@ -15,6 +15,6 @@ In 1992 overlijdt Peyo. Zijn kinderen ontfermen zich over zijn nalatenschap en e
 
 #ZijWasEens #JanineDevroye #NineCulliford #DeSmurfen #TheSmurfs
 
-![Image](/zij.was.eens/images/DLt4qLbtZdH_0.webp)
-![Image](/zij.was.eens/images/DLt4qLbtZdH_1.webp)
-![Image](/zij.was.eens/images/DLt4qLbtZdH_2.webp)
+![Image](/images/DLt4qLbtZdH_0.webp)
+![Image](/images/DLt4qLbtZdH_1.webp)
+![Image](/images/DLt4qLbtZdH_2.webp)

@@ -19,6 +19,6 @@ Bron: 'Martha's labyrint' door Marc Verschooris
 
 @8meicoalitie
 
-![Image](/zij.was.eens/images/DHCCYt2tTUp_0.webp)
-![Image](/zij.was.eens/images/DHCCYt2tTUp_1.webp)
-![Image](/zij.was.eens/images/DHCCYt2tTUp_2.webp)
+![Image](/images/DHCCYt2tTUp_0.webp)
+![Image](/images/DHCCYt2tTUp_1.webp)
+![Image](/images/DHCCYt2tTUp_2.webp)

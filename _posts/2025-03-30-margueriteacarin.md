@@ -15,7 +15,7 @@ Marguerite overlijdt op 24 juni 1999 in haar woning boven de Akarova-zaal. Ze he
 
 #ZijWasEens #MargueriteAcarin #Akarova
 
-![Image](/zij.was.eens/images/DH0PfzxtBsz_0.webp)
-![Image](/zij.was.eens/images/DH0PfzxtBsz_1.webp)
-![Image](/zij.was.eens/images/DH0PfzxtBsz_2.webp)
-![Image](/zij.was.eens/images/DH0PfzxtBsz_3.webp)
+![Image](/images/DH0PfzxtBsz_0.webp)
+![Image](/images/DH0PfzxtBsz_1.webp)
+![Image](/images/DH0PfzxtBsz_2.webp)
+![Image](/images/DH0PfzxtBsz_3.webp)

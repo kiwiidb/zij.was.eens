@@ -17,8 +17,8 @@ Fritz wordt een familiebedrijf waarvan we de sporen nog steeds zien. Renées kle
 
 Bron: tijdschrift 'Le Globe Illustré', een telg van de familie heeft ook een - intussen niet meer actieve 🙁 - Facebookpagina gemaakt over zijn voorouders; 'Fritz in Belgium'
 
-![Image](/zij.was.eens/images/DRjcKKYipn3_0.webp)
-![Image](/zij.was.eens/images/DRjcKKYipn3_1.webp)
-![Image](/zij.was.eens/images/DRjcKKYipn3_2.webp)
-![Image](/zij.was.eens/images/DRjcKKYipn3_3.webp)
-![Image](/zij.was.eens/images/DRjcKKYipn3_4.webp)
+![Image](/images/DRjcKKYipn3_0.webp)
+![Image](/images/DRjcKKYipn3_1.webp)
+![Image](/images/DRjcKKYipn3_2.webp)
+![Image](/images/DRjcKKYipn3_3.webp)
+![Image](/images/DRjcKKYipn3_4.webp)

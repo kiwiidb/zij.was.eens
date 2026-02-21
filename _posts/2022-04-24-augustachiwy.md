@@ -17,5 +17,5 @@ In de Band of Brothers aflevering over de Slag om Bastenaken zien we twee verple
 
 Bron beeld: Discovering Belgium, Band of Brothers
 
-![Image](/zij.was.eens/images/CcvBu23q7ee_0.jpg)
-![Image](/zij.was.eens/images/CcvBu23q7ee_1.jpg)
+![Image](/images/CcvBu23q7ee_0.jpg)
+![Image](/images/CcvBu23q7ee_1.jpg)

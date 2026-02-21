@@ -15,5 +15,5 @@ De broers worden verdedigd door topadvocaten Edmond Picard en Jules Lejeune. Leo
 
 (Lees verder in de comments, het is de moeite)
 
-![Image](/zij.was.eens/images/DJeoAUHoNjq_0.webp)
-![Image](/zij.was.eens/images/DJeoAUHoNjq_1.webp)
+![Image](/images/DJeoAUHoNjq_0.webp)
+![Image](/images/DJeoAUHoNjq_1.webp)

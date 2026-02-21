@@ -15,5 +15,5 @@ Wie meer wil lezen over zakenvrouwen in België raad ik het boek 'Vrouwenzaken-z
 
 #ZijWasEens #AntoinetteBrepols
 
-![Image](/zij.was.eens/images/DNpet_cI6IO_0.webp)
-![Image](/zij.was.eens/images/DNpet_cI6IO_1.webp)
+![Image](/images/DNpet_cI6IO_0.webp)
+![Image](/images/DNpet_cI6IO_1.webp)

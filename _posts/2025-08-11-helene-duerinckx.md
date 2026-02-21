@@ -20,7 +20,7 @@ Wanneer WOI uitbreekt, wordt Rik opgeroepen voor het leger. In deze periode heef
 Bron: 'Rik Wouters. Een biografie' - Eric Min
 Beeld: Lezen in de kunst
 
-![Image](/zij.was.eens/images/DNNKEQPtM_K_0.webp)
-![Image](/zij.was.eens/images/DNNKEQPtM_K_1.webp)
-![Image](/zij.was.eens/images/DNNKEQPtM_K_2.webp)
-![Image](/zij.was.eens/images/DNNKEQPtM_K_3.webp)
+![Image](/images/DNNKEQPtM_K_0.webp)
+![Image](/images/DNNKEQPtM_K_1.webp)
+![Image](/images/DNNKEQPtM_K_2.webp)
+![Image](/images/DNNKEQPtM_K_3.webp)

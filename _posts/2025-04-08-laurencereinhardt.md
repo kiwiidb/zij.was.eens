@@ -15,4 +15,4 @@ Laurence overlijdt op 23 juni 1958, vijf jaar na haar zoon, in Saint-Denis, Fran
 
 #WorldRomaDay #ZijWasEens #LaurenceReinhardt #DjangoReinhardt
 
-![Image](/zij.was.eens/images/DIMD9FPNgb6_0.webp)
+![Image](/images/DIMD9FPNgb6_0.webp)

@@ -15,7 +15,7 @@ In de 'tweede helft' van haar carrière spitst Martha zich toe op andere kunstvo
 
 Ik zou hier reclame kunnen maken voor de tentoonstelling 'Untold Stories' over Belgische vrouwelijke ontwerpers (1880-1980) in het @designmuseumbrussels , maar deze loopt vandaag helaas af! Het boek van deze tentoonstelling verschijnt binnenkort en kan gepre-orderd worden via
 
-![Image](/zij.was.eens/images/DIZJVYgtMtB_0.webp)
-![Image](/zij.was.eens/images/DIZJVYgtMtB_1.webp)
-![Image](/zij.was.eens/images/DIZJVYgtMtB_2.webp)
-![Image](/zij.was.eens/images/DIZJVYgtMtB_3.webp)
+![Image](/images/DIZJVYgtMtB_0.webp)
+![Image](/images/DIZJVYgtMtB_1.webp)
+![Image](/images/DIZJVYgtMtB_2.webp)
+![Image](/images/DIZJVYgtMtB_3.webp)

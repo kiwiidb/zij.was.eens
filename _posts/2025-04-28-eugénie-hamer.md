@@ -15,5 +15,5 @@ Eugénie is een pacifist én feminist (al noemt ze zichzelf zeker niet zo). In 1
 
 Bron: WILPF
 
-![Image](/zij.was.eens/images/DI_jNPgoplD_0.webp)
-![Image](/zij.was.eens/images/DI_jNPgoplD_1.webp)
+![Image](/images/DI_jNPgoplD_0.webp)
+![Image](/images/DI_jNPgoplD_1.webp)

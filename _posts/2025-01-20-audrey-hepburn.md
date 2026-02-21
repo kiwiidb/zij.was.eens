@@ -14,4 +14,4 @@ Haar vader, Joseph Ruston, is in de waan dat hij afstamt van James Hepburn, de d
 
 Bron: New Netherland Institute, Bruzz, Findmypast
 
-![Image](/zij.was.eens/images/DFC4PovNQ12_0.webp)
+![Image](/images/DFC4PovNQ12_0.webp)

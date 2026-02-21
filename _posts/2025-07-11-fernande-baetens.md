@@ -19,5 +19,5 @@ Fernande Baetens overlijdt in 1977.
 
 Bron: mijn eigen masterthesis ow yeah
 
-![Image](/zij.was.eens/images/DL9VZx_NS8Q_0.webp)
-![Image](/zij.was.eens/images/DL9VZx_NS8Q_1.webp)
+![Image](/images/DL9VZx_NS8Q_0.webp)
+![Image](/images/DL9VZx_NS8Q_1.webp)

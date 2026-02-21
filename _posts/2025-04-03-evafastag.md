@@ -17,5 +17,5 @@ Eva overlijdt op 12 augustus 2021. Over haar leven schreef Pieter Serrien het bo
 
 #ZijWasEens #EvaFastag
 
-![Image](/zij.was.eens/images/DH_BMIktlTF_0.webp)
-![Image](/zij.was.eens/images/DH_BMIktlTF_1.webp)
+![Image](/images/DH_BMIktlTF_0.webp)
+![Image](/images/DH_BMIktlTF_1.webp)

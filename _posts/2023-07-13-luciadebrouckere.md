@@ -12,4 +12,4 @@ Bron tekst: ULB, ITdaily
 
 #ZijWasEens #LuciaDeBrouckere #WomenInSTEM
 
-![Image](/zij.was.eens/images/CupS0matJZf_0.jpg)
+![Image](/images/CupS0matJZf_0.jpg)

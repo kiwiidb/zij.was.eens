@@ -17,6 +17,6 @@ In 1939 wordt Irma's Duitse staatsburgerschap ontnomen, door haar huwelijk met e
 
 Bronnen: Sophie Drinker Institut
 
-![Image](/zij.was.eens/images/DJi5Zj3t1uM_0.webp)
-![Image](/zij.was.eens/images/DJi5Zj3t1uM_1.webp)
-![Image](/zij.was.eens/images/DJi5Zj3t1uM_2.webp)
+![Image](/images/DJi5Zj3t1uM_0.webp)
+![Image](/images/DJi5Zj3t1uM_1.webp)
+![Image](/images/DJi5Zj3t1uM_2.webp)

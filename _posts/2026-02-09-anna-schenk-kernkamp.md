@@ -17,6 +17,6 @@ Haar carrière is geen lang leven beschoren. Anna krijgt te kampen met een oogzi
 
 Bron: Rosa vzw
 
-![Image](/zij.was.eens/images/DUh6cyhCmxA_0.webp)
-![Image](/zij.was.eens/images/DUh6cyhCmxA_1.webp)
-![Image](/zij.was.eens/images/DUh6cyhCmxA_2.webp)
+![Image](/images/DUh6cyhCmxA_0.webp)
+![Image](/images/DUh6cyhCmxA_1.webp)
+![Image](/images/DUh6cyhCmxA_2.webp)

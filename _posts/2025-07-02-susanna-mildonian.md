@@ -13,4 +13,4 @@ Het jaar daarvoor start ze met les geven aan het Koninklijk Conservatorium in Br
 
 #ZijWasEens #SusannaMildonian
 
-![Image](/zij.was.eens/images/DLmKQpKNXfp_0.webp)
+![Image](/images/DLmKQpKNXfp_0.webp)

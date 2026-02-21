@@ -13,4 +13,4 @@ Bron: Mémoire d'Auschwitz ASBL
 
 #ZijWasEens #ClaireDuysburgh #Stolpersteine
 
-![Image](/zij.was.eens/images/DEjzS2aty2P_0.webp)
+![Image](/images/DEjzS2aty2P_0.webp)

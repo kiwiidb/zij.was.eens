@@ -21,6 +21,6 @@ Bron: 'Madame Lalla Vandervelde' door Martine Vermandere
 
 @amsab_isg @zij_kant
 
-![Image](/zij.was.eens/images/DIBjGc0Nh9c_0.webp)
-![Image](/zij.was.eens/images/DIBjGc0Nh9c_1.webp)
-![Image](/zij.was.eens/images/DIBjGc0Nh9c_2.webp)
+![Image](/images/DIBjGc0Nh9c_0.webp)
+![Image](/images/DIBjGc0Nh9c_1.webp)
+![Image](/images/DIBjGc0Nh9c_2.webp)

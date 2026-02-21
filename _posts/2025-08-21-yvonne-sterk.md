@@ -20,6 +20,6 @@ In 1977 keert Yvonne noodgedwongen terug naar België. Ze overlijdt op 27 juli 2
 Bron: BTNG & 'A Frassini' op YouTube
 Beeld: @avg_carhif
 
-![Image](/zij.was.eens/images/DNm56ZeIOP6_0.webp)
-![Image](/zij.was.eens/images/DNm56ZeIOP6_1.webp)
-![Image](/zij.was.eens/images/DNm56ZeIOP6_2.webp)
+![Image](/images/DNm56ZeIOP6_0.webp)
+![Image](/images/DNm56ZeIOP6_1.webp)
+![Image](/images/DNm56ZeIOP6_2.webp)

@@ -22,4 +22,4 @@ Meer weten? Irene schreef een autobiografie: 'They'll have to catch me first'
 
 @kazernedossin @stadmechelen
 
-![Image](/zij.was.eens/images/DFcnIGsN33I_0.webp)
+![Image](/images/DFcnIGsN33I_0.webp)

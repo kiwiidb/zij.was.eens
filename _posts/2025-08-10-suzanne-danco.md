@@ -19,5 +19,5 @@ In 1966 zingt ze haar laatste opera, als Geneviève in 'Pelléas et Mélisande'.
 
 Bron: Nouvelle Biographie Nationale (15)
 
-![Image](/zij.was.eens/images/DNKlQPuteQ4_0.webp)
-![Image](/zij.was.eens/images/DNKlQPuteQ4_1.webp)
+![Image](/images/DNKlQPuteQ4_0.webp)
+![Image](/images/DNKlQPuteQ4_1.webp)

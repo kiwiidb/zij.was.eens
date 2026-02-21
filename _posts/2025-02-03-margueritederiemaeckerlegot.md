@@ -17,6 +17,6 @@ Marguerite De Riemaecker-Legot overlijdt op 7 mei 1977 in Brussel.
 
 Bronnen: UGentMemorie
 
-![Image](/zij.was.eens/images/DFnXJwHNkes_0.webp)
-![Image](/zij.was.eens/images/DFnXJwHNkes_1.webp)
-![Image](/zij.was.eens/images/DFnXJwHNkes_2.webp)
+![Image](/images/DFnXJwHNkes_0.webp)
+![Image](/images/DFnXJwHNkes_1.webp)
+![Image](/images/DFnXJwHNkes_2.webp)

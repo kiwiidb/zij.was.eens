@@ -15,7 +15,7 @@ Hoe sterk haar artistiek talent ook is, zo zwak is haar commerciële denken. Ann
 
 Ann Salens overlijdt op 7 september 1994 in Antwerpen.
 
-![Image](/zij.was.eens/images/DF9yU4VN6us_0.webp)
-![Image](/zij.was.eens/images/DF9yU4VN6us_1.webp)
-![Image](/zij.was.eens/images/DF9yU4VN6us_2.webp)
-![Image](/zij.was.eens/images/DF9yU4VN6us_3.webp)
+![Image](/images/DF9yU4VN6us_0.webp)
+![Image](/images/DF9yU4VN6us_1.webp)
+![Image](/images/DF9yU4VN6us_2.webp)
+![Image](/images/DF9yU4VN6us_3.webp)

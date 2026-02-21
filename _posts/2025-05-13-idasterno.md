@@ -17,5 +17,5 @@ Op 29 mei 1944 wordt Ida aangehouden net op het moment dat ze informatie aan het
 
 Bron: 'Assistantes sociales en Résistance' door Sarah Belli
 
-![Image](/zij.was.eens/images/DJl-0RQtmYo_0.webp)
-![Image](/zij.was.eens/images/DJl-0RQtmYo_1.webp)
+![Image](/images/DJl-0RQtmYo_0.webp)
+![Image](/images/DJl-0RQtmYo_1.webp)

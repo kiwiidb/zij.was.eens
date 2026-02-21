@@ -19,7 +19,7 @@ Suzy overlijdt op 6 juli 2015 in Brussel.
 
 Bron: Een uitgebreid artikel over Suzy Falk, inclusief een interview met Suzy zelf, is verschenen op bruxellons.be
 
-![Image](/zij.was.eens/images/DRZMS53CsDR_0.webp)
-![Image](/zij.was.eens/images/DRZMS53CsDR_1.webp)
-![Image](/zij.was.eens/images/DRZMS53CsDR_2.webp)
-![Image](/zij.was.eens/images/DRZMS53CsDR_3.webp)
+![Image](/images/DRZMS53CsDR_0.webp)
+![Image](/images/DRZMS53CsDR_1.webp)
+![Image](/images/DRZMS53CsDR_2.webp)
+![Image](/images/DRZMS53CsDR_3.webp)

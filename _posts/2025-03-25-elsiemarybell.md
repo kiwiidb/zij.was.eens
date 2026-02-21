@@ -17,5 +17,5 @@ In 1942 wordt Elsie, samen met haar gezin gearresteerd. Haar echtgenoot wordt ge
 
 @8meicoalitie
 
-![Image](/zij.was.eens/images/DHncmDNtzJ9_0.webp)
-![Image](/zij.was.eens/images/DHncmDNtzJ9_1.webp)
+![Image](/images/DHncmDNtzJ9_0.webp)
+![Image](/images/DHncmDNtzJ9_1.webp)

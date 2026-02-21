@@ -19,4 +19,4 @@ Bronnen: Dictionnaire des femmes belges
 
 @netwerkverpleegkunde
 
-![Image](/zij.was.eens/images/DHIsHiGt7i5_0.webp)
+![Image](/images/DHIsHiGt7i5_0.webp)

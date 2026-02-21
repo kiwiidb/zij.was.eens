@@ -19,4 +19,4 @@ Saillant detail: er is een theorie dat Cathelynes veroordeling het resultaat is 
 
 Bron: geni.com, Canon Van Vlaanderen, historiek.net
 
-![Image](/zij.was.eens/images/DTuej3yCnK__0.webp)
+![Image](/images/DTuej3yCnK__0.webp)

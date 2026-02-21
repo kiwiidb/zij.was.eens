@@ -19,6 +19,6 @@ Het internationaal werk wordt een heuse passie. Tot haar pensioen in 1966 neemt 
 
 Bron: maitron.fr
 
-![Image](/zij.was.eens/images/DUBNTGBiq3-_0.webp)
-![Image](/zij.was.eens/images/DUBNTGBiq3-_1.webp)
-![Image](/zij.was.eens/images/DUBNTGBiq3-_2.webp)
+![Image](/images/DUBNTGBiq3-_0.webp)
+![Image](/images/DUBNTGBiq3-_1.webp)
+![Image](/images/DUBNTGBiq3-_2.webp)

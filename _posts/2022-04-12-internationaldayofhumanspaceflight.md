@@ -13,4 +13,4 @@ Romantische noot: Merchez trouwde met Maurizio Cheli, een van de astronauten die
 
 #ZijWasEens #InternationalDayOfHumanSpaceFlight #MarianneMerchez @europeanspaceagency
 
-![Image](/zij.was.eens/images/CcP2qkJq9zi_0.jpg)
+![Image](/images/CcP2qkJq9zi_0.jpg)

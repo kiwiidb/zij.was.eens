@@ -15,7 +15,7 @@ Wanneer dokter Peers gearresteerd wordt, gaat Antoinette samen met andere Gentse
 
 #ZijWasEens #AntoinetteVandeputte
 
-![Image](/zij.was.eens/images/DIt4jIut76Y_0.webp)
-![Image](/zij.was.eens/images/DIt4jIut76Y_1.webp)
-![Image](/zij.was.eens/images/DIt4jIut76Y_2.webp)
-![Image](/zij.was.eens/images/DIt4jIut76Y_3.webp)
+![Image](/images/DIt4jIut76Y_0.webp)
+![Image](/images/DIt4jIut76Y_1.webp)
+![Image](/images/DIt4jIut76Y_2.webp)
+![Image](/images/DIt4jIut76Y_3.webp)

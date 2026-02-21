@@ -19,5 +19,5 @@ Marie Nizet overlijdt op 10 mei 1922 in Etterbeek.
 
 Bron: Revue des lettres belges de langue française
 
-![Image](/zij.was.eens/images/DTsQeMuii-5_0.webp)
-![Image](/zij.was.eens/images/DTsQeMuii-5_1.webp)
+![Image](/images/DTsQeMuii-5_0.webp)
+![Image](/images/DTsQeMuii-5_1.webp)

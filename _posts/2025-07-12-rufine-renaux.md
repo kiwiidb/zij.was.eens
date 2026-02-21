@@ -15,5 +15,5 @@ Gustave, die naast advocaat ook een beloftevol politicus is, krijgt in zijn prof
 
 (Lees verder in de comments)
 
-![Image](/zij.was.eens/images/DL_6J1sNTXB_0.webp)
-![Image](/zij.was.eens/images/DL_6J1sNTXB_1.webp)
+![Image](/images/DL_6J1sNTXB_0.webp)
+![Image](/images/DL_6J1sNTXB_1.webp)

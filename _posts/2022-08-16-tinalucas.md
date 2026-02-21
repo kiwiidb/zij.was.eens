@@ -16,5 +16,5 @@ Bron beeld: 'Pilotenhulp tijdens Wereldoorlog II'
 
 PS: Wie in het bezit is van een foto waar we een jonge Tina Lucas kunnen aanschouwen, mag dit altijd doorspelen!
 
-![Image](/zij.was.eens/images/ChUhaLNKsSV_0.jpg)
-![Image](/zij.was.eens/images/ChUhaLNKsSV_1.jpg)
+![Image](/images/ChUhaLNKsSV_0.jpg)
+![Image](/images/ChUhaLNKsSV_1.jpg)

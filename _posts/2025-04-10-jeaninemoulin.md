@@ -19,4 +19,4 @@ Bron: Académie royale de langue et de littérature françaises de Belgique
 
 @ulbruxelles @bxldestad
 
-![Image](/zij.was.eens/images/DIQ_HORtei2_0.webp)
+![Image](/images/DIQ_HORtei2_0.webp)

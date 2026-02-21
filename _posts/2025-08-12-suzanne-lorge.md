@@ -15,5 +15,5 @@ Bij het uitbreken van WOII voelt ze dat ze íets moet doen. Ze biedt zich aan bi
 
 (Lees verder in de comments, het is de moeite)
 
-![Image](/zij.was.eens/images/DNPq1LUoQzR_0.webp)
-![Image](/zij.was.eens/images/DNPq1LUoQzR_1.webp)
+![Image](/images/DNPq1LUoQzR_0.webp)
+![Image](/images/DNPq1LUoQzR_1.webp)

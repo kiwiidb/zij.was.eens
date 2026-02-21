@@ -19,4 +19,4 @@ Bronnen: eigen masterproef, Fonds Suzan Daniel
 
 @barreaudebruxelles @fondssuzandaniel @cavariavzw
 
-![Image](/zij.was.eens/images/DFKOsrQNuL0_0.webp)
+![Image](/images/DFKOsrQNuL0_0.webp)

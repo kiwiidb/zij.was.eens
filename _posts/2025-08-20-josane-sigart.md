@@ -17,6 +17,6 @@ Na haar huwelijk met Jean De Meulemeester verhuist ze naar Sint-Kruis. Jeans zus
 
 Bron: 'Pourquoi pas?', Bruzz
 
-![Image](/zij.was.eens/images/DNkVN00IYta_0.webp)
-![Image](/zij.was.eens/images/DNkVN00IYta_1.webp)
-![Image](/zij.was.eens/images/DNkVN00IYta_2.webp)
+![Image](/images/DNkVN00IYta_0.webp)
+![Image](/images/DNkVN00IYta_1.webp)
+![Image](/images/DNkVN00IYta_2.webp)

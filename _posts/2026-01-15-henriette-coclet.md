@@ -19,4 +19,4 @@ Henriette overlijdt op 6 maart 1945 in Luik. Hoewel ze helaas wat in de vergetel
 
 #ZijWasEens #HenrietteCoclet
 
-![Image](/zij.was.eens/images/DThhjY2ig_1_0.webp)
+![Image](/images/DThhjY2ig_1_0.webp)

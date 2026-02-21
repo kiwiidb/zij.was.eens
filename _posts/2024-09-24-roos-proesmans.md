@@ -9,4 +9,4 @@ Vandaag 81 jaar geleden is Roos Proesmans geboren in Sint-Truiden. Proesmans gro
 
 Bron: Brood en Rozen, De Morgen
 
-![Image](/zij.was.eens/images/DATAxgPtmIZ_0.webp)
+![Image](/images/DATAxgPtmIZ_0.webp)

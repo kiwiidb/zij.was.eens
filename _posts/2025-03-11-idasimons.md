@@ -17,6 +17,6 @@ Bron: 'Slijk en sterren. Het verscheurde leven van pianiste en schrijfster Ida S
 
 @kampwesterbork
 
-![Image](/zij.was.eens/images/DHDcLJct_q-_0.webp)
-![Image](/zij.was.eens/images/DHDcLJct_q-_1.webp)
-![Image](/zij.was.eens/images/DHDcLJct_q-_2.webp)
+![Image](/images/DHDcLJct_q-_0.webp)
+![Image](/images/DHDcLJct_q-_1.webp)
+![Image](/images/DHDcLJct_q-_2.webp)

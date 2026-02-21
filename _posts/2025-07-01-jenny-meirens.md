@@ -15,6 +15,6 @@ Bronnen: De Morgen, 1 Granary
 
 #ZijWasEens #JennyMeirens #MaisonMartinMargiela
 
-![Image](/zij.was.eens/images/DLjsuoQN85__0.webp)
-![Image](/zij.was.eens/images/DLjsuoQN85__1.webp)
-![Image](/zij.was.eens/images/DLjsuoQN85__2.webp)
+![Image](/images/DLjsuoQN85__0.webp)
+![Image](/images/DLjsuoQN85__1.webp)
+![Image](/images/DLjsuoQN85__2.webp)

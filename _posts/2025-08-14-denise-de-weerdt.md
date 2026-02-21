@@ -20,7 +20,7 @@ Tot slot is het ook het vermelden waard dat Denise mee aan de wieg staat van het
 Bron: 'Oud = out', 'Mijn Waarheid'
 @amsab_isg
 
-![Image](/zij.was.eens/images/DNU4ZOOte4r_0.webp)
-![Image](/zij.was.eens/images/DNU4ZOOte4r_1.webp)
-![Image](/zij.was.eens/images/DNU4ZOOte4r_2.webp)
-![Image](/zij.was.eens/images/DNU4ZOOte4r_3.webp)
+![Image](/images/DNU4ZOOte4r_0.webp)
+![Image](/images/DNU4ZOOte4r_1.webp)
+![Image](/images/DNU4ZOOte4r_2.webp)
+![Image](/images/DNU4ZOOte4r_3.webp)

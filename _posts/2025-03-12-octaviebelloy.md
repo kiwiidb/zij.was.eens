@@ -17,5 +17,5 @@ Octavie overlijdt op 13 mei 1965. In Antwerpen is er een straat naar haar vernoe
 
 #ZijWasEens #OctavieBelloy #TavieBelge
 
-![Image](/zij.was.eens/images/DHGKxePNuYj_0.webp)
-![Image](/zij.was.eens/images/DHGKxePNuYj_1.webp)
+![Image](/images/DHGKxePNuYj_0.webp)
+![Image](/images/DHGKxePNuYj_1.webp)

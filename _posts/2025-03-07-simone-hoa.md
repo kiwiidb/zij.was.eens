@@ -19,6 +19,6 @@ Bron: Bruzz, CIVA
 
 @untold.asian.stories
 
-![Image](/zij.was.eens/images/DG5bfDCNmC6_0.webp)
-![Image](/zij.was.eens/images/DG5bfDCNmC6_1.webp)
-![Image](/zij.was.eens/images/DG5bfDCNmC6_2.webp)
+![Image](/images/DG5bfDCNmC6_0.webp)
+![Image](/images/DG5bfDCNmC6_1.webp)
+![Image](/images/DG5bfDCNmC6_2.webp)

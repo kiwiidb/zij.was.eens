@@ -10,5 +10,5 @@ Ons land behaalde goud en brons op het EK kunstschaatsen, geen betere gelegenhei
 Bron: matthiasvanmilders.be, olympstats.com
 Video: Belgavox
 
-![Image](/zij.was.eens/images/C2HSI0pNLMi_0.webp)
-![Image](/zij.was.eens/images/C2HSI0pNLMi_1.jpg)
+![Image](/images/C2HSI0pNLMi_0.webp)
+![Image](/images/C2HSI0pNLMi_1.jpg)

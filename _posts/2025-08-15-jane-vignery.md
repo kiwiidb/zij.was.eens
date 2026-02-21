@@ -13,7 +13,7 @@ Ze gaat verder met composities en in 1942 en 1943 worden haar sonates bekroond m
 
 #ZijWasEens #JaneVignery
 
-![Image](/zij.was.eens/images/DNXdNrnNwPu_0.webp)
-![Image](/zij.was.eens/images/DNXdNrnNwPu_1.webp)
-![Image](/zij.was.eens/images/DNXdNrnNwPu_2.webp)
-![Image](/zij.was.eens/images/DNXdNrnNwPu_3.webp)
+![Image](/images/DNXdNrnNwPu_0.webp)
+![Image](/images/DNXdNrnNwPu_1.webp)
+![Image](/images/DNXdNrnNwPu_2.webp)
+![Image](/images/DNXdNrnNwPu_3.webp)

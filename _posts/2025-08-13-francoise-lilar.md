@@ -19,6 +19,6 @@ Françoise is drie keer getrouwd, telkens met mannen. In 1970 leert ze echter Ma
 
 Bron: L-tour
 
-![Image](/zij.was.eens/images/DNSTkNWtkaG_0.webp)
-![Image](/zij.was.eens/images/DNSTkNWtkaG_1.webp)
-![Image](/zij.was.eens/images/DNSTkNWtkaG_2.webp)
+![Image](/images/DNSTkNWtkaG_0.webp)
+![Image](/images/DNSTkNWtkaG_1.webp)
+![Image](/images/DNSTkNWtkaG_2.webp)

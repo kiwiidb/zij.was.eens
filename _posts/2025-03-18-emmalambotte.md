@@ -17,7 +17,7 @@ Emma ontmoet Ensor in 1903. Op dat moment woont Emma al enkele jaren in Antwerpe
 
 Bronnen: KMSKA
 
-![Image](/zij.was.eens/images/DHWAdMBo0iY_0.webp)
-![Image](/zij.was.eens/images/DHWAdMBo0iY_1.webp)
-![Image](/zij.was.eens/images/DHWAdMBo0iY_2.webp)
-![Image](/zij.was.eens/images/DHWAdMBo0iY_3.webp)
+![Image](/images/DHWAdMBo0iY_0.webp)
+![Image](/images/DHWAdMBo0iY_1.webp)
+![Image](/images/DHWAdMBo0iY_2.webp)
+![Image](/images/DHWAdMBo0iY_3.webp)

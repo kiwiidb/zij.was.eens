@@ -21,6 +21,6 @@ Louisa overlijdt op 20 juli 1966. Stad Gent eerde haar door een brug naar haar t
 
 Bron: 'Louisa d'Havé' - Marijn Van Laere
 
-![Image](/zij.was.eens/images/DMCe_wSN9nu_0.webp)
-![Image](/zij.was.eens/images/DMCe_wSN9nu_1.webp)
-![Image](/zij.was.eens/images/DMCe_wSN9nu_2.webp)
+![Image](/images/DMCe_wSN9nu_0.webp)
+![Image](/images/DMCe_wSN9nu_1.webp)
+![Image](/images/DMCe_wSN9nu_2.webp)

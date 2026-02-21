@@ -15,6 +15,6 @@ Tijdens WOII gaat het gezin door financieel moeilijke tijden, aangezien er in oo
 
 #ZijWasEens #MercédèsLegrand
 
-![Image](/zij.was.eens/images/DMFDta6td09_0.webp)
-![Image](/zij.was.eens/images/DMFDta6td09_1.webp)
-![Image](/zij.was.eens/images/DMFDta6td09_2.webp)
+![Image](/images/DMFDta6td09_0.webp)
+![Image](/images/DMFDta6td09_1.webp)
+![Image](/images/DMFDta6td09_2.webp)

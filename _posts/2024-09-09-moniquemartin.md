@@ -10,4 +10,4 @@ Vandaag 96 jaar geleden is Monique Martin geboren in Brussel in een artistiek ge
 Bron: @fondation_monique_martin
 #ZijWasEens #MoniqueMartin
 
-![Image](/zij.was.eens/images/C_skua_tSpA_0.webp)
+![Image](/images/C_skua_tSpA_0.webp)

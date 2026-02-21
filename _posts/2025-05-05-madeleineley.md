@@ -17,7 +17,7 @@ Ze wordt geprezen voor het schrijven van kinderboeken die ook gretig gelezen wor
 
 Bron: Le Cerveau Volé
 
-![Image](/zij.was.eens/images/DJRXZOeN6ax_0.webp)
-![Image](/zij.was.eens/images/DJRXZOeN6ax_1.webp)
-![Image](/zij.was.eens/images/DJRXZOeN6ax_2.webp)
-![Image](/zij.was.eens/images/DJRXZOeN6ax_3.webp)
+![Image](/images/DJRXZOeN6ax_0.webp)
+![Image](/images/DJRXZOeN6ax_1.webp)
+![Image](/images/DJRXZOeN6ax_2.webp)
+![Image](/images/DJRXZOeN6ax_3.webp)

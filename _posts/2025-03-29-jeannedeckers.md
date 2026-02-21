@@ -15,6 +15,6 @@ Samen met haar vriendin Annie Pécher, die ze in 1959 leerde kennen en met wie z
 
 #ZijWasEens #JeanneDeckers
 
-![Image](/zij.was.eens/images/DHyygFstKyM_0.webp)
-![Image](/zij.was.eens/images/DHyygFstKyM_1.webp)
-![Image](/zij.was.eens/images/DHyygFstKyM_2.webp)
+![Image](/images/DHyygFstKyM_0.webp)
+![Image](/images/DHyygFstKyM_1.webp)
+![Image](/images/DHyygFstKyM_2.webp)

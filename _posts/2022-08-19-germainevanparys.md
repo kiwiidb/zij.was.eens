@@ -16,6 +16,6 @@ Ze geeft de liefde voor fotografie door aan haar petekind Odette Dereze, die lat
 Bron: De Standaard
 Bron beeld: Brussels Expres, De Standaard
 
-![Image](/zij.was.eens/images/ChbfcI_KCJE_0.jpg)
-![Image](/zij.was.eens/images/ChbfcI_KCJE_1.jpg)
-![Image](/zij.was.eens/images/ChbfcI_KCJE_2.jpg)
+![Image](/images/ChbfcI_KCJE_0.jpg)
+![Image](/images/ChbfcI_KCJE_1.jpg)
+![Image](/images/ChbfcI_KCJE_2.jpg)

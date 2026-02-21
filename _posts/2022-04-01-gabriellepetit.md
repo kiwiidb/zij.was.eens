@@ -14,7 +14,7 @@ Na haar dood verspreiden de Duitsers een lastercampagne tegen haar. Toch krijgt 
 Foto's: 'Berichten uit het verleden'
 Bron tekst: @rosavzw, @dewereldmorgen_bek
 
-![Image](/zij.was.eens/images/CbzUMofqyp8_0.jpg)
-![Image](/zij.was.eens/images/CbzUMofqyp8_1.jpg)
-![Image](/zij.was.eens/images/CbzUMofqyp8_2.jpg)
-![Image](/zij.was.eens/images/CbzUMofqyp8_3.jpg)
+![Image](/images/CbzUMofqyp8_0.jpg)
+![Image](/images/CbzUMofqyp8_1.jpg)
+![Image](/images/CbzUMofqyp8_2.jpg)
+![Image](/images/CbzUMofqyp8_3.jpg)

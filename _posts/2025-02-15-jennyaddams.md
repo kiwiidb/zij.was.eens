@@ -13,6 +13,6 @@ Zoals vermeld heeft Jenny ook talent voor hockey, een sport die ze combineert me
 
 #ZijWasEens #JennyAddams
 
-![Image](/zij.was.eens/images/DGGjsPttkT1_0.webp)
-![Image](/zij.was.eens/images/DGGjsPttkT1_1.webp)
-![Image](/zij.was.eens/images/DGGjsPttkT1_2.webp)
+![Image](/images/DGGjsPttkT1_0.webp)
+![Image](/images/DGGjsPttkT1_1.webp)
+![Image](/images/DGGjsPttkT1_2.webp)

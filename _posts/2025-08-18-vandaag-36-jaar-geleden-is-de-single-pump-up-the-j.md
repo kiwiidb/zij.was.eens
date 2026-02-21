@@ -17,6 +17,6 @@ Momenteel woont ze met haar eigen gezin in Nigeria. Hoewel ze haar plaats in de 
 
 #ZijWasEens #ManuelaKamosi #YaKidK #PumpUpTheJam #Technotronics
 
-![Image](/zij.was.eens/images/DNfLjovtGAj_0.webp)
-![Image](/zij.was.eens/images/DNfLjovtGAj_1.webp)
-![Image](/zij.was.eens/images/DNfLjovtGAj_2.webp)
+![Image](/images/DNfLjovtGAj_0.webp)
+![Image](/images/DNfLjovtGAj_1.webp)
+![Image](/images/DNfLjovtGAj_2.webp)

@@ -17,4 +17,4 @@ Bronnen: @huisvanalijn @kobevanherwegen
 
 #ZijWasEens #SuzyWandas #SleightOfHands #Cardistry
 
-![Image](/zij.was.eens/images/DG0Lhd4NHMu_0.webp)
+![Image](/images/DG0Lhd4NHMu_0.webp)

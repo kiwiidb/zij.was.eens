@@ -15,5 +15,5 @@ Ciselet overlijdt op 31 augustus 1983.
 
 #ZijWasEens #Vrouwengeschiedenis #GeorgetteCiselet @senatbesenaat
 
-![Image](/zij.was.eens/images/Chhk95jqzRR_0.jpg)
-![Image](/zij.was.eens/images/Chhk95jqzRR_1.jpg)
+![Image](/images/Chhk95jqzRR_0.jpg)
+![Image](/images/Chhk95jqzRR_1.jpg)

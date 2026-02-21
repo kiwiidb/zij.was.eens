@@ -17,6 +17,6 @@ Bron: Bruzz heeft echt een heel goed artikel gepubliceerd waarin historicus Bart
 
 #ZijWasEens #SuzanDaniel #SuzanneDePues
 
-![Image](/zij.was.eens/images/DREdPY1ijmI_0.webp)
-![Image](/zij.was.eens/images/DREdPY1ijmI_1.webp)
-![Image](/zij.was.eens/images/DREdPY1ijmI_2.webp)
+![Image](/images/DREdPY1ijmI_0.webp)
+![Image](/images/DREdPY1ijmI_1.webp)
+![Image](/images/DREdPY1ijmI_2.webp)

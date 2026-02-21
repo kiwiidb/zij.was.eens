@@ -15,6 +15,6 @@ Ze blijft muziek opnemen tot kort voor haar overlijden op 4 september 2003 in Sp
 
 #ZijWasEens #LolaBobesco
 
-![Image](/zij.was.eens/images/DNIAYihtFdu_0.webp)
-![Image](/zij.was.eens/images/DNIAYihtFdu_1.webp)
-![Image](/zij.was.eens/images/DNIAYihtFdu_2.webp)
+![Image](/images/DNIAYihtFdu_0.webp)
+![Image](/images/DNIAYihtFdu_1.webp)
+![Image](/images/DNIAYihtFdu_2.webp)

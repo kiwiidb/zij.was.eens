@@ -19,7 +19,7 @@ Op latere leeftijd vertelt ze wel over vroeger aan haar familie, die haar niet g
 
 Bron: Vlamingen op de Titanic - Dirk Musschoot
 
-![Image](/zij.was.eens/images/DIavOwCNCJY_0.webp)
-![Image](/zij.was.eens/images/DIavOwCNCJY_1.webp)
-![Image](/zij.was.eens/images/DIavOwCNCJY_2.webp)
-![Image](/zij.was.eens/images/DIavOwCNCJY_3.webp)
+![Image](/images/DIavOwCNCJY_0.webp)
+![Image](/images/DIavOwCNCJY_1.webp)
+![Image](/images/DIavOwCNCJY_2.webp)
+![Image](/images/DIavOwCNCJY_3.webp)

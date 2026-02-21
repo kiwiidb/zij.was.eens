@@ -17,5 +17,5 @@ Wanneer het vrouwenstemrecht er in 1921 toch komt voor de Belgische gemeenteraad
 
 Bron: Le Peuple, 'Vergeten Pioniers' - Eliane Gubin & Leen Van Molle
 
-![Image](/zij.was.eens/images/DUDqPTgCmco_0.webp)
-![Image](/zij.was.eens/images/DUDqPTgCmco_1.webp)
+![Image](/images/DUDqPTgCmco_0.webp)
+![Image](/images/DUDqPTgCmco_1.webp)

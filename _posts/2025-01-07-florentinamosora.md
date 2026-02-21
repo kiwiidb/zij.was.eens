@@ -12,4 +12,4 @@ Bron: 3 Seas of Europe, Cleopatra Lorinitiu
 #ZijWasEens #FlorentinaMosora
 @universitedeliege
 
-![Image](/zij.was.eens/images/DEg4fv1Niby_0.webp)
+![Image](/images/DEg4fv1Niby_0.webp)
