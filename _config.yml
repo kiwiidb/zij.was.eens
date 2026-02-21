@@ -108,6 +108,5 @@ sass:
   sass_dir: _sass
   style: compressed
 
-# Security
-safe: true
+encoding: utf-8
 incremental: false
