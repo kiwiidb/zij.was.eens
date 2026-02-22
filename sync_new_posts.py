@@ -9,13 +9,16 @@ Designed to run daily via GitHub Actions.
 import json
 import os
 import re
+import sys
 import time
 import unicodedata
 from datetime import datetime
 from pathlib import Path
+from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 
 
+MAX_RETRIES = 3
 INSTAGRAM_URL = "https://i.instagram.com/api/v1/users/web_profile_info/?username=zij.was.eens"
 HEADERS = {
     "x-ig-app-id": "936619743392459",
@@ -31,12 +34,22 @@ POSTS_DIR = ROOT / "_posts"
 
 def fetch_recent_posts():
     """Fetch the 12 most recent posts from Instagram (no auth needed)."""
-    req = Request(INSTAGRAM_URL, headers=HEADERS)
-    with urlopen(req, timeout=20) as resp:
-        data = json.loads(resp.read())
-    user = data["data"]["user"]
-    edges = user["edge_owner_to_timeline_media"]["edges"]
-    return [e["node"] for e in edges]
+    for attempt in range(MAX_RETRIES):
+        try:
+            req = Request(INSTAGRAM_URL, headers=HEADERS)
+            with urlopen(req, timeout=20) as resp:
+                data = json.loads(resp.read())
+            user = data["data"]["user"]
+            edges = user["edge_owner_to_timeline_media"]["edges"]
+            return [e["node"] for e in edges]
+        except HTTPError as e:
+            if e.code == 429 and attempt < MAX_RETRIES - 1:
+                wait = 30 * (attempt + 1)
+                print(f"Rate limited (429), retrying in {wait}s... (attempt {attempt + 1}/{MAX_RETRIES})")
+                time.sleep(wait)
+            else:
+                raise
+    return []
 
 
 def get_existing_codes():
@@ -166,7 +179,11 @@ header_image: {header_image}
 
 def main():
     print("Fetching recent posts from Instagram...")
-    posts = fetch_recent_posts()
+    try:
+        posts = fetch_recent_posts()
+    except HTTPError as e:
+        print(f"Instagram API error: {e.code} {e.reason}")
+        sys.exit(1)
     print(f"Got {len(posts)} posts")
 
     existing = get_existing_codes()
