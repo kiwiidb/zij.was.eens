@@ -1,19 +1,7 @@
-# Stage 1: Build the Jekyll site
-FROM ruby:3.3-alpine AS builder
+FROM python:3.13-alpine
 
-RUN apk add --no-cache build-base
+WORKDIR /app
 
-WORKDIR /site
+COPY sync_new_posts.py .
 
-COPY Gemfile ./
-RUN bundle install
-
-COPY . .
-RUN bundle exec jekyll build
-
-# Stage 2: Serve with nginx
-FROM nginx:alpine
-
-COPY --from=builder /site/_site /usr/share/nginx/html
-
-EXPOSE 80
+CMD ["python", "sync_new_posts.py"]
