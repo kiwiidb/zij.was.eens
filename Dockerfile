@@ -1,7 +1,8 @@
 FROM python:3.13-alpine
 
-WORKDIR /app
+RUN apk add --no-cache git
 
-COPY sync_new_posts.py .
+COPY entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
 
-CMD ["python", "sync_new_posts.py"]
+CMD ["/entrypoint.sh"]
