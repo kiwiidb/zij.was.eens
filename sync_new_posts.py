@@ -37,7 +37,15 @@ def fetch_recent_posts():
     for attempt in range(MAX_RETRIES):
         try:
             req = Request(INSTAGRAM_URL, headers=HEADERS)
+            print("--- REQUEST ---")
+            print(f"URL: {req.full_url}")
+            for k, v in req.headers.items():
+                print(f"  {k}: {v}")
             with urlopen(req, timeout=20) as resp:
+                print("--- RESPONSE ---")
+                print(f"  Status: {resp.status}")
+                for k, v in resp.headers.items():
+                    print(f"  {k}: {v}")
                 data = json.loads(resp.read())
             user = data["data"]["user"]
             edges = user["edge_owner_to_timeline_media"]["edges"]
