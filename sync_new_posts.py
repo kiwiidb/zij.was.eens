@@ -9,13 +9,12 @@ Designed to run daily via GitHub Actions.
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 import unicodedata
 from datetime import datetime
 from pathlib import Path
-from urllib.error import HTTPError
-from urllib.request import Request, urlopen
 
 
 MAX_RETRIES = 3
@@ -32,31 +31,31 @@ IMAGES_DIR = ROOT / "images"
 POSTS_DIR = ROOT / "_posts"
 
 
+def curl_get(url):
+    """Make a GET request via curl and return (status_code, body)."""
+    cmd = ["curl", "-s", "-w", "\n%{http_code}", url]
+    for k, v in HEADERS.items():
+        cmd += ["-H", f"{k}: {v}"]
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=30)
+    *body_lines, status = result.stdout.rsplit("\n", 1)
+    return int(status), "\n".join(body_lines)
+
+
 def fetch_recent_posts():
     """Fetch the 12 most recent posts from Instagram (no auth needed)."""
     for attempt in range(MAX_RETRIES):
-        try:
-            req = Request(INSTAGRAM_URL, headers=HEADERS)
-            print("--- REQUEST ---")
-            print(f"URL: {req.full_url}")
-            for k, v in req.headers.items():
-                print(f"  {k}: {v}")
-            with urlopen(req, timeout=20) as resp:
-                print("--- RESPONSE ---")
-                print(f"  Status: {resp.status}")
-                for k, v in resp.headers.items():
-                    print(f"  {k}: {v}")
-                data = json.loads(resp.read())
+        status, body = curl_get(INSTAGRAM_URL)
+        if status == 200:
+            data = json.loads(body)
             user = data["data"]["user"]
             edges = user["edge_owner_to_timeline_media"]["edges"]
             return [e["node"] for e in edges]
-        except HTTPError as e:
-            if e.code == 429 and attempt < MAX_RETRIES - 1:
-                wait = 30 * (attempt + 1)
-                print(f"Rate limited (429), retrying in {wait}s... (attempt {attempt + 1}/{MAX_RETRIES})")
-                time.sleep(wait)
-            else:
-                raise
+        elif status == 429 and attempt < MAX_RETRIES - 1:
+            wait = 30 * (attempt + 1)
+            print(f"Rate limited (429), retrying in {wait}s... (attempt {attempt + 1}/{MAX_RETRIES})")
+            time.sleep(wait)
+        else:
+            raise RuntimeError(f"Instagram API error: {status}")
     return []
 
 
@@ -104,13 +103,13 @@ def extract_title(caption_text):
 
 
 def download_image(url, filepath):
-    """Download image from URL using stdlib only."""
+    """Download image from URL using curl."""
     try:
-        req = Request(url, headers={"User-Agent": HEADERS["User-Agent"]})
-        with urlopen(req, timeout=30) as resp:
-            with open(filepath, "wb") as f:
-                f.write(resp.read())
-        return True
+        result = subprocess.run(
+            ["curl", "-s", "-L", "-o", str(filepath), url],
+            timeout=30,
+        )
+        return result.returncode == 0
     except Exception as e:
         print(f"  Error downloading: {e}")
         return False
@@ -189,8 +188,8 @@ def main():
     print("Fetching recent posts from Instagram...")
     try:
         posts = fetch_recent_posts()
-    except HTTPError as e:
-        print(f"Instagram API error: {e.code} {e.reason}")
+    except Exception as e:
+        print(f"Instagram API error: {e}")
         sys.exit(1)
     print(f"Got {len(posts)} posts")
 
